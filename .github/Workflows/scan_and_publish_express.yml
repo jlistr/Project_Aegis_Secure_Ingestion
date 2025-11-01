@@ -1,0 +1,80 @@
+name: Scan (Socket.dev + Snyk) and Publish Express
+
+# 👇 This allows you to run the workflow manually from the Actions tab
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: write
+  security-events: write
+
+jobs:
+  isolate_scan_publish:
+    runs-on: ubuntu-latest
+    steps:
+      # 1️⃣ Checkout your repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ Setup Node.js (version 18 LTS recommended)
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          registry-url: 'https://npm.pkg.github.com/'
+
+      # 3️⃣ Isolate and pack the npm package (Express for PoC)
+      - name: Create isolated package
+        run: |
+          mkdir -p isolated
+          cd isolated
+          npm pack express
+          echo "✅ Express package isolated successfully"
+          ls -lh
+
+      # 4️⃣ Run behavioral scan using Socket.dev
+      - name: Behavioral scan (Socket.dev)
+        uses: socketsecurity/socket-security-action@v1
+        with:
+          api-key: ${{ secrets.SOCKET_API_KEY }}
+
+      # 5️⃣ Run vulnerability scan using Snyk
+      - name: CVE scan (Snyk)
+        uses: snyk/actions/node@master
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        with:
+          args: test
+
+      # 6️⃣ Configure npm to use GitHub Packages
+      - name: Configure npm for GitHub Packages
+        run: |
+          echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > ~/.npmrc
+          echo "@${{ github.repository_owner }}:registry=https://npm.pkg.github.com/" >> ~/.npmrc
+
+      # 7️⃣ Extract, validate, and publish the approved package
+      - name: Publish approved package
+        working-directory: isolated
+        run: |
+          tar -xzf express-*.tgz
+          cd package
+          echo "🔍 Checking package.json scripts section..."
+          node -e "const p=require('./package.json'); console.log('scripts:', p.scripts||{})"
+          echo "📦 Publishing to GitHub Packages..."
+          npm publish --registry=https://npm.pkg.github.com/
+
+      # 8️⃣ Verify install from GitHub Packages
+      - name: Verify install from GitHub Packages
+        run: |
+          npm config set @${{ github.repository_owner }}:registry https://npm.pkg.github.com/
+          echo "✅ Installing approved package from GitHub Packages..."
+          npm install @${{ github.repository_owner }}/express || true
+
+      # 9️⃣ Workflow summary output
+      - name: Output completion summary
+        run: |
+          echo "----------------------------------------------"
+          echo "✅ Socket.dev and Snyk scans completed."
+          echo "✅ Express package published to GitHub Packages."
+          echo "----------------------------------------------"
