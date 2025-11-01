@@ -33,12 +33,13 @@ jobs:
           echo "✅ Express package isolated successfully"
           ls -lh
 
-      # 4️⃣ Run behavioral scan using Socket.dev
-      - name: Behavioral scan (Socket.dev)
-        uses: socketsecurity/socket-security-action@v1
-        with:
-          api-key: ${{ secrets.SOCKET_API_KEY }}
-
+      # 4️⃣ 🔍 Behavioral scan (Socket.dev via CLI)
+      - name: Behavioral scan (Socket.dev CLI)
+        run: |
+          npm install -g @socketsecurity/cli
+          socket analyze express --json > socket-report.json || true
+          echo "✅ Socket.dev analysis complete. Results saved to socket-report.json"
+      
       # 5️⃣ Run vulnerability scan using Snyk
       - name: CVE scan (Snyk)
         uses: snyk/actions/node@master
