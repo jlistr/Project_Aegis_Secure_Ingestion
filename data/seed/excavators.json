@@ -1,0 +1,2833 @@
+[
+  {
+    "id": "d696767b-1b70-41dd-8474-285b6ae063ae",
+    "company_name": "Runolfsdottir, Tromp and Stanton Excavation",
+    "contact_name": "Lance Yundt",
+    "phone": "210-688-2607",
+    "email": "mireille27@yahoo.com",
+    "address": "2410 Doyle Lakes",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "36724",
+    "years_in_business": 1,
+    "compliance_metrics": {
+      "compliance_score": 95,
+      "one_call_tickets_filed": 233,
+      "late_tickets": 9,
+      "no_show_rate": 0,
+      "pre_mark_rate": 0.99
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 1,
+      "damages_all_time": 4,
+      "by_utility_type": {
+        "gas": 2,
+        "electric": 0,
+        "water": 1,
+        "telecom": 1
+      },
+      "by_severity": {
+        "minor": 2,
+        "major": 1,
+        "critical": 0
+      },
+      "at_fault_rate": 0.53,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "loader",
+        "dozer"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "First Aid",
+      "Confined Space",
+      "OSHA 10"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "excellent",
+    "created_at": "2025-03-14T17:56:12.703Z"
+  },
+  {
+    "id": "57b57c22-5f1f-4dbd-9e64-a8c4f6482a81",
+    "company_name": "Schmidt - Schuppe Company",
+    "contact_name": "Marguerite Ryan-Kemmer V",
+    "phone": "210-630-9780",
+    "email": "ines.dach@yahoo.com",
+    "address": "669 Station Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "87470",
+    "years_in_business": 17,
+    "compliance_metrics": {
+      "compliance_score": 87,
+      "one_call_tickets_filed": 783,
+      "late_tickets": 54,
+      "no_show_rate": 0.07,
+      "pre_mark_rate": 0.7
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 1,
+      "damages_24mo": 5,
+      "damages_all_time": 11,
+      "by_utility_type": {
+        "gas": 4,
+        "electric": 1,
+        "water": 1,
+        "telecom": 5
+      },
+      "by_severity": {
+        "minor": 6,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.59,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 261
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "excavator",
+        "backhoe",
+        "skid_steer",
+        "dozer"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "trenchless"
+    },
+    "certifications": [
+      "OSHA 30",
+      "Confined Space",
+      "First Aid",
+      "OSHA 10"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2025-01-26T06:08:45.756Z"
+  },
+  {
+    "id": "8e2a32b1-724f-461c-96c9-8123f888a2eb",
+    "company_name": "Wiegand - Leffler Services",
+    "contact_name": "Katrina Robel",
+    "phone": "210-110-5472",
+    "email": "cory.hodkiewicz9@hotmail.com",
+    "address": "267 Ash Road",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "93702",
+    "years_in_business": 9,
+    "compliance_metrics": {
+      "compliance_score": 52,
+      "one_call_tickets_filed": 482,
+      "late_tickets": 110,
+      "no_show_rate": 0.25,
+      "pre_mark_rate": 0.54
+    },
+    "damage_history": {
+      "damages_6mo": 7,
+      "damages_12mo": 10,
+      "damages_24mo": 13,
+      "damages_all_time": 16,
+      "by_utility_type": {
+        "gas": 7,
+        "electric": 3,
+        "water": 1,
+        "telecom": 5
+      },
+      "by_severity": {
+        "minor": 9,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.91,
+      "damage_trend": "increasing",
+      "last_damage_days_ago": 24
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "dozer",
+        "excavator",
+        "skid_steer",
+        "backhoe"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 30",
+      "First Aid",
+      "Confined Space",
+      "OSHA 10"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2024-03-19T14:51:09.593Z"
+  },
+  {
+    "id": "60de6b17-cb32-4711-bac7-cb0b59023707",
+    "company_name": "Sipes Group Solutions",
+    "contact_name": "Mr. Antonio Bogan",
+    "phone": "210-014-1189",
+    "email": "oleta_glover13@yahoo.com",
+    "address": "38560 Station Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "92142",
+    "years_in_business": 28,
+    "compliance_metrics": {
+      "compliance_score": 40,
+      "one_call_tickets_filed": 592,
+      "late_tickets": 171,
+      "no_show_rate": 0.23,
+      "pre_mark_rate": 0.35
+    },
+    "damage_history": {
+      "damages_6mo": 4,
+      "damages_12mo": 6,
+      "damages_24mo": 7,
+      "damages_all_time": 9,
+      "by_utility_type": {
+        "gas": 2,
+        "electric": 1,
+        "water": 1,
+        "telecom": 5
+      },
+      "by_severity": {
+        "minor": 5,
+        "major": 2,
+        "critical": 0
+      },
+      "at_fault_rate": 0.89,
+      "damage_trend": "increasing",
+      "last_damage_days_ago": 66
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "trencher",
+        "skid_steer",
+        "backhoe"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "boring"
+    },
+    "certifications": [
+      "OSHA 10",
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2023-06-02T20:53:36.333Z"
+  },
+  {
+    "id": "048f9c75-4d82-4fd8-8a3a-430511906121",
+    "company_name": "Russel Group LLC",
+    "contact_name": "Rufus O'Conner",
+    "phone": "210-179-7044",
+    "email": "jada_stroman89@gmail.com",
+    "address": "558 Schmidt Parkway",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "44395",
+    "years_in_business": 15,
+    "compliance_metrics": {
+      "compliance_score": 97,
+      "one_call_tickets_filed": 740,
+      "late_tickets": 22,
+      "no_show_rate": 0.01,
+      "pre_mark_rate": 0.97
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 3,
+      "damages_all_time": 12,
+      "by_utility_type": {
+        "gas": 4,
+        "electric": 2,
+        "water": 0,
+        "telecom": 6
+      },
+      "by_severity": {
+        "minor": 7,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.51,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "dozer",
+        "backhoe"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Confined Space",
+      "OSHA 30",
+      "Trench Safety"
+    ],
+    "insurance_status": "lapsed",
+    "risk_profile": "excellent",
+    "created_at": "2023-01-08T10:02:36.866Z"
+  },
+  {
+    "id": "7ffb6782-c152-4460-a2d1-80bcb60191a6",
+    "company_name": "Kihn Group Excavation",
+    "contact_name": "Stella Stanton",
+    "phone": "210-669-5669",
+    "email": "lorenzo_reichert@yahoo.com",
+    "address": "61919 Schumm Ways",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "87727",
+    "years_in_business": 14,
+    "compliance_metrics": {
+      "compliance_score": 56,
+      "one_call_tickets_filed": 498,
+      "late_tickets": 74,
+      "no_show_rate": 0.13,
+      "pre_mark_rate": 0.4
+    },
+    "damage_history": {
+      "damages_6mo": 3,
+      "damages_12mo": 9,
+      "damages_24mo": 11,
+      "damages_all_time": 22,
+      "by_utility_type": {
+        "gas": 6,
+        "electric": 1,
+        "water": 0,
+        "telecom": 15
+      },
+      "by_severity": {
+        "minor": 13,
+        "major": 6,
+        "critical": 2
+      },
+      "at_fault_rate": 0.93,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 32
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "dozer",
+        "excavator"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "First Aid",
+      "Trench Safety",
+      "Confined Space"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2024-08-19T23:49:18.538Z"
+  },
+  {
+    "id": "1955f2f4-75d8-4b81-9c9c-fe984bdc9628",
+    "company_name": "Balistreri and Sons Solutions",
+    "contact_name": "Neil Stark",
+    "phone": "210-118-4973",
+    "email": "skyla.dickinson82@gmail.com",
+    "address": "26581 N Center Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "96243",
+    "years_in_business": 28,
+    "compliance_metrics": {
+      "compliance_score": 91,
+      "one_call_tickets_filed": 92,
+      "late_tickets": 0,
+      "no_show_rate": 0.03,
+      "pre_mark_rate": 0.99
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 5,
+      "damages_all_time": 13,
+      "by_utility_type": {
+        "gas": 3,
+        "electric": 3,
+        "water": 2,
+        "telecom": 5
+      },
+      "by_severity": {
+        "minor": 7,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.59,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "loader",
+        "skid_steer",
+        "dozer"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "boring"
+    },
+    "certifications": [
+      "First Aid",
+      "OSHA 10",
+      "Confined Space"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "excellent",
+    "created_at": "2023-11-23T12:46:35.608Z"
+  },
+  {
+    "id": "c060234d-fee3-40fd-a218-2f29d26ca86c",
+    "company_name": "Langworth, Conn and Ward Corp",
+    "contact_name": "Nina Kuhlman",
+    "phone": "210-256-5639",
+    "email": "quinton.barrows@yahoo.com",
+    "address": "3287 Jevon Roads",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "25222",
+    "years_in_business": 9,
+    "compliance_metrics": {
+      "compliance_score": 76,
+      "one_call_tickets_filed": 377,
+      "late_tickets": 41,
+      "no_show_rate": 0.1,
+      "pre_mark_rate": 0.68
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 2,
+      "damages_all_time": 17,
+      "by_utility_type": {
+        "gas": 7,
+        "electric": 1,
+        "water": 2,
+        "telecom": 7
+      },
+      "by_severity": {
+        "minor": 10,
+        "major": 5,
+        "critical": 1
+      },
+      "at_fault_rate": 0.64,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "excavator",
+        "trencher"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Trench Safety",
+      "Confined Space",
+      "OSHA 30"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2024-09-07T01:03:39.315Z"
+  },
+  {
+    "id": "dd26a07a-0ed5-448e-b2c6-281874218675",
+    "company_name": "Spencer Inc Contractors",
+    "contact_name": "Jacqueline Effertz",
+    "phone": "210-723-9421",
+    "email": "glen15@hotmail.com",
+    "address": "52641 Jody Fords",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "89909",
+    "years_in_business": 9,
+    "compliance_metrics": {
+      "compliance_score": 86,
+      "one_call_tickets_filed": 784,
+      "late_tickets": 86,
+      "no_show_rate": 0.03,
+      "pre_mark_rate": 0.81
+    },
+    "damage_history": {
+      "damages_6mo": 3,
+      "damages_12mo": 3,
+      "damages_24mo": 7,
+      "damages_all_time": 16,
+      "by_utility_type": {
+        "gas": 7,
+        "electric": 2,
+        "water": 3,
+        "telecom": 4
+      },
+      "by_severity": {
+        "minor": 9,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.51,
+      "damage_trend": "increasing",
+      "last_damage_days_ago": 56
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "backhoe",
+        "excavator",
+        "skid_steer",
+        "loader"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 10",
+      "Confined Space"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2025-05-07T23:37:34.918Z"
+  },
+  {
+    "id": "a576b710-8964-4c41-af1b-6bebb79ff67a",
+    "company_name": "Nolan - Bogisich Corp",
+    "contact_name": "Jacob Bosco Jr.",
+    "phone": "210-810-9015",
+    "email": "novella32@hotmail.com",
+    "address": "558 W Union Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "82330",
+    "years_in_business": 15,
+    "compliance_metrics": {
+      "compliance_score": 88,
+      "one_call_tickets_filed": 579,
+      "late_tickets": 86,
+      "no_show_rate": 0.07,
+      "pre_mark_rate": 0.68
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 3,
+      "damages_24mo": 3,
+      "damages_all_time": 14,
+      "by_utility_type": {
+        "gas": 4,
+        "electric": 4,
+        "water": 1,
+        "telecom": 5
+      },
+      "by_severity": {
+        "minor": 8,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.65,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 358
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "backhoe",
+        "skid_steer",
+        "trencher"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 30",
+      "First Aid",
+      "Trench Safety",
+      "Confined Space"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2024-10-25T18:24:42.966Z"
+  },
+  {
+    "id": "76a17d01-50ac-47c7-a1cd-181215ec0b07",
+    "company_name": "Kilback and Sons Utilities",
+    "contact_name": "Allan Johnson",
+    "phone": "210-354-7814",
+    "email": "monroe.lueilwitz@hotmail.com",
+    "address": "270 State Line Road",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "38802",
+    "years_in_business": 20,
+    "compliance_metrics": {
+      "compliance_score": 74,
+      "one_call_tickets_filed": 163,
+      "late_tickets": 21,
+      "no_show_rate": 0.04,
+      "pre_mark_rate": 0.64
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 5,
+      "damages_all_time": 17,
+      "by_utility_type": {
+        "gas": 1,
+        "electric": 3,
+        "water": 2,
+        "telecom": 11
+      },
+      "by_severity": {
+        "minor": 10,
+        "major": 5,
+        "critical": 1
+      },
+      "at_fault_rate": 0.63,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "loader",
+        "dozer",
+        "skid_steer",
+        "trencher"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "boring"
+    },
+    "certifications": [
+      "OSHA 30",
+      "OSHA 10",
+      "Confined Space"
+    ],
+    "insurance_status": "lapsed",
+    "risk_profile": "average",
+    "created_at": "2025-02-07T20:55:47.419Z"
+  },
+  {
+    "id": "5539487a-68f8-4d1f-a642-14de09021db8",
+    "company_name": "Breitenberg, Buckridge and Rice Corp",
+    "contact_name": "Mrs. Norma O'Conner",
+    "phone": "210-871-5039",
+    "email": "rodrigo.boyer1@gmail.com",
+    "address": "5223 Kellie Terrace",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "63026",
+    "years_in_business": 30,
+    "compliance_metrics": {
+      "compliance_score": 59,
+      "one_call_tickets_filed": 313,
+      "late_tickets": 68,
+      "no_show_rate": 0.25,
+      "pre_mark_rate": 0.31
+    },
+    "damage_history": {
+      "damages_6mo": 3,
+      "damages_12mo": 7,
+      "damages_24mo": 10,
+      "damages_all_time": 23,
+      "by_utility_type": {
+        "gas": 2,
+        "electric": 4,
+        "water": 4,
+        "telecom": 13
+      },
+      "by_severity": {
+        "minor": 13,
+        "major": 6,
+        "critical": 2
+      },
+      "at_fault_rate": 0.8,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 171
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "loader",
+        "dozer",
+        "backhoe"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": true,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 30"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2023-04-09T06:39:47.588Z"
+  },
+  {
+    "id": "acf74f51-2a17-47f3-9d0f-027668d3ef36",
+    "company_name": "Wilderman, Purdy and Boyle Company",
+    "contact_name": "Theresa Greenholt V",
+    "phone": "210-824-9817",
+    "email": "louie0@gmail.com",
+    "address": "7652 Ethyl Viaduct",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "26701",
+    "years_in_business": 9,
+    "compliance_metrics": {
+      "compliance_score": 80,
+      "one_call_tickets_filed": 177,
+      "late_tickets": 21,
+      "no_show_rate": 0.04,
+      "pre_mark_rate": 0.77
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 5,
+      "damages_all_time": 20,
+      "by_utility_type": {
+        "gas": 5,
+        "electric": 3,
+        "water": 2,
+        "telecom": 10
+      },
+      "by_severity": {
+        "minor": 12,
+        "major": 6,
+        "critical": 2
+      },
+      "at_fault_rate": 0.74,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "trencher",
+        "skid_steer",
+        "loader"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": true,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 30",
+      "Trench Safety",
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2023-07-07T05:21:30.243Z"
+  },
+  {
+    "id": "dc0848a6-2cea-4d70-8bf4-997aa8a29cb0",
+    "company_name": "Kautzer, Kreiger and Wunsch Contractors",
+    "contact_name": "Darryl Bernhard",
+    "phone": "210-501-8814",
+    "email": "arianna.metz54@hotmail.com",
+    "address": "267 Turcotte Mission",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "44148",
+    "years_in_business": 6,
+    "compliance_metrics": {
+      "compliance_score": 88,
+      "one_call_tickets_filed": 135,
+      "late_tickets": 8,
+      "no_show_rate": 0.1,
+      "pre_mark_rate": 0.84
+    },
+    "damage_history": {
+      "damages_6mo": 1,
+      "damages_12mo": 3,
+      "damages_24mo": 7,
+      "damages_all_time": 20,
+      "by_utility_type": {
+        "gas": 2,
+        "electric": 2,
+        "water": 3,
+        "telecom": 13
+      },
+      "by_severity": {
+        "minor": 12,
+        "major": 6,
+        "critical": 2
+      },
+      "at_fault_rate": 0.66,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 161
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "backhoe",
+        "loader"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Confined Space",
+      "OSHA 30"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2023-10-20T11:50:55.393Z"
+  },
+  {
+    "id": "959f5bb0-24ba-4231-a1eb-b25f35a5104e",
+    "company_name": "Bayer, Yost and Hane Corp",
+    "contact_name": "Elena Koss",
+    "phone": "210-830-0040",
+    "email": "greta27@gmail.com",
+    "address": "554 Kuvalis Ferry",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "75218",
+    "years_in_business": 25,
+    "compliance_metrics": {
+      "compliance_score": 70,
+      "one_call_tickets_filed": 237,
+      "late_tickets": 26,
+      "no_show_rate": 0.04,
+      "pre_mark_rate": 0.8
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 1,
+      "damages_24mo": 6,
+      "damages_all_time": 15,
+      "by_utility_type": {
+        "gas": 4,
+        "electric": 2,
+        "water": 0,
+        "telecom": 9
+      },
+      "by_severity": {
+        "minor": 9,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.69,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 351
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "excavator",
+        "trencher",
+        "loader"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 10",
+      "First Aid",
+      "Trench Safety",
+      "OSHA 30"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2024-08-01T13:29:13.895Z"
+  },
+  {
+    "id": "a3396b9f-28e9-43c8-b72b-3000093d5191",
+    "company_name": "Harris, Bosco and Watsica Solutions",
+    "contact_name": "Jeremiah Hintz",
+    "phone": "210-774-7668",
+    "email": "pearline_heathcote@gmail.com",
+    "address": "334 Sophia Fall",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "37853",
+    "years_in_business": 22,
+    "compliance_metrics": {
+      "compliance_score": 87,
+      "one_call_tickets_filed": 388,
+      "late_tickets": 19,
+      "no_show_rate": 0.1,
+      "pre_mark_rate": 0.6
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 4,
+      "damages_all_time": 12,
+      "by_utility_type": {
+        "gas": 1,
+        "electric": 4,
+        "water": 2,
+        "telecom": 5
+      },
+      "by_severity": {
+        "minor": 7,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.74,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "loader"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "trenchless"
+    },
+    "certifications": [
+      "OSHA 30"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2022-12-22T03:19:43.542Z"
+  },
+  {
+    "id": "6bb44754-68bc-480a-b57f-9f2d9986c91f",
+    "company_name": "Bailey, Kunze and Fisher Solutions",
+    "contact_name": "Geneva Rowe DDS",
+    "phone": "210-292-4534",
+    "email": "christian_pagac@yahoo.com",
+    "address": "13918 Elm Road",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "44622",
+    "years_in_business": 22,
+    "compliance_metrics": {
+      "compliance_score": 100,
+      "one_call_tickets_filed": 647,
+      "late_tickets": 12,
+      "no_show_rate": 0.01,
+      "pre_mark_rate": 0.9
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 0,
+      "damages_all_time": 14,
+      "by_utility_type": {
+        "gas": 0,
+        "electric": 1,
+        "water": 3,
+        "telecom": 10
+      },
+      "by_severity": {
+        "minor": 8,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.58,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "excavator",
+        "skid_steer",
+        "dozer",
+        "loader"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "boring"
+    },
+    "certifications": [
+      "First Aid",
+      "Trench Safety",
+      "OSHA 10"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "excellent",
+    "created_at": "2025-02-01T01:53:23.207Z"
+  },
+  {
+    "id": "7691b100-6528-4bf3-92a5-48c55174f3d5",
+    "company_name": "Block Inc Services",
+    "contact_name": "Desiree Willms",
+    "phone": "210-408-6741",
+    "email": "cheyenne.heller0@yahoo.com",
+    "address": "10606 Kovacek Alley",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "79121",
+    "years_in_business": 18,
+    "compliance_metrics": {
+      "compliance_score": 81,
+      "one_call_tickets_filed": 482,
+      "late_tickets": 67,
+      "no_show_rate": 0.07,
+      "pre_mark_rate": 0.75
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 3,
+      "damages_all_time": 5,
+      "by_utility_type": {
+        "gas": 1,
+        "electric": 0,
+        "water": 2,
+        "telecom": 2
+      },
+      "by_severity": {
+        "minor": 3,
+        "major": 1,
+        "critical": 0
+      },
+      "at_fault_rate": 0.72,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "loader",
+        "dozer"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Trench Safety"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2025-09-01T14:07:37.674Z"
+  },
+  {
+    "id": "f5c48280-f5ea-49fa-aad3-50e83d2cd0d5",
+    "company_name": "Jenkins - VonRueden Utilities",
+    "contact_name": "Seth Kunde I",
+    "phone": "210-321-8512",
+    "email": "zoila.greenholt@gmail.com",
+    "address": "2218 Abernathy Groves",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "70955",
+    "years_in_business": 21,
+    "compliance_metrics": {
+      "compliance_score": 95,
+      "one_call_tickets_filed": 667,
+      "late_tickets": 0,
+      "no_show_rate": 0.02,
+      "pre_mark_rate": 0.99
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 0,
+      "damages_all_time": 12,
+      "by_utility_type": {
+        "gas": 0,
+        "electric": 2,
+        "water": 2,
+        "telecom": 8
+      },
+      "by_severity": {
+        "minor": 7,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.59,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "excavator",
+        "trencher",
+        "dozer",
+        "loader"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "trenchless"
+    },
+    "certifications": [
+      "OSHA 10"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "excellent",
+    "created_at": "2024-02-02T01:02:02.409Z"
+  },
+  {
+    "id": "d34a8c60-01ac-425a-87df-3dd5368038c0",
+    "company_name": "Hodkiewicz - Hartmann Excavation",
+    "contact_name": "Billie Schoen",
+    "phone": "210-688-5419",
+    "email": "giles.altenwerth@gmail.com",
+    "address": "271 Cronin Square",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "43009",
+    "years_in_business": 1,
+    "compliance_metrics": {
+      "compliance_score": 79,
+      "one_call_tickets_filed": 617,
+      "late_tickets": 80,
+      "no_show_rate": 0.04,
+      "pre_mark_rate": 0.66
+    },
+    "damage_history": {
+      "damages_6mo": 1,
+      "damages_12mo": 1,
+      "damages_24mo": 1,
+      "damages_all_time": 1,
+      "by_utility_type": {
+        "gas": 1,
+        "telecom": 0
+      },
+      "by_severity": {
+        "minor": 0,
+        "major": 0,
+        "critical": 0
+      },
+      "at_fault_rate": 0.5,
+      "damage_trend": "increasing",
+      "last_damage_days_ago": 66
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "backhoe",
+        "dozer",
+        "loader",
+        "skid_steer"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Trench Safety"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2024-12-25T15:42:00.849Z"
+  },
+  {
+    "id": "c170f5b4-8aa6-4dbc-b0c3-bdb16656e839",
+    "company_name": "Doyle Group Utilities",
+    "contact_name": "Miss Alicia Hayes",
+    "phone": "210-886-1080",
+    "email": "derek51@yahoo.com",
+    "address": "255 Water Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "24871",
+    "years_in_business": 4,
+    "compliance_metrics": {
+      "compliance_score": 77,
+      "one_call_tickets_filed": 648,
+      "late_tickets": 64,
+      "no_show_rate": 0.05,
+      "pre_mark_rate": 0.74
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 1,
+      "damages_24mo": 1,
+      "damages_all_time": 11,
+      "by_utility_type": {
+        "gas": 3,
+        "electric": 0,
+        "water": 1,
+        "telecom": 7
+      },
+      "by_severity": {
+        "minor": 6,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.69,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 298
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "loader",
+        "trencher"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Confined Space",
+      "OSHA 10"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2025-08-31T09:39:40.308Z"
+  },
+  {
+    "id": "6323c556-f914-4493-b49f-a777e6df07a6",
+    "company_name": "Reichel - Olson Corp",
+    "contact_name": "Arlene Hessel",
+    "phone": "210-738-0372",
+    "email": "katrina.wisoky24@gmail.com",
+    "address": "8127 Deontae Underpass",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "06554",
+    "years_in_business": 6,
+    "compliance_metrics": {
+      "compliance_score": 78,
+      "one_call_tickets_filed": 462,
+      "late_tickets": 27,
+      "no_show_rate": 0.1,
+      "pre_mark_rate": 0.66
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 2,
+      "damages_all_time": 8,
+      "by_utility_type": {
+        "gas": 1,
+        "electric": 3,
+        "water": 0,
+        "telecom": 4
+      },
+      "by_severity": {
+        "minor": 4,
+        "major": 2,
+        "critical": 0
+      },
+      "at_fault_rate": 0.56,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "excavator"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Confined Space",
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2025-10-04T21:24:09.291Z"
+  },
+  {
+    "id": "a5ac3e4b-f2aa-4c39-9c5a-a633cb2bbd4a",
+    "company_name": "Mayert - Ward LLC",
+    "contact_name": "Mario McClure",
+    "phone": "210-566-2877",
+    "email": "teresa53@hotmail.com",
+    "address": "383 Schuppe Walk",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "26182",
+    "years_in_business": 12,
+    "compliance_metrics": {
+      "compliance_score": 90,
+      "one_call_tickets_filed": 744,
+      "late_tickets": 37,
+      "no_show_rate": 0.02,
+      "pre_mark_rate": 0.99
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 1,
+      "damages_all_time": 13,
+      "by_utility_type": {
+        "gas": 6,
+        "electric": 3,
+        "water": 2,
+        "telecom": 2
+      },
+      "by_severity": {
+        "minor": 7,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.59,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "excavator",
+        "backhoe",
+        "loader",
+        "trencher"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": true,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 30"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "excellent",
+    "created_at": "2025-07-30T06:26:46.397Z"
+  },
+  {
+    "id": "20f00298-c276-4102-8d4d-9fbf4f265cc0",
+    "company_name": "Gleichner, Crist and Graham Development",
+    "contact_name": "Brandi Orn",
+    "phone": "210-723-2234",
+    "email": "erich.oberbrunner63@gmail.com",
+    "address": "144 Kaitlyn Meadow",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "88394",
+    "years_in_business": 26,
+    "compliance_metrics": {
+      "compliance_score": 65,
+      "one_call_tickets_filed": 548,
+      "late_tickets": 158,
+      "no_show_rate": 0.22,
+      "pre_mark_rate": 0.5
+    },
+    "damage_history": {
+      "damages_6mo": 3,
+      "damages_12mo": 8,
+      "damages_24mo": 8,
+      "damages_all_time": 22,
+      "by_utility_type": {
+        "gas": 9,
+        "electric": 0,
+        "water": 0,
+        "telecom": 13
+      },
+      "by_severity": {
+        "minor": 13,
+        "major": 6,
+        "critical": 2
+      },
+      "at_fault_rate": 0.8,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 102
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "loader",
+        "dozer",
+        "trencher",
+        "skid_steer"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 30",
+      "Confined Space",
+      "Trench Safety"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2024-07-09T08:31:26.304Z"
+  },
+  {
+    "id": "6dd6d720-68ca-461e-8487-f00ecbe12668",
+    "company_name": "Reichert and Sons Construction",
+    "contact_name": "Paul Morissette",
+    "phone": "210-969-1585",
+    "email": "verona.hand8@gmail.com",
+    "address": "95282 Maurice Glens",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "21628",
+    "years_in_business": 23,
+    "compliance_metrics": {
+      "compliance_score": 76,
+      "one_call_tickets_filed": 298,
+      "late_tickets": 20,
+      "no_show_rate": 0.07,
+      "pre_mark_rate": 0.61
+    },
+    "damage_history": {
+      "damages_6mo": 1,
+      "damages_12mo": 1,
+      "damages_24mo": 4,
+      "damages_all_time": 8,
+      "by_utility_type": {
+        "gas": 1,
+        "electric": 1,
+        "water": 2,
+        "telecom": 4
+      },
+      "by_severity": {
+        "minor": 4,
+        "major": 2,
+        "critical": 0
+      },
+      "at_fault_rate": 0.52,
+      "damage_trend": "increasing",
+      "last_damage_days_ago": 16
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "trencher",
+        "loader"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Confined Space",
+      "Trench Safety",
+      "OSHA 10"
+    ],
+    "insurance_status": "lapsed",
+    "risk_profile": "average",
+    "created_at": "2023-10-11T08:44:27.587Z"
+  },
+  {
+    "id": "74d0d06a-070c-413c-b099-c384e8eb154d",
+    "company_name": "Conn Group LLC",
+    "contact_name": "Maryann Von",
+    "phone": "210-466-5491",
+    "email": "vincent_prohaska@gmail.com",
+    "address": "806 Barton Flats",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "06073",
+    "years_in_business": 23,
+    "compliance_metrics": {
+      "compliance_score": 81,
+      "one_call_tickets_filed": 464,
+      "late_tickets": 51,
+      "no_show_rate": 0.06,
+      "pre_mark_rate": 0.81
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 2,
+      "damages_24mo": 6,
+      "damages_all_time": 13,
+      "by_utility_type": {
+        "gas": 6,
+        "electric": 2,
+        "water": 2,
+        "telecom": 3
+      },
+      "by_severity": {
+        "minor": 7,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.66,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 364
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "excavator",
+        "dozer",
+        "trencher"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "boring"
+    },
+    "certifications": [
+      "Trench Safety",
+      "OSHA 30",
+      "Confined Space",
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2025-06-05T11:52:44.370Z"
+  },
+  {
+    "id": "ce2b9d64-4407-441a-93ea-d095972e1f25",
+    "company_name": "Littel LLC Corp",
+    "contact_name": "Allen Boyer",
+    "phone": "210-796-9419",
+    "email": "jacky.rau25@hotmail.com",
+    "address": "2536 Rau Circle",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "82342",
+    "years_in_business": 19,
+    "compliance_metrics": {
+      "compliance_score": 87,
+      "one_call_tickets_filed": 771,
+      "late_tickets": 69,
+      "no_show_rate": 0.04,
+      "pre_mark_rate": 0.65
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 2,
+      "damages_all_time": 5,
+      "by_utility_type": {
+        "gas": 0,
+        "electric": 1,
+        "water": 0,
+        "telecom": 4
+      },
+      "by_severity": {
+        "minor": 3,
+        "major": 1,
+        "critical": 0
+      },
+      "at_fault_rate": 0.51,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "backhoe",
+        "skid_steer",
+        "dozer",
+        "excavator"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "First Aid",
+      "Trench Safety"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2023-02-12T06:12:53.027Z"
+  },
+  {
+    "id": "281e1da6-7504-4cd0-9312-296068974d06",
+    "company_name": "Graham, Stiedemann and Davis Excavation",
+    "contact_name": "Terrell Lubowitz Sr.",
+    "phone": "210-254-6139",
+    "email": "lenna5@hotmail.com",
+    "address": "11135 Coleman Alley",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "03742",
+    "years_in_business": 28,
+    "compliance_metrics": {
+      "compliance_score": 49,
+      "one_call_tickets_filed": 783,
+      "late_tickets": 172,
+      "no_show_rate": 0.13,
+      "pre_mark_rate": 0.33
+    },
+    "damage_history": {
+      "damages_6mo": 4,
+      "damages_12mo": 6,
+      "damages_24mo": 7,
+      "damages_all_time": 16,
+      "by_utility_type": {
+        "gas": 0,
+        "electric": 1,
+        "water": 2,
+        "telecom": 13
+      },
+      "by_severity": {
+        "minor": 9,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.82,
+      "damage_trend": "increasing",
+      "last_damage_days_ago": 124
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "trencher",
+        "excavator",
+        "backhoe",
+        "skid_steer"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "trenchless"
+    },
+    "certifications": [
+      "OSHA 10",
+      "Trench Safety",
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2023-05-06T10:51:47.159Z"
+  },
+  {
+    "id": "dafb3368-1f4f-4009-8290-d7d81a7e20f1",
+    "company_name": "Howell - Hudson Utilities",
+    "contact_name": "Sandy Larson",
+    "phone": "210-522-8950",
+    "email": "nicola71@hotmail.com",
+    "address": "35924 Kurtis Parks",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "47189",
+    "years_in_business": 22,
+    "compliance_metrics": {
+      "compliance_score": 92,
+      "one_call_tickets_filed": 410,
+      "late_tickets": 20,
+      "no_show_rate": 0.01,
+      "pre_mark_rate": 0.92
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 2,
+      "damages_all_time": 7,
+      "by_utility_type": {
+        "gas": 2,
+        "electric": 1,
+        "water": 2,
+        "telecom": 2
+      },
+      "by_severity": {
+        "minor": 4,
+        "major": 2,
+        "critical": 0
+      },
+      "at_fault_rate": 0.62,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "excavator",
+        "dozer",
+        "skid_steer"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": true,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Trench Safety",
+      "OSHA 30",
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "excellent",
+    "created_at": "2025-04-10T08:32:45.450Z"
+  },
+  {
+    "id": "06825cc3-845f-486e-8802-b166046d153d",
+    "company_name": "Bednar - Hayes Corp",
+    "contact_name": "Ronald Bergnaum",
+    "phone": "210-456-2553",
+    "email": "garry_feil@yahoo.com",
+    "address": "499 Marisol Lake",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "80790",
+    "years_in_business": 19,
+    "compliance_metrics": {
+      "compliance_score": 80,
+      "one_call_tickets_filed": 412,
+      "late_tickets": 37,
+      "no_show_rate": 0.03,
+      "pre_mark_rate": 0.67
+    },
+    "damage_history": {
+      "damages_6mo": 1,
+      "damages_12mo": 1,
+      "damages_24mo": 1,
+      "damages_all_time": 14,
+      "by_utility_type": {
+        "gas": 2,
+        "electric": 2,
+        "water": 3,
+        "telecom": 7
+      },
+      "by_severity": {
+        "minor": 8,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.61,
+      "damage_trend": "increasing",
+      "last_damage_days_ago": 94
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "backhoe",
+        "skid_steer",
+        "trencher",
+        "dozer"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": true,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 10",
+      "Confined Space"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2024-05-29T23:20:57.712Z"
+  },
+  {
+    "id": "b3a758cf-0406-48c7-b67b-058d404d7f97",
+    "company_name": "Reilly - Price Excavation",
+    "contact_name": "Ms. Jenny Bogan",
+    "phone": "210-679-4226",
+    "email": "karelle_daugherty@yahoo.com",
+    "address": "171 Gregg Wall",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "23381",
+    "years_in_business": 4,
+    "compliance_metrics": {
+      "compliance_score": 68,
+      "one_call_tickets_filed": 719,
+      "late_tickets": 251,
+      "no_show_rate": 0.19,
+      "pre_mark_rate": 0.34
+    },
+    "damage_history": {
+      "damages_6mo": 3,
+      "damages_12mo": 6,
+      "damages_24mo": 7,
+      "damages_all_time": 9,
+      "by_utility_type": {
+        "gas": 4,
+        "electric": 1,
+        "water": 0,
+        "telecom": 4
+      },
+      "by_severity": {
+        "minor": 5,
+        "major": 2,
+        "critical": 0
+      },
+      "at_fault_rate": 0.91,
+      "damage_trend": "stable",
+      "last_damage_days_ago": 130
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "dozer",
+        "excavator"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "boring"
+    },
+    "certifications": [
+      "First Aid",
+      "OSHA 10",
+      "Confined Space",
+      "OSHA 30"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2024-05-28T17:08:33.943Z"
+  },
+  {
+    "id": "d5cf55b3-0202-4c7d-b66c-1ceaa05454cf",
+    "company_name": "Weissnat, Wunsch and Douglas Construction",
+    "contact_name": "Winston Cartwright",
+    "phone": "210-389-7243",
+    "email": "alverta11@gmail.com",
+    "address": "1829 Crist Fall",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "74105",
+    "years_in_business": 13,
+    "compliance_metrics": {
+      "compliance_score": 48,
+      "one_call_tickets_filed": 239,
+      "late_tickets": 69,
+      "no_show_rate": 0.15,
+      "pre_mark_rate": 0.33
+    },
+    "damage_history": {
+      "damages_6mo": 5,
+      "damages_12mo": 11,
+      "damages_24mo": 14,
+      "damages_all_time": 15,
+      "by_utility_type": {
+        "gas": 2,
+        "electric": 6,
+        "water": 3,
+        "telecom": 4
+      },
+      "by_severity": {
+        "minor": 9,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.8,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 72
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "trencher",
+        "backhoe",
+        "excavator"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "boring"
+    },
+    "certifications": [
+      "OSHA 10",
+      "Trench Safety",
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2025-10-02T20:12:21.065Z"
+  },
+  {
+    "id": "beddf23f-60f6-4fa2-80fc-ebd429e7f36b",
+    "company_name": "Carroll - Dach Construction",
+    "contact_name": "Tim Feest-Corkery",
+    "phone": "210-809-1883",
+    "email": "general.ryan11@gmail.com",
+    "address": "98490 Treutel Curve",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "56197",
+    "years_in_business": 29,
+    "compliance_metrics": {
+      "compliance_score": 89,
+      "one_call_tickets_filed": 460,
+      "late_tickets": 46,
+      "no_show_rate": 0.09,
+      "pre_mark_rate": 0.75
+    },
+    "damage_history": {
+      "damages_6mo": 2,
+      "damages_12mo": 3,
+      "damages_24mo": 4,
+      "damages_all_time": 9,
+      "by_utility_type": {
+        "gas": 4,
+        "electric": 0,
+        "water": 0,
+        "telecom": 5
+      },
+      "by_severity": {
+        "minor": 5,
+        "major": 2,
+        "critical": 0
+      },
+      "at_fault_rate": 0.74,
+      "damage_trend": "increasing",
+      "last_damage_days_ago": 108
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "dozer",
+        "loader",
+        "excavator"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "First Aid",
+      "Confined Space",
+      "OSHA 30",
+      "OSHA 10"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2024-05-09T06:25:46.044Z"
+  },
+  {
+    "id": "fe2fd5ba-0268-4542-980d-bdbfb691acd0",
+    "company_name": "Considine and Sons Group",
+    "contact_name": "Isaac Labadie II",
+    "phone": "210-341-7710",
+    "email": "sonya_bartoletti51@gmail.com",
+    "address": "365 Broadway Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "21313",
+    "years_in_business": 6,
+    "compliance_metrics": {
+      "compliance_score": 88,
+      "one_call_tickets_filed": 270,
+      "late_tickets": 24,
+      "no_show_rate": 0.04,
+      "pre_mark_rate": 0.8
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 1,
+      "damages_all_time": 15,
+      "by_utility_type": {
+        "gas": 0,
+        "electric": 5,
+        "water": 0,
+        "telecom": 10
+      },
+      "by_severity": {
+        "minor": 9,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.66,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "backhoe",
+        "excavator",
+        "trencher",
+        "skid_steer"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Confined Space"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2025-09-28T19:17:49.530Z"
+  },
+  {
+    "id": "523c2d7f-09aa-418b-92fe-ea5b3069ef3a",
+    "company_name": "Corwin - Oberbrunner Company",
+    "contact_name": "Ms. Jessie Franecki",
+    "phone": "210-209-1422",
+    "email": "willard.kautzer-dickinson@yahoo.com",
+    "address": "5974 Kaya Springs",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "09642",
+    "years_in_business": 23,
+    "compliance_metrics": {
+      "compliance_score": 91,
+      "one_call_tickets_filed": 673,
+      "late_tickets": 20,
+      "no_show_rate": 0.01,
+      "pre_mark_rate": 0.95
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 2,
+      "damages_all_time": 13,
+      "by_utility_type": {
+        "gas": 6,
+        "electric": 3,
+        "water": 1,
+        "telecom": 3
+      },
+      "by_severity": {
+        "minor": 7,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.73,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "backhoe",
+        "loader"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": true,
+      "excavation_method": "boring"
+    },
+    "certifications": [
+      "First Aid",
+      "Confined Space",
+      "OSHA 30"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "excellent",
+    "created_at": "2022-11-17T23:13:34.223Z"
+  },
+  {
+    "id": "8dbe3496-de54-4927-8e19-cf39e0e59a64",
+    "company_name": "Rowe and Sons Utilities",
+    "contact_name": "Joe Flatley V",
+    "phone": "210-251-1972",
+    "email": "candice97@yahoo.com",
+    "address": "71381 Deckow Haven",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "58744",
+    "years_in_business": 7,
+    "compliance_metrics": {
+      "compliance_score": 55,
+      "one_call_tickets_filed": 639,
+      "late_tickets": 121,
+      "no_show_rate": 0.13,
+      "pre_mark_rate": 0.36
+    },
+    "damage_history": {
+      "damages_6mo": 3,
+      "damages_12mo": 6,
+      "damages_24mo": 11,
+      "damages_all_time": 23,
+      "by_utility_type": {
+        "gas": 6,
+        "electric": 7,
+        "water": 1,
+        "telecom": 9
+      },
+      "by_severity": {
+        "minor": 13,
+        "major": 6,
+        "critical": 2
+      },
+      "at_fault_rate": 0.93,
+      "damage_trend": "stable",
+      "last_damage_days_ago": 56
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "loader",
+        "backhoe",
+        "excavator"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Trench Safety",
+      "First Aid",
+      "OSHA 10"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2023-03-02T09:59:18.095Z"
+  },
+  {
+    "id": "2f45c3d1-02b1-47d1-a844-a3abbe939a01",
+    "company_name": "Nitzsche, O'Connell and Schumm Construction",
+    "contact_name": "Lauren Schuster",
+    "phone": "210-880-9748",
+    "email": "savannah_greenholt60@yahoo.com",
+    "address": "88494 Park Avenue",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "84230",
+    "years_in_business": 18,
+    "compliance_metrics": {
+      "compliance_score": 86,
+      "one_call_tickets_filed": 760,
+      "late_tickets": 60,
+      "no_show_rate": 0.1,
+      "pre_mark_rate": 0.61
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 2,
+      "damages_24mo": 3,
+      "damages_all_time": 16,
+      "by_utility_type": {
+        "gas": 4,
+        "electric": 4,
+        "water": 1,
+        "telecom": 7
+      },
+      "by_severity": {
+        "minor": 9,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.62,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 311
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "excavator",
+        "loader",
+        "skid_steer"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Trench Safety",
+      "OSHA 30",
+      "First Aid",
+      "Confined Space"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2025-08-20T07:58:22.107Z"
+  },
+  {
+    "id": "1dfa8b8e-04ba-424b-98b2-2a76f39e7233",
+    "company_name": "Russel, Hoeger and Hermiston Excavation",
+    "contact_name": "Shirley Flatley-Conroy",
+    "phone": "210-494-3141",
+    "email": "leo22@gmail.com",
+    "address": "6942 Airport Road",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "65153",
+    "years_in_business": 22,
+    "compliance_metrics": {
+      "compliance_score": 81,
+      "one_call_tickets_filed": 132,
+      "late_tickets": 13,
+      "no_show_rate": 0.03,
+      "pre_mark_rate": 0.75
+    },
+    "damage_history": {
+      "damages_6mo": 1,
+      "damages_12mo": 2,
+      "damages_24mo": 4,
+      "damages_all_time": 8,
+      "by_utility_type": {
+        "gas": 4,
+        "electric": 2,
+        "water": 0,
+        "telecom": 2
+      },
+      "by_severity": {
+        "minor": 4,
+        "major": 2,
+        "critical": 0
+      },
+      "at_fault_rate": 0.74,
+      "damage_trend": "stable",
+      "last_damage_days_ago": 146
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "dozer",
+        "trencher",
+        "excavator"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 30",
+      "Trench Safety"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2025-10-04T18:30:57.579Z"
+  },
+  {
+    "id": "c6d706cc-8e9c-42bc-9623-8ef3aa220b97",
+    "company_name": "Barton Group Development",
+    "contact_name": "Angelica Bartoletti",
+    "phone": "210-500-2331",
+    "email": "caitlyn97@gmail.com",
+    "address": "4878 West End",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "94953",
+    "years_in_business": 28,
+    "compliance_metrics": {
+      "compliance_score": 47,
+      "one_call_tickets_filed": 403,
+      "late_tickets": 72,
+      "no_show_rate": 0.11,
+      "pre_mark_rate": 0.38
+    },
+    "damage_history": {
+      "damages_6mo": 5,
+      "damages_12mo": 10,
+      "damages_24mo": 10,
+      "damages_all_time": 13,
+      "by_utility_type": {
+        "gas": 3,
+        "electric": 1,
+        "water": 2,
+        "telecom": 7
+      },
+      "by_severity": {
+        "minor": 7,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.84,
+      "damage_trend": "stable",
+      "last_damage_days_ago": 153
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "excavator",
+        "loader",
+        "skid_steer",
+        "dozer"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "trenchless"
+    },
+    "certifications": [
+      "OSHA 30",
+      "Trench Safety"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2023-08-14T05:12:16.672Z"
+  },
+  {
+    "id": "a4a8210a-3128-4dd9-a03a-ee3027ecf03c",
+    "company_name": "Reichel, Ryan and Feil Excavation",
+    "contact_name": "Hattie Brekke",
+    "phone": "210-921-9809",
+    "email": "bennett.bernier19@yahoo.com",
+    "address": "65000 Ash Grove",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "28293",
+    "years_in_business": 5,
+    "compliance_metrics": {
+      "compliance_score": 95,
+      "one_call_tickets_filed": 219,
+      "late_tickets": 2,
+      "no_show_rate": 0.01,
+      "pre_mark_rate": 0.98
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 3,
+      "damages_all_time": 3,
+      "by_utility_type": {
+        "gas": 1,
+        "electric": 1,
+        "water": 1,
+        "telecom": 0
+      },
+      "by_severity": {
+        "minor": 1,
+        "major": 0,
+        "critical": 0
+      },
+      "at_fault_rate": 0.7,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "trencher",
+        "loader"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": true,
+      "excavation_method": "boring"
+    },
+    "certifications": [
+      "OSHA 10",
+      "Confined Space",
+      "First Aid",
+      "Trench Safety"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "excellent",
+    "created_at": "2024-09-09T10:32:40.971Z"
+  },
+  {
+    "id": "22635651-e46d-43ff-a008-aaaba6d8c2f8",
+    "company_name": "Grady - McGlynn Corp",
+    "contact_name": "Wendell Harris",
+    "phone": "210-295-0537",
+    "email": "kelvin26@gmail.com",
+    "address": "4417 Wava Manors",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "92781",
+    "years_in_business": 6,
+    "compliance_metrics": {
+      "compliance_score": 93,
+      "one_call_tickets_filed": 460,
+      "late_tickets": 4,
+      "no_show_rate": 0.02,
+      "pre_mark_rate": 0.86
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 2,
+      "damages_all_time": 10,
+      "by_utility_type": {
+        "gas": 2,
+        "electric": 2,
+        "water": 2,
+        "telecom": 4
+      },
+      "by_severity": {
+        "minor": 6,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.72,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "skid_steer",
+        "backhoe",
+        "trencher"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 10",
+      "Confined Space"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "excellent",
+    "created_at": "2024-07-28T10:08:26.463Z"
+  },
+  {
+    "id": "707ac952-11b3-48c2-8da2-30fbd347dab3",
+    "company_name": "Pagac LLC Utilities",
+    "contact_name": "Ana Abbott",
+    "phone": "210-046-3380",
+    "email": "meredith.cassin@hotmail.com",
+    "address": "34373 Manchester Road",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "33058",
+    "years_in_business": 13,
+    "compliance_metrics": {
+      "compliance_score": 72,
+      "one_call_tickets_filed": 266,
+      "late_tickets": 26,
+      "no_show_rate": 0.03,
+      "pre_mark_rate": 0.79
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 1,
+      "damages_24mo": 6,
+      "damages_all_time": 18,
+      "by_utility_type": {
+        "gas": 2,
+        "electric": 3,
+        "water": 0,
+        "telecom": 13
+      },
+      "by_severity": {
+        "minor": 10,
+        "major": 5,
+        "critical": 1
+      },
+      "at_fault_rate": 0.61,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 273
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "trencher",
+        "loader"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": true,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "First Aid",
+      "OSHA 10"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2023-10-20T08:16:37.468Z"
+  },
+  {
+    "id": "5d38da3a-1091-4137-a0cb-419d13e1302f",
+    "company_name": "Kunde, Crooks and Shanahan Construction",
+    "contact_name": "Bernice Rosenbaum",
+    "phone": "210-674-5472",
+    "email": "ramon_watsica@hotmail.com",
+    "address": "74052 Rau Ford",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "64692",
+    "years_in_business": 15,
+    "compliance_metrics": {
+      "compliance_score": 74,
+      "one_call_tickets_filed": 665,
+      "late_tickets": 73,
+      "no_show_rate": 0.07,
+      "pre_mark_rate": 0.69
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 1,
+      "damages_all_time": 6,
+      "by_utility_type": {
+        "gas": 1,
+        "electric": 2,
+        "water": 1,
+        "telecom": 2
+      },
+      "by_severity": {
+        "minor": 3,
+        "major": 1,
+        "critical": 0
+      },
+      "at_fault_rate": 0.52,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "excavator",
+        "trencher",
+        "loader"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "OSHA 30",
+      "Confined Space",
+      "Trench Safety",
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2024-05-15T14:18:53.537Z"
+  },
+  {
+    "id": "d4faeea2-81ad-42b0-9191-03d812e35d56",
+    "company_name": "Kulas - Hilpert Utilities",
+    "contact_name": "Jesse Schoen",
+    "phone": "210-443-7290",
+    "email": "marion.murray36@hotmail.com",
+    "address": "489 E Oak Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "18910",
+    "years_in_business": 28,
+    "compliance_metrics": {
+      "compliance_score": 72,
+      "one_call_tickets_filed": 334,
+      "late_tickets": 30,
+      "no_show_rate": 0.03,
+      "pre_mark_rate": 0.78
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 3,
+      "damages_24mo": 8,
+      "damages_all_time": 8,
+      "by_utility_type": {
+        "gas": 0,
+        "electric": 0,
+        "water": 3,
+        "telecom": 5
+      },
+      "by_severity": {
+        "minor": 4,
+        "major": 2,
+        "critical": 0
+      },
+      "at_fault_rate": 0.56,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 349
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "loader",
+        "dozer",
+        "trencher",
+        "skid_steer"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2024-01-03T21:50:20.694Z"
+  },
+  {
+    "id": "f7427342-5101-41a3-801b-0e6e6415a85d",
+    "company_name": "Fay LLC Development",
+    "contact_name": "Alan Mills DVM",
+    "phone": "210-347-3119",
+    "email": "oswaldo_cummings45@yahoo.com",
+    "address": "1185 County Line Road",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "63684",
+    "years_in_business": 18,
+    "compliance_metrics": {
+      "compliance_score": 70,
+      "one_call_tickets_filed": 711,
+      "late_tickets": 241,
+      "no_show_rate": 0.2,
+      "pre_mark_rate": 0.32
+    },
+    "damage_history": {
+      "damages_6mo": 5,
+      "damages_12mo": 7,
+      "damages_24mo": 11,
+      "damages_all_time": 26,
+      "by_utility_type": {
+        "gas": 7,
+        "electric": 6,
+        "water": 4,
+        "telecom": 9
+      },
+      "by_severity": {
+        "minor": 15,
+        "major": 7,
+        "critical": 2
+      },
+      "at_fault_rate": 0.86,
+      "damage_trend": "increasing",
+      "last_damage_days_ago": 22
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "dozer",
+        "trencher",
+        "skid_steer"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "boring"
+    },
+    "certifications": [
+      "Confined Space"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2023-12-09T08:54:57.194Z"
+  },
+  {
+    "id": "e99c0f77-4bc9-498e-af23-f409ae067345",
+    "company_name": "Bergstrom - Volkman Corp",
+    "contact_name": "Juanita Feest DDS",
+    "phone": "210-426-8475",
+    "email": "alfonzo67@hotmail.com",
+    "address": "6560 Alva Island",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "82970",
+    "years_in_business": 30,
+    "compliance_metrics": {
+      "compliance_score": 78,
+      "one_call_tickets_filed": 624,
+      "late_tickets": 43,
+      "no_show_rate": 0.03,
+      "pre_mark_rate": 0.73
+    },
+    "damage_history": {
+      "damages_6mo": 2,
+      "damages_12mo": 2,
+      "damages_24mo": 3,
+      "damages_all_time": 6,
+      "by_utility_type": {
+        "gas": 2,
+        "electric": 0,
+        "water": 2,
+        "telecom": 2
+      },
+      "by_severity": {
+        "minor": 3,
+        "major": 1,
+        "critical": 0
+      },
+      "at_fault_rate": 0.61,
+      "damage_trend": "increasing",
+      "last_damage_days_ago": 97
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "excavator",
+        "backhoe"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Trench Safety",
+      "OSHA 30"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2023-05-17T22:32:22.165Z"
+  },
+  {
+    "id": "436ee084-83af-403c-a644-80b61020c927",
+    "company_name": "Corwin, Schowalter and Stracke Utilities",
+    "contact_name": "Gerard Donnelly",
+    "phone": "210-289-3876",
+    "email": "garland80@yahoo.com",
+    "address": "106 Sonia Ford",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "47355",
+    "years_in_business": 20,
+    "compliance_metrics": {
+      "compliance_score": 76,
+      "one_call_tickets_filed": 186,
+      "late_tickets": 14,
+      "no_show_rate": 0.07,
+      "pre_mark_rate": 0.74
+    },
+    "damage_history": {
+      "damages_6mo": 1,
+      "damages_12mo": 3,
+      "damages_24mo": 5,
+      "damages_all_time": 11,
+      "by_utility_type": {
+        "gas": 0,
+        "electric": 3,
+        "water": 2,
+        "telecom": 6
+      },
+      "by_severity": {
+        "minor": 6,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.63,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 107
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "loader",
+        "trencher"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2023-09-30T05:34:56.258Z"
+  },
+  {
+    "id": "f519fb18-da57-4d1a-a9f0-0f96d65c7e57",
+    "company_name": "Wintheiser LLC Utilities",
+    "contact_name": "Adrian Hauck I",
+    "phone": "210-432-0277",
+    "email": "henri.reichel99@hotmail.com",
+    "address": "12902 Christop Land",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "12179",
+    "years_in_business": 18,
+    "compliance_metrics": {
+      "compliance_score": 71,
+      "one_call_tickets_filed": 418,
+      "late_tickets": 54,
+      "no_show_rate": 0.1,
+      "pre_mark_rate": 0.62
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 0,
+      "damages_24mo": 4,
+      "damages_all_time": 18,
+      "by_utility_type": {
+        "gas": 7,
+        "electric": 3,
+        "water": 3,
+        "telecom": 5
+      },
+      "by_severity": {
+        "minor": 10,
+        "major": 5,
+        "critical": 1
+      },
+      "at_fault_rate": 0.5,
+      "damage_trend": "stable",
+      "last_damage_days_ago": null
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "dozer",
+        "loader"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Trench Safety",
+      "OSHA 10"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2023-09-09T20:34:09.610Z"
+  },
+  {
+    "id": "0485ea99-3dbc-49b7-851a-0f286f6d97e1",
+    "company_name": "Effertz and Sons Development",
+    "contact_name": "Dennis Simonis",
+    "phone": "210-840-9672",
+    "email": "max50@gmail.com",
+    "address": "684 Schultz Green",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "00186",
+    "years_in_business": 7,
+    "compliance_metrics": {
+      "compliance_score": 54,
+      "one_call_tickets_filed": 382,
+      "late_tickets": 72,
+      "no_show_rate": 0.1,
+      "pre_mark_rate": 0.33
+    },
+    "damage_history": {
+      "damages_6mo": 4,
+      "damages_12mo": 9,
+      "damages_24mo": 10,
+      "damages_all_time": 16,
+      "by_utility_type": {
+        "gas": 1,
+        "electric": 6,
+        "water": 2,
+        "telecom": 7
+      },
+      "by_severity": {
+        "minor": 9,
+        "major": 4,
+        "critical": 1
+      },
+      "at_fault_rate": 0.93,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 67
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "loader",
+        "skid_steer",
+        "excavator",
+        "trencher"
+      ],
+      "uses_vacuum_excavation": false,
+      "uses_hydro_excavation": false,
+      "excavation_method": "mechanical"
+    },
+    "certifications": [
+      "Confined Space",
+      "Trench Safety"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "high_risk",
+    "created_at": "2024-11-19T03:58:03.334Z"
+  },
+  {
+    "id": "ce08fa43-24f5-43f8-bbd8-43892fab93ac",
+    "company_name": "Senger Inc Development",
+    "contact_name": "Woodrow Smith Sr.",
+    "phone": "210-673-0759",
+    "email": "reynold.mayert@gmail.com",
+    "address": "667 Marsh Lane",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "72291",
+    "years_in_business": 23,
+    "compliance_metrics": {
+      "compliance_score": 73,
+      "one_call_tickets_filed": 357,
+      "late_tickets": 24,
+      "no_show_rate": 0.07,
+      "pre_mark_rate": 0.78
+    },
+    "damage_history": {
+      "damages_6mo": 0,
+      "damages_12mo": 1,
+      "damages_24mo": 4,
+      "damages_all_time": 13,
+      "by_utility_type": {
+        "gas": 6,
+        "electric": 1,
+        "water": 2,
+        "telecom": 4
+      },
+      "by_severity": {
+        "minor": 7,
+        "major": 3,
+        "critical": 1
+      },
+      "at_fault_rate": 0.51,
+      "damage_trend": "decreasing",
+      "last_damage_days_ago": 272
+    },
+    "equipment_profile": {
+      "primary_equipment": [
+        "backhoe",
+        "dozer",
+        "excavator",
+        "loader"
+      ],
+      "uses_vacuum_excavation": true,
+      "uses_hydro_excavation": false,
+      "excavation_method": "trenchless"
+    },
+    "certifications": [
+      "Trench Safety",
+      "First Aid"
+    ],
+    "insurance_status": "active",
+    "risk_profile": "average",
+    "created_at": "2024-01-26T10:13:50.232Z"
+  }
+]

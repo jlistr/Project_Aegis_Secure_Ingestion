@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-03T14:24:56.333Z",
+  "counts": {
+    "excavators": 50,
+    "employees": 25,
+    "tickets": 1000,
+    "damages": 100
+  },
+  "statistics": {
+    "excavators": {
+      "high_risk": 12,
+      "excellent": 10,
+      "average": 28,
+      "total_damages_recorded": 646
+    },
+    "employees": {
+      "senior": 5,
+      "locator": 13,
+      "trainee": 7,
+      "avg_experience_years": "4.0",
+      "zero_damages": 23
+    },
+    "tickets": {
+      "emergency": 50,
+      "non_compliant": 110,
+      "routine": 840,
+      "with_gas": 432,
+      "with_electric": 404,
+      "avg_distance_miles": "0.78"
+    },
+    "damages": {
+      "critical": 6,
+      "major": 39,
+      "minor": 55,
+      "excavator_fault": 73,
+      "locator_fault": 15,
+      "total_cost": "$8,902,151",
+      "avg_cost": "$89,022"
+    }
+  },
+  "demo_scenarios": {
+    "critical_risk": "TX-2025-999001",
+    "low_risk": "TX-2025-500123",
+    "complex_multi_utility": "TX-2025-750456"
+  },
+  "generation_time_seconds": "0.33"
+}

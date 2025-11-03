@@ -6,7 +6,12 @@
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
-    "test": "node src/tests/send_test_locate.js"
+    "test": "node src/tests/send_test_locate.js",
+    "generate:data": "node data/generators/generateAll.js",
+    "generate:excavators": "node data/generators/generateExcavators.js",
+    "generate:employees": "node data/generators/generateEmployees.js",
+    "generate:tickets": "node data/generators/generateTickets.js",
+    "generate:damages": "node data/generators/generateDamages.js"
   },
   "dependencies": {
     "express": "^4.18.2",
@@ -14,6 +19,8 @@
     "express-rate-limit": "^6.7.0",
     "zod": "^3.21.4",
     "pino": "^8.16.0",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "@faker-js/faker": "^8.3.1",
+    "@turf/turf": "^6.5.0"
   }
 }

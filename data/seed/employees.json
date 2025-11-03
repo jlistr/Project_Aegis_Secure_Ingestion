@@ -1,0 +1,3953 @@
+[
+  {
+    "id": "0a24881e-3708-4ff8-a10b-e6f26e804a94",
+    "employee_number": "LOC-0001",
+    "first_name": "Yessenia",
+    "last_name": "Quigley",
+    "email": "providenci_bernhard@gmail.com",
+    "phone": "210-980-2417",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2021-07-18",
+      "years_experience": 4.3,
+      "years_with_company": 4.3,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 3440
+    },
+    "certifications": [
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2023-12-29",
+        "expiration_date": "2026-06-25"
+      },
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2023-03-04",
+        "expiration_date": "2027-08-05"
+      },
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2025-07-05",
+        "expiration_date": "2027-01-25"
+      }
+    ],
+    "specialties": [
+      "electric",
+      "water",
+      "telecom",
+      "high_voltage"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.96,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 0,
+      "average_completion_time_hours": 3.4,
+      "rework_rate": 0.04,
+      "customer_satisfaction": 4.7,
+      "tickets_completed_30d": 60
+    },
+    "current_workload": {
+      "tickets_today": 1,
+      "tickets_this_week": 18,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.125,
+      "ticket_breakdown": {
+        "routine": 1,
+        "high_risk": 0,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.79360000000001,
+              29.18477319915621
+            ],
+            [
+              -98.8537671102501,
+              29.154423167738745
+            ],
+            [
+              -98.8537316229826,
+              29.093749985006912
+            ],
+            [
+              -98.79360000000001,
+              29.063426800843786
+            ],
+            [
+              -98.73346837701742,
+              29.093749985006912
+            ],
+            [
+              -98.73343288974992,
+              29.154423167738745
+            ],
+            [
+              -98.79360000000001,
+              29.18477319915621
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.7936,
+          29.1241
+        ]
+      },
+      "description": "Zone A1"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.4468,
+          29.4092
+        ]
+      },
+      "last_location_update": "2025-11-03T12:15:40.129Z"
+    },
+    "training_history": [
+      {
+        "course": "Excavation Safety",
+        "date": "2024-11-12",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2025-02-15",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2023-01-20",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2023-07-09",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2022-01-21",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2022-12-28",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2021-11-07",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2022-03-29",
+        "instructor": "CPS Energy"
+      }
+    ],
+    "notable_experience": [
+      "Expert in difficult soil conditions and deep utilities",
+      "Completed 50+ tickets for hospital expansion project"
+    ],
+    "active": true,
+    "created_at": "2021-07-18",
+    "updated_at": "2025-11-03T14:24:56.031Z",
+    "full_name": "Yessenia Quigley"
+  },
+  {
+    "id": "dcf7c72f-53eb-4a1f-acc8-d98ad0d9fa07",
+    "employee_number": "LOC-0002",
+    "first_name": "Herminia",
+    "last_name": "Kihn",
+    "email": "jay_satterfield33@yahoo.com",
+    "phone": "210-046-8619",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2022-06-11",
+      "years_experience": 3.4,
+      "years_with_company": 3.4,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 2720
+    },
+    "certifications": [
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2024-04-13",
+        "expiration_date": "2026-10-26"
+      },
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2022-11-06",
+        "expiration_date": "2027-09-07"
+      },
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2025-10-04",
+        "expiration_date": "2026-06-24"
+      },
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2023-11-24",
+        "expiration_date": "2026-10-06"
+      }
+    ],
+    "specialties": [
+      "telecom",
+      "electric",
+      "water"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.96,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 3.2,
+      "rework_rate": 0.04,
+      "customer_satisfaction": 4,
+      "tickets_completed_30d": 80
+    },
+    "current_workload": {
+      "tickets_today": 2,
+      "tickets_this_week": 18,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.25,
+      "ticket_breakdown": {
+        "routine": 1,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.5
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.6436,
+              29.20187769845241
+            ],
+            [
+              -98.72073535397685,
+              29.162966772902074
+            ],
+            [
+              -98.72067703782326,
+              29.085189109048667
+            ],
+            [
+              -98.6436,
+              29.046322301547594
+            ],
+            [
+              -98.56652296217676,
+              29.085189109048667
+            ],
+            [
+              -98.56646464602318,
+              29.162966772902074
+            ],
+            [
+              -98.6436,
+              29.20187769845241
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.6436,
+          29.1241
+        ]
+      },
+      "description": "Zone A2"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.3806,
+          29.3002
+        ]
+      },
+      "last_location_update": "2025-11-03T13:10:12.774Z"
+    },
+    "training_history": [
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2025-06-12",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2023-03-07",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2023-04-22",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2023-06-02",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2023-06-05",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2025-01-08",
+        "instructor": "OUPS"
+      }
+    ],
+    "notable_experience": [
+      "Perfect safety record for 24 consecutive months",
+      "Handled 3 emergency gas leak locates without incident"
+    ],
+    "active": true,
+    "created_at": "2022-06-11",
+    "updated_at": "2025-11-03T14:24:56.031Z",
+    "full_name": "Herminia Kihn"
+  },
+  {
+    "id": "56f51579-3312-44c8-b456-eff082c0f65a",
+    "employee_number": "LOC-0003",
+    "first_name": "Marlen",
+    "last_name": "Beer",
+    "email": "nettie.goyette49@yahoo.com",
+    "phone": "210-615-1130",
+    "role": "trainee",
+    "experience": {
+      "hire_date": "2024-08-22",
+      "years_experience": 1.2,
+      "years_with_company": 1.2,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 960
+    },
+    "certifications": [
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2025-02-25",
+        "expiration_date": "2027-01-21"
+      }
+    ],
+    "specialties": [
+      "water",
+      "gas"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.88,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 0,
+      "average_completion_time_hours": 4,
+      "rework_rate": 0.1,
+      "customer_satisfaction": 4.1,
+      "tickets_completed_30d": 61
+    },
+    "current_workload": {
+      "tickets_today": 4,
+      "tickets_this_week": 29,
+      "max_capacity_daily": 5,
+      "current_utilization": 0.8,
+      "ticket_breakdown": {
+        "routine": 4,
+        "high_risk": 0,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.4936,
+              29.19693941411378
+            ],
+            [
+              -98.56583611843016,
+              29.160500346053823
+            ],
+            [
+              -98.5657849724381,
+              29.087660960358317
+            ],
+            [
+              -98.4936,
+              29.051260585886222
+            ],
+            [
+              -98.42141502756192,
+              29.087660960358317
+            ],
+            [
+              -98.42136388156985,
+              29.160500346053823
+            ],
+            [
+              -98.4936,
+              29.19693941411378
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.4936,
+          29.1241
+        ]
+      },
+      "description": "Zone A3"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.4459,
+          29.4732
+        ]
+      },
+      "last_location_update": "2025-11-03T14:15:39.348Z"
+    },
+    "training_history": [
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2024-09-21",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2024-11-06",
+        "instructor": "NULCA"
+      }
+    ],
+    "notable_experience": [],
+    "active": true,
+    "created_at": "2024-08-22",
+    "updated_at": "2025-11-03T14:24:56.031Z",
+    "full_name": "Marlen Beer"
+  },
+  {
+    "id": "ac510676-de7b-4d7e-a23e-9b9cb448fee9",
+    "employee_number": "LOC-0004",
+    "first_name": "Jasmin",
+    "last_name": "Ferry",
+    "email": "elfrieda_bayer@hotmail.com",
+    "phone": "210-984-5587",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2022-01-16",
+      "years_experience": 3.8,
+      "years_with_company": 3.8,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 3040
+    },
+    "certifications": [
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2025-10-08",
+        "expiration_date": "2026-09-21"
+      },
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2024-09-20",
+        "expiration_date": "2026-09-03"
+      },
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2025-06-01",
+        "expiration_date": "2025-11-06"
+      }
+    ],
+    "specialties": [
+      "fiber_optics",
+      "high_voltage",
+      "electric"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.93,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 2.8,
+      "rework_rate": 0.03,
+      "customer_satisfaction": 4.5,
+      "tickets_completed_30d": 20
+    },
+    "current_workload": {
+      "tickets_today": 4,
+      "tickets_this_week": 13,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.5,
+      "ticket_breakdown": {
+        "routine": 2,
+        "high_risk": 2,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.5
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.34359999999998,
+              29.192012361106848
+            ],
+            [
+              -98.4109482599587,
+              29.158039351059603
+            ],
+            [
+              -98.41090379924798,
+              29.09012701298544
+            ],
+            [
+              -98.34359999999998,
+              29.05618763889315
+            ],
+            [
+              -98.276296200752,
+              29.09012701298544
+            ],
+            [
+              -98.27625174004127,
+              29.158039351059603
+            ],
+            [
+              -98.34359999999998,
+              29.192012361106848
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.3436,
+          29.1241
+        ]
+      },
+      "description": "Zone A4"
+    },
+    "availability": {
+      "status": "off_shift",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.4891,
+          29.3417
+        ]
+      },
+      "last_location_update": "2025-11-03T14:04:42.538Z"
+    },
+    "training_history": [
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2024-03-05",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2022-10-07",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2023-09-07",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2024-08-08",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2024-12-08",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2023-11-11",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2022-03-31",
+        "instructor": "OUPS"
+      }
+    ],
+    "notable_experience": [
+      "Completed 50+ tickets for hospital expansion project",
+      "Successfully located utilities at 15+ complex industrial sites"
+    ],
+    "active": true,
+    "created_at": "2022-01-16",
+    "updated_at": "2025-11-03T14:24:56.032Z",
+    "full_name": "Jasmin Ferry"
+  },
+  {
+    "id": "4d31d1a1-40f1-40b8-841e-98b80a35fcf3",
+    "employee_number": "LOC-0005",
+    "first_name": "Doris",
+    "last_name": "Hahn",
+    "email": "gilda.gutmann@yahoo.com",
+    "phone": "210-188-6248",
+    "role": "trainee",
+    "experience": {
+      "hire_date": "2025-05-05",
+      "years_experience": 0.5,
+      "years_with_company": 0.5,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 400
+    },
+    "certifications": [
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2025-08-03",
+        "expiration_date": "2025-11-09"
+      }
+    ],
+    "specialties": [
+      "telecom",
+      "fiber_optics"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.88,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 3.4,
+      "rework_rate": 0.1,
+      "customer_satisfaction": 4.2,
+      "tickets_completed_30d": 85
+    },
+    "current_workload": {
+      "tickets_today": 0,
+      "tickets_this_week": 32,
+      "max_capacity_daily": 5,
+      "current_utilization": 0,
+      "ticket_breakdown": {
+        "routine": 0,
+        "high_risk": 0,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.19360000000002,
+              29.19346215474866
+            ],
+            [
+              -98.26238649621668,
+              29.158763521401738
+            ],
+            [
+              -98.26234011694896,
+              29.0894013911926
+            ],
+            [
+              -98.19360000000002,
+              29.05473784525134
+            ],
+            [
+              -98.12485988305104,
+              29.0894013911926
+            ],
+            [
+              -98.12481350378334,
+              29.158763521401738
+            ],
+            [
+              -98.19360000000002,
+              29.19346215474866
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.1936,
+          29.1241
+        ]
+      },
+      "description": "Zone A5"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.5255,
+          29.5202
+        ]
+      },
+      "last_location_update": "2025-11-03T13:06:56.371Z"
+    },
+    "training_history": [
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2025-07-31",
+        "instructor": "Internal Training"
+      }
+    ],
+    "notable_experience": [],
+    "active": true,
+    "created_at": "2025-05-05",
+    "updated_at": "2025-11-03T14:24:56.032Z",
+    "full_name": "Doris Hahn"
+  },
+  {
+    "id": "43cb94d2-8dfb-4b67-b54b-6f7e1697bd00",
+    "employee_number": "LOC-0006",
+    "first_name": "Christine",
+    "last_name": "Schmitt",
+    "email": "cruz_brekke@gmail.com",
+    "phone": "210-525-3775",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2022-09-29",
+      "years_experience": 3.1,
+      "years_with_company": 3.1,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 2480
+    },
+    "certifications": [
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2023-05-26",
+        "expiration_date": "2026-05-14"
+      },
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2025-01-08",
+        "expiration_date": "2027-07-05"
+      },
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2023-10-07",
+        "expiration_date": "2027-03-24"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2023-07-07",
+        "expiration_date": "2027-10-17"
+      },
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2024-07-23",
+        "expiration_date": "2026-08-02"
+      }
+    ],
+    "specialties": [
+      "telecom",
+      "fiber_optics",
+      "gas"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.96,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 2.7,
+      "rework_rate": 0.05,
+      "customer_satisfaction": 4.7,
+      "tickets_completed_30d": 30
+    },
+    "current_workload": {
+      "tickets_today": 1,
+      "tickets_this_week": 9,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.125,
+      "ticket_breakdown": {
+        "routine": 1,
+        "high_risk": 0,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.79360000000001,
+              29.35862905140742
+            ],
+            [
+              -98.87755666150372,
+              29.316338287872018
+            ],
+            [
+              -98.87748725567495,
+              29.231809281143168
+            ],
+            [
+              -98.79360000000001,
+              29.189570948592586
+            ],
+            [
+              -98.70971274432507,
+              29.231809281143168
+            ],
+            [
+              -98.70964333849632,
+              29.316338287872018
+            ],
+            [
+              -98.79360000000001,
+              29.35862905140742
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.7936,
+          29.2741
+        ]
+      },
+      "description": "Zone B1"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.5993,
+          29.5476
+        ]
+      },
+      "last_location_update": "2025-11-03T12:44:40.560Z"
+    },
+    "training_history": [
+      {
+        "course": "Basic Utility Locating",
+        "date": "2025-06-06",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2024-03-21",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2024-03-26",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2024-03-08",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2022-12-28",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2025-03-20",
+        "instructor": "NULCA"
+      }
+    ],
+    "notable_experience": [
+      "Completed 50+ tickets for hospital expansion project",
+      "Successfully located utilities at 15+ complex industrial sites"
+    ],
+    "active": true,
+    "created_at": "2022-09-29",
+    "updated_at": "2025-11-03T14:24:56.032Z",
+    "full_name": "Christine Schmitt"
+  },
+  {
+    "id": "354a22e4-358d-4811-8312-87827a3c91d0",
+    "employee_number": "LOC-0007",
+    "first_name": "Friedrich",
+    "last_name": "Willms",
+    "email": "zachariah42@hotmail.com",
+    "phone": "210-415-5669",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2022-12-11",
+      "years_experience": 2.9,
+      "years_with_company": 2.9,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 2320
+    },
+    "certifications": [
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2025-05-08",
+        "expiration_date": "2025-12-31"
+      },
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2023-08-01",
+        "expiration_date": "2027-01-07"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2025-08-11",
+        "expiration_date": "2026-11-23"
+      }
+    ],
+    "specialties": [
+      "high_voltage",
+      "electric",
+      "gas"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.92,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 3.4,
+      "rework_rate": 0.02,
+      "customer_satisfaction": 4,
+      "tickets_completed_30d": 88
+    },
+    "current_workload": {
+      "tickets_today": 0,
+      "tickets_this_week": 16,
+      "max_capacity_daily": 8,
+      "current_utilization": 0,
+      "ticket_breakdown": {
+        "routine": 0,
+        "high_risk": 0,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.6436,
+              29.355657028112397
+            ],
+            [
+              -98.72460358505445,
+              29.314854089553716
+            ],
+            [
+              -98.72453897401122,
+              29.23329710157098
+            ],
+            [
+              -98.6436,
+              29.192542971887605
+            ],
+            [
+              -98.5626610259888,
+              29.23329710157098
+            ],
+            [
+              -98.56259641494555,
+              29.314854089553716
+            ],
+            [
+              -98.6436,
+              29.355657028112397
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.6436,
+          29.2741
+        ]
+      },
+      "description": "Zone B2"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.3357,
+          29.3784
+        ]
+      },
+      "last_location_update": "2025-11-03T12:40:04.439Z"
+    },
+    "training_history": [
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2023-04-26",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2024-02-29",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2025-08-28",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2023-06-23",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2025-06-15",
+        "instructor": "CPS Energy"
+      }
+    ],
+    "notable_experience": [
+      "Expert in difficult soil conditions and deep utilities",
+      "Perfect safety record for 24 consecutive months",
+      "Handled 3 emergency gas leak locates without incident"
+    ],
+    "active": true,
+    "created_at": "2022-12-11",
+    "updated_at": "2025-11-03T14:24:56.032Z",
+    "full_name": "Friedrich Willms"
+  },
+  {
+    "id": "b08ecfca-762b-4939-8ae0-831eb699ed47",
+    "employee_number": "LOC-0008",
+    "first_name": "Arvel",
+    "last_name": "Keebler",
+    "email": "maynard.moen@gmail.com",
+    "phone": "210-606-3654",
+    "role": "senior_locator",
+    "experience": {
+      "hire_date": "2019-01-17",
+      "years_experience": 6.8,
+      "years_with_company": 6.8,
+      "prior_industry_experience": 2.5,
+      "total_tickets_completed": 5440
+    },
+    "certifications": [
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2025-05-03",
+        "expiration_date": "2027-11-02"
+      },
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2025-01-07",
+        "expiration_date": "2027-04-17"
+      },
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2022-11-26",
+        "expiration_date": "2026-02-07"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2024-04-23",
+        "expiration_date": "2026-12-24"
+      },
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2023-09-09",
+        "expiration_date": "2027-04-24"
+      }
+    ],
+    "specialties": [
+      "high_voltage",
+      "telecom",
+      "gas"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.99,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 0,
+      "average_completion_time_hours": 2,
+      "rework_rate": 0.01,
+      "customer_satisfaction": 4.5,
+      "tickets_completed_30d": 28
+    },
+    "current_workload": {
+      "tickets_today": 6,
+      "tickets_this_week": 29,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.75,
+      "ticket_breakdown": {
+        "routine": 4,
+        "high_risk": 2,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.3333333333333333
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.4936,
+              29.354082394070623
+            ],
+            [
+              -98.57303902422521,
+              29.314067706936235
+            ],
+            [
+              -98.57297688400664,
+              29.234085350715485
+            ],
+            [
+              -98.4936,
+              29.194117605929378
+            ],
+            [
+              -98.41422311599338,
+              29.234085350715485
+            ],
+            [
+              -98.4141609757748,
+              29.314067706936235
+            ],
+            [
+              -98.4936,
+              29.354082394070623
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.4936,
+          29.2741
+        ]
+      },
+      "description": "Zone B3"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.348,
+          29.5618
+        ]
+      },
+      "last_location_update": "2025-11-03T12:44:56.099Z"
+    },
+    "training_history": [
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2022-12-11",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2021-03-18",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2022-02-16",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2024-08-20",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2021-02-11",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2021-07-24",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2024-07-15",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2019-08-15",
+        "instructor": "CPS Energy"
+      }
+    ],
+    "notable_experience": [
+      "Zero damage rate on 200+ consecutive tickets",
+      "Expert in difficult soil conditions and deep utilities",
+      "Specialized in downtown congested area locating"
+    ],
+    "active": true,
+    "created_at": "2019-01-17",
+    "updated_at": "2025-11-03T14:24:56.032Z",
+    "full_name": "Arvel Keebler"
+  },
+  {
+    "id": "27113fb6-3f55-474a-ab3b-45703f67159b",
+    "employee_number": "LOC-0009",
+    "first_name": "Brielle",
+    "last_name": "Hills",
+    "email": "bert_kiehn8@hotmail.com",
+    "phone": "210-952-8763",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2021-11-04",
+      "years_experience": 4,
+      "years_with_company": 4,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 3200
+    },
+    "certifications": [
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2025-06-23",
+        "expiration_date": "2025-12-16"
+      },
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2025-06-06",
+        "expiration_date": "2026-03-18"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2025-01-29",
+        "expiration_date": "2026-05-20"
+      },
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2025-01-31",
+        "expiration_date": "2026-05-13"
+      },
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2023-01-14",
+        "expiration_date": "2027-09-29"
+      }
+    ],
+    "specialties": [
+      "electric",
+      "high_voltage",
+      "water",
+      "telecom"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.93,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 2.5,
+      "rework_rate": 0.03,
+      "customer_satisfaction": 4,
+      "tickets_completed_30d": 48
+    },
+    "current_workload": {
+      "tickets_today": 5,
+      "tickets_this_week": 20,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.625,
+      "ticket_breakdown": {
+        "routine": 3,
+        "high_risk": 2,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.4
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.34359999999998,
+              29.354905656145267
+            ],
+            [
+              -98.42385701673861,
+              29.314478851716792
+            ],
+            [
+              -98.42379359071344,
+              29.23367323460225
+            ],
+            [
+              -98.34359999999998,
+              29.193294343854735
+            ],
+            [
+              -98.26340640928655,
+              29.23367323460225
+            ],
+            [
+              -98.26334298326138,
+              29.314478851716792
+            ],
+            [
+              -98.34359999999998,
+              29.354905656145267
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.3436,
+          29.2741
+        ]
+      },
+      "description": "Zone B4"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.4771,
+          29.4908
+        ]
+      },
+      "last_location_update": "2025-11-03T13:07:18.069Z"
+    },
+    "training_history": [
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2024-04-09",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2024-12-11",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2024-04-11",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2022-02-25",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2022-03-02",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2023-03-16",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2024-12-31",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2023-11-24",
+        "instructor": "Internal Training"
+      }
+    ],
+    "notable_experience": [
+      "Handled 3 emergency gas leak locates without incident"
+    ],
+    "active": true,
+    "created_at": "2021-11-04",
+    "updated_at": "2025-11-03T14:24:56.032Z",
+    "full_name": "Brielle Hills"
+  },
+  {
+    "id": "96d16568-ba25-4370-9b7c-b8832074cdc4",
+    "employee_number": "LOC-0010",
+    "first_name": "Sebastian",
+    "last_name": "Connelly",
+    "email": "darion.koelpin@gmail.com",
+    "phone": "210-704-3560",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2023-11-04",
+      "years_experience": 2,
+      "years_with_company": 2,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 1600
+    },
+    "certifications": [
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2025-03-14",
+        "expiration_date": "2026-11-22"
+      },
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2023-07-06",
+        "expiration_date": "2025-12-27"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2023-09-23",
+        "expiration_date": "2025-11-05"
+      },
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2023-06-08",
+        "expiration_date": "2026-05-17"
+      }
+    ],
+    "specialties": [
+      "electric",
+      "water",
+      "high_voltage",
+      "telecom"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.9,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 3.5,
+      "rework_rate": 0.05,
+      "customer_satisfaction": 4.7,
+      "tickets_completed_30d": 82
+    },
+    "current_workload": {
+      "tickets_today": 5,
+      "tickets_this_week": 19,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.625,
+      "ticket_breakdown": {
+        "routine": 4,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.2
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.19360000000002,
+              29.347872679621887
+            ],
+            [
+              -98.26686926947738,
+              29.310966356843306
+            ],
+            [
+              -98.26681640363887,
+              29.237193706922216
+            ],
+            [
+              -98.19360000000002,
+              29.200327320378122
+            ],
+            [
+              -98.12038359636115,
+              29.237193706922216
+            ],
+            [
+              -98.12033073052265,
+              29.310966356843306
+            ],
+            [
+              -98.19360000000002,
+              29.347872679621887
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.1936,
+          29.2741
+        ]
+      },
+      "description": "Zone B5"
+    },
+    "availability": {
+      "status": "busy",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.6602,
+          29.3067
+        ]
+      },
+      "last_location_update": "2025-11-03T14:01:25.558Z"
+    },
+    "training_history": [
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2025-05-22",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2024-06-13",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2025-09-09",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2024-06-28",
+        "instructor": "CPS Energy"
+      }
+    ],
+    "notable_experience": [
+      "Perfect safety record for 24 consecutive months",
+      "Specialized in downtown congested area locating"
+    ],
+    "active": true,
+    "created_at": "2023-11-04",
+    "updated_at": "2025-11-03T14:24:56.033Z",
+    "full_name": "Sebastian Connelly"
+  },
+  {
+    "id": "dd4d0b34-0833-44de-bd78-e57cc1279f52",
+    "employee_number": "LOC-0011",
+    "first_name": "Elmira",
+    "last_name": "Kris",
+    "email": "jameson.kassulke65@gmail.com",
+    "phone": "210-788-1042",
+    "role": "trainee",
+    "experience": {
+      "hire_date": "2024-09-28",
+      "years_experience": 1.1,
+      "years_with_company": 1.1,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 880
+    },
+    "certifications": [
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2023-10-16",
+        "expiration_date": "2025-12-28"
+      },
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2025-05-22",
+        "expiration_date": "2026-11-25"
+      }
+    ],
+    "specialties": [
+      "high_voltage",
+      "telecom"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.86,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 0,
+      "average_completion_time_hours": 3.8,
+      "rework_rate": 0.09,
+      "customer_satisfaction": 3.8,
+      "tickets_completed_30d": 58
+    },
+    "current_workload": {
+      "tickets_today": 1,
+      "tickets_this_week": 32,
+      "max_capacity_daily": 5,
+      "current_utilization": 0.2,
+      "ticket_breakdown": {
+        "routine": 0,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 1
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.79360000000001,
+              29.498085659646208
+            ],
+            [
+              -98.86718928742889,
+              29.46107260772597
+            ],
+            [
+              -98.8671357102582,
+              29.38708697821779
+            ],
+            [
+              -98.79360000000001,
+              29.35011434035379
+            ],
+            [
+              -98.72006428974181,
+              29.38708697821779
+            ],
+            [
+              -98.72001071257112,
+              29.46107260772597
+            ],
+            [
+              -98.79360000000001,
+              29.498085659646208
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.7936,
+          29.4241
+        ]
+      },
+      "description": "Zone C1"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.4977,
+          29.3959
+        ]
+      },
+      "last_location_update": "2025-11-03T12:06:47.301Z"
+    },
+    "training_history": [
+      {
+        "course": "Basic Utility Locating",
+        "date": "2024-12-05",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2024-11-07",
+        "instructor": "CPS Energy"
+      }
+    ],
+    "notable_experience": [],
+    "active": true,
+    "created_at": "2024-09-28",
+    "updated_at": "2025-11-03T14:24:56.033Z",
+    "full_name": "Elmira Kris"
+  },
+  {
+    "id": "f23774a3-c8c8-49d8-a08a-229d73037da6",
+    "employee_number": "LOC-0012",
+    "first_name": "Tanya",
+    "last_name": "Johnston",
+    "email": "okey.labadie74@gmail.com",
+    "phone": "210-551-9506",
+    "role": "trainee",
+    "experience": {
+      "hire_date": "2024-07-17",
+      "years_experience": 1.3,
+      "years_with_company": 1.3,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 1040
+    },
+    "certifications": [
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2025-10-29",
+        "expiration_date": "2027-02-26"
+      }
+    ],
+    "specialties": [
+      "gas",
+      "electric"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.86,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 0,
+      "average_completion_time_hours": 3.5,
+      "rework_rate": 0.07,
+      "customer_satisfaction": 4.2,
+      "tickets_completed_30d": 43
+    },
+    "current_workload": {
+      "tickets_today": 2,
+      "tickets_this_week": 29,
+      "max_capacity_daily": 5,
+      "current_utilization": 0.4,
+      "ticket_breakdown": {
+        "routine": 1,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.5
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.6436,
+              29.499590828568767
+            ],
+            [
+              -98.71868694903425,
+              29.461824360699122
+            ],
+            [
+              -98.71863116973525,
+              29.386333564145456
+            ],
+            [
+              -98.6436,
+              29.34860917143123
+            ],
+            [
+              -98.56856883026478,
+              29.386333564145456
+            ],
+            [
+              -98.56851305096578,
+              29.461824360699122
+            ],
+            [
+              -98.6436,
+              29.499590828568767
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.6436,
+          29.4241
+        ]
+      },
+      "description": "Zone C2"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.6164,
+          29.4078
+        ]
+      },
+      "last_location_update": "2025-11-03T13:01:08.850Z"
+    },
+    "training_history": [
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2025-05-27",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2024-12-26",
+        "instructor": "NULCA"
+      }
+    ],
+    "notable_experience": [],
+    "active": true,
+    "created_at": "2024-07-17",
+    "updated_at": "2025-11-03T14:24:56.033Z",
+    "full_name": "Tanya Johnston"
+  },
+  {
+    "id": "bd44dfa0-7cd8-4e0b-b4f8-2a8dbc82aa60",
+    "employee_number": "LOC-0013",
+    "first_name": "Elliot",
+    "last_name": "Cummings",
+    "email": "steve_langworth@gmail.com",
+    "phone": "210-006-9790",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2023-09-29",
+      "years_experience": 2.1,
+      "years_with_company": 2.1,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 1680
+    },
+    "certifications": [
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2024-04-17",
+        "expiration_date": "2026-08-22"
+      },
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2024-01-01",
+        "expiration_date": "2026-09-08"
+      },
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2024-11-15",
+        "expiration_date": "2027-08-22"
+      }
+    ],
+    "specialties": [
+      "high_voltage",
+      "electric",
+      "gas",
+      "telecom"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.93,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 1,
+      "average_completion_time_hours": 2.8,
+      "rework_rate": 0.05,
+      "customer_satisfaction": 4.1,
+      "tickets_completed_30d": 66
+    },
+    "current_workload": {
+      "tickets_today": 1,
+      "tickets_this_week": 24,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.125,
+      "ticket_breakdown": {
+        "routine": 1,
+        "high_risk": 0,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.4936,
+              29.494033820018714
+            ],
+            [
+              -98.56315776744059,
+              29.459048842933775
+            ],
+            [
+              -98.56310989790694,
+              29.389115048367774
+            ],
+            [
+              -98.4936,
+              29.354166179981288
+            ],
+            [
+              -98.42409010209307,
+              29.389115048367774
+            ],
+            [
+              -98.42404223255942,
+              29.459048842933775
+            ],
+            [
+              -98.4936,
+              29.494033820018714
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.4936,
+          29.4241
+        ]
+      },
+      "description": "Zone C3"
+    },
+    "availability": {
+      "status": "busy",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.697,
+          29.5697
+        ]
+      },
+      "last_location_update": "2025-11-03T14:02:40.701Z"
+    },
+    "training_history": [
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2024-10-14",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2025-05-21",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2025-08-09",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2025-02-11",
+        "instructor": "CPS Energy"
+      }
+    ],
+    "notable_experience": [
+      "Successfully located utilities at 15+ complex industrial sites",
+      "Completed 50+ tickets for hospital expansion project"
+    ],
+    "active": true,
+    "created_at": "2023-09-29",
+    "updated_at": "2025-11-03T14:24:56.033Z",
+    "full_name": "Elliot Cummings"
+  },
+  {
+    "id": "e1f45045-61de-40bd-bd87-824e3eac1e41",
+    "employee_number": "LOC-0014",
+    "first_name": "Antonina",
+    "last_name": "Bashirian",
+    "email": "anastasia_monahan-rau13@hotmail.com",
+    "phone": "210-890-1979",
+    "role": "senior_locator",
+    "experience": {
+      "hire_date": "2013-05-08",
+      "years_experience": 12.5,
+      "years_with_company": 12.5,
+      "prior_industry_experience": 2.2,
+      "total_tickets_completed": 10000
+    },
+    "certifications": [
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2025-06-15",
+        "expiration_date": "2026-01-19"
+      },
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2024-07-02",
+        "expiration_date": "2026-07-09"
+      },
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2024-07-11",
+        "expiration_date": "2026-06-01"
+      },
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2025-09-15",
+        "expiration_date": "2027-04-24"
+      },
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2023-12-02",
+        "expiration_date": "2025-12-29"
+      },
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2025-06-27",
+        "expiration_date": "2027-01-29"
+      }
+    ],
+    "specialties": [
+      "fiber_optics",
+      "telecom",
+      "high_voltage",
+      "gas"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 1,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 3,
+      "rework_rate": 0,
+      "customer_satisfaction": 4.6,
+      "tickets_completed_30d": 67
+    },
+    "current_workload": {
+      "tickets_today": 3,
+      "tickets_this_week": 28,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.375,
+      "ticket_breakdown": {
+        "routine": 2,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.3333333333333333
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.34359999999998,
+              29.486418910857545
+            ],
+            [
+              -98.40558148165783,
+              29.455245109795
+            ],
+            [
+              -98.4055434693327,
+              29.39292621694822
+            ],
+            [
+              -98.34359999999998,
+              29.36178108914246
+            ],
+            [
+              -98.28165653066728,
+              29.39292621694822
+            ],
+            [
+              -98.28161851834216,
+              29.455245109795
+            ],
+            [
+              -98.34359999999998,
+              29.486418910857545
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.3436,
+          29.4241
+        ]
+      },
+      "description": "Zone C4"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.6353,
+          29.4226
+        ]
+      },
+      "last_location_update": "2025-11-03T14:22:43.253Z"
+    },
+    "training_history": [
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2016-07-11",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2015-04-21",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2021-01-24",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2017-04-04",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2023-01-13",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2019-12-20",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2017-04-24",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2017-08-04",
+        "instructor": "Internal Training"
+      }
+    ],
+    "notable_experience": [
+      "Handled 3 emergency gas leak locates without incident",
+      "Expert in difficult soil conditions and deep utilities",
+      "Completed 50+ tickets for hospital expansion project"
+    ],
+    "active": true,
+    "created_at": "2013-05-08",
+    "updated_at": "2025-11-03T14:24:56.033Z",
+    "full_name": "Antonina Bashirian"
+  },
+  {
+    "id": "8f17e35e-653c-4b09-8f38-4a344ff7aca6",
+    "employee_number": "LOC-0015",
+    "first_name": "Jonatan",
+    "last_name": "Flatley",
+    "email": "adam_jaskolski@hotmail.com",
+    "phone": "210-759-4350",
+    "role": "trainee",
+    "experience": {
+      "hire_date": "2024-03-29",
+      "years_experience": 1.6,
+      "years_with_company": 1.6,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 1280
+    },
+    "certifications": [
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2025-07-25",
+        "expiration_date": "2026-04-20"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2025-10-26",
+        "expiration_date": "2027-06-23"
+      }
+    ],
+    "specialties": [
+      "high_voltage",
+      "gas"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.89,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 4,
+      "rework_rate": 0.08,
+      "customer_satisfaction": 3.9,
+      "tickets_completed_30d": 24
+    },
+    "current_workload": {
+      "tickets_today": 1,
+      "tickets_this_week": 21,
+      "max_capacity_daily": 5,
+      "current_utilization": 0.2,
+      "ticket_breakdown": {
+        "routine": 1,
+        "high_risk": 0,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.19360000000002,
+              29.50580013584874
+            ],
+            [
+              -98.27486552091352,
+              29.464925406939777
+            ],
+            [
+              -98.27480018827562,
+              29.383225311673712
+            ],
+            [
+              -98.19360000000002,
+              29.342399864151265
+            ],
+            [
+              -98.1123998117244,
+              29.383225311673712
+            ],
+            [
+              -98.1123344790865,
+              29.464925406939777
+            ],
+            [
+              -98.19360000000002,
+              29.50580013584874
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.1936,
+          29.4241
+        ]
+      },
+      "description": "Zone C5"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.4375,
+          29.5276
+        ]
+      },
+      "last_location_update": "2025-11-03T13:48:46.925Z"
+    },
+    "training_history": [
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2025-03-27",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2025-01-21",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2025-09-29",
+        "instructor": "OUPS"
+      }
+    ],
+    "notable_experience": [],
+    "active": true,
+    "created_at": "2024-03-29",
+    "updated_at": "2025-11-03T14:24:56.034Z",
+    "full_name": "Jonatan Flatley"
+  },
+  {
+    "id": "4e255677-700d-4ae0-ba96-2b7eae22e14f",
+    "employee_number": "LOC-0016",
+    "first_name": "Margarette",
+    "last_name": "Medhurst",
+    "email": "reymundo_rowe52@yahoo.com",
+    "phone": "210-665-8837",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2022-07-18",
+      "years_experience": 3.3,
+      "years_with_company": 3.3,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 2640
+    },
+    "certifications": [
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2024-06-03",
+        "expiration_date": "2026-05-07"
+      },
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2025-10-13",
+        "expiration_date": "2026-08-08"
+      },
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2023-06-21",
+        "expiration_date": "2026-12-05"
+      }
+    ],
+    "specialties": [
+      "high_voltage",
+      "telecom",
+      "fiber_optics"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.9,
+      "damages_12mo": 1,
+      "at_fault_damages_ever": 3,
+      "average_completion_time_hours": 3.1,
+      "rework_rate": 0.02,
+      "customer_satisfaction": 4.6,
+      "tickets_completed_30d": 62
+    },
+    "current_workload": {
+      "tickets_today": 8,
+      "tickets_this_week": 9,
+      "max_capacity_daily": 8,
+      "current_utilization": 1,
+      "ticket_breakdown": {
+        "routine": 7,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.125
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.79360000000001,
+              29.645463215756628
+            ],
+            [
+              -98.86468533837973,
+              29.609762679154557
+            ],
+            [
+              -98.86463511225246,
+              29.53839949060581
+            ],
+            [
+              -98.79360000000001,
+              29.502736784243368
+            ],
+            [
+              -98.72256488774757,
+              29.53839949060581
+            ],
+            [
+              -98.7225146616203,
+              29.609762679154557
+            ],
+            [
+              -98.79360000000001,
+              29.645463215756628
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.7936,
+          29.574099999999998
+        ]
+      },
+      "description": "Zone D1"
+    },
+    "availability": {
+      "status": "off_shift",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.6346,
+          29.4682
+        ]
+      },
+      "last_location_update": "2025-11-03T12:21:03.570Z"
+    },
+    "training_history": [
+      {
+        "course": "Basic Utility Locating",
+        "date": "2022-09-09",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2023-03-13",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2025-01-27",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2024-09-08",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2024-03-14",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2025-01-01",
+        "instructor": "Internal Training"
+      }
+    ],
+    "notable_experience": [
+      "Handled 3 emergency gas leak locates without incident",
+      "Perfect safety record for 24 consecutive months",
+      "Zero damage rate on 200+ consecutive tickets"
+    ],
+    "active": true,
+    "created_at": "2022-07-18",
+    "updated_at": "2025-11-03T14:24:56.034Z",
+    "full_name": "Margarette Medhurst"
+  },
+  {
+    "id": "c6ff970c-12c8-4842-92a2-50d3f394733b",
+    "employee_number": "LOC-0017",
+    "first_name": "Sarina",
+    "last_name": "Gerlach",
+    "email": "anne.strosin66@gmail.com",
+    "phone": "210-311-8955",
+    "role": "senior_locator",
+    "experience": {
+      "hire_date": "2015-05-08",
+      "years_experience": 10.5,
+      "years_with_company": 10.5,
+      "prior_industry_experience": 3.3,
+      "total_tickets_completed": 8400
+    },
+    "certifications": [
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2024-05-29",
+        "expiration_date": "2026-06-18"
+      },
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2025-07-01",
+        "expiration_date": "2027-10-20"
+      },
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2023-01-01",
+        "expiration_date": "2026-11-05"
+      },
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2023-12-03",
+        "expiration_date": "2026-09-26"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2024-01-17",
+        "expiration_date": "2027-07-15"
+      },
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2024-07-06",
+        "expiration_date": "2026-07-07"
+      },
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2022-12-12",
+        "expiration_date": "2027-10-24"
+      }
+    ],
+    "specialties": [
+      "high_voltage",
+      "gas"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.99,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 0,
+      "average_completion_time_hours": 3,
+      "rework_rate": 0.01,
+      "customer_satisfaction": 5,
+      "tickets_completed_30d": 39
+    },
+    "current_workload": {
+      "tickets_today": 8,
+      "tickets_this_week": 30,
+      "max_capacity_daily": 8,
+      "current_utilization": 1,
+      "ticket_breakdown": {
+        "routine": 6,
+        "high_risk": 2,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.25
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.6436,
+              29.639938339924363
+            ],
+            [
+              -98.70918018059304,
+              29.60700305957138
+            ],
+            [
+              -98.70913743034518,
+              29.54116474101227
+            ],
+            [
+              -98.6436,
+              29.508261660075636
+            ],
+            [
+              -98.57806256965485,
+              29.54116474101227
+            ],
+            [
+              -98.57801981940698,
+              29.60700305957138
+            ],
+            [
+              -98.6436,
+              29.639938339924363
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.6436,
+          29.574099999999998
+        ]
+      },
+      "description": "Zone D2"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.3964,
+          29.5119
+        ]
+      },
+      "last_location_update": "2025-11-03T13:17:36.809Z"
+    },
+    "training_history": [
+      {
+        "course": "Excavation Safety",
+        "date": "2025-02-18",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2022-10-28",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2024-03-22",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2017-04-20",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2015-10-15",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2023-10-01",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2023-01-01",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2018-12-19",
+        "instructor": "Internal Training"
+      }
+    ],
+    "notable_experience": [
+      "Successfully located utilities at 15+ complex industrial sites",
+      "Expert in difficult soil conditions and deep utilities",
+      "Specialized in downtown congested area locating"
+    ],
+    "active": true,
+    "created_at": "2015-05-08",
+    "updated_at": "2025-11-03T14:24:56.034Z",
+    "full_name": "Sarina Gerlach"
+  },
+  {
+    "id": "25272396-b042-4f66-becb-05b291d19cac",
+    "employee_number": "LOC-0018",
+    "first_name": "Dalton",
+    "last_name": "Hermiston",
+    "email": "deja28@yahoo.com",
+    "phone": "210-323-0901",
+    "role": "senior_locator",
+    "experience": {
+      "hire_date": "2015-10-01",
+      "years_experience": 10.1,
+      "years_with_company": 10.1,
+      "prior_industry_experience": 4.7,
+      "total_tickets_completed": 8080
+    },
+    "certifications": [
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2025-05-25",
+        "expiration_date": "2026-07-11"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2024-02-23",
+        "expiration_date": "2026-01-17"
+      },
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2025-03-14",
+        "expiration_date": "2026-03-14"
+      },
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2025-05-07",
+        "expiration_date": "2027-07-03"
+      },
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2025-09-12",
+        "expiration_date": "2027-02-27"
+      },
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2023-08-14",
+        "expiration_date": "2027-09-26"
+      }
+    ],
+    "specialties": [
+      "telecom",
+      "high_voltage",
+      "fiber_optics"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.98,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 2.4,
+      "rework_rate": 0.02,
+      "customer_satisfaction": 5,
+      "tickets_completed_30d": 19
+    },
+    "current_workload": {
+      "tickets_today": 3,
+      "tickets_this_week": 35,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.375,
+      "ticket_breakdown": {
+        "routine": 3,
+        "high_risk": 0,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.4936,
+              29.65733189804842
+            ],
+            [
+              -98.57651268098614,
+              29.61569019743451
+            ],
+            [
+              -98.576444359012,
+              29.532458342551994
+            ],
+            [
+              -98.4936,
+              29.490868101951595
+            ],
+            [
+              -98.41075564098801,
+              29.532458342551994
+            ],
+            [
+              -98.41068731901386,
+              29.61569019743451
+            ],
+            [
+              -98.4936,
+              29.65733189804842
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.4936,
+          29.574099999999998
+        ]
+      },
+      "description": "Zone D3"
+    },
+    "availability": {
+      "status": "off_shift",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.6507,
+          29.4427
+        ]
+      },
+      "last_location_update": "2025-11-03T14:03:49.847Z"
+    },
+    "training_history": [
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2025-04-06",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2022-04-25",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2019-06-25",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2019-02-21",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2016-11-20",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2016-12-02",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2023-11-12",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2017-11-30",
+        "instructor": "NULCA"
+      }
+    ],
+    "notable_experience": [
+      "Specialized in downtown congested area locating",
+      "Perfect safety record for 24 consecutive months",
+      "Successfully located utilities at 15+ complex industrial sites",
+      "Zero damage rate on 200+ consecutive tickets"
+    ],
+    "active": true,
+    "created_at": "2015-10-01",
+    "updated_at": "2025-11-03T14:24:56.034Z",
+    "full_name": "Dalton Hermiston"
+  },
+  {
+    "id": "c9b2ebda-5037-4289-b3a2-e24c1730a0d0",
+    "employee_number": "LOC-0019",
+    "first_name": "Dedrick",
+    "last_name": "Ortiz",
+    "email": "cyrus.hermann69@gmail.com",
+    "phone": "210-451-8251",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2023-07-18",
+      "years_experience": 2.3,
+      "years_with_company": 2.3,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 1839
+    },
+    "certifications": [
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2025-05-17",
+        "expiration_date": "2026-08-17"
+      },
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2023-02-13",
+        "expiration_date": "2026-09-16"
+      },
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2025-03-17",
+        "expiration_date": "2026-08-09"
+      },
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2023-05-28",
+        "expiration_date": "2026-07-23"
+      },
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2022-11-21",
+        "expiration_date": "2027-03-28"
+      }
+    ],
+    "specialties": [
+      "electric",
+      "high_voltage",
+      "telecom",
+      "gas"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.91,
+      "damages_12mo": 1,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 3.5,
+      "rework_rate": 0.04,
+      "customer_satisfaction": 4.2,
+      "tickets_completed_30d": 74
+    },
+    "current_workload": {
+      "tickets_today": 0,
+      "tickets_this_week": 6,
+      "max_capacity_daily": 8,
+      "current_utilization": 0,
+      "ticket_breakdown": {
+        "routine": 0,
+        "high_risk": 0,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.34359999999998,
+              29.65060114783328
+            ],
+            [
+              -98.41980520384554,
+              29.612328820328784
+            ],
+            [
+              -98.41974748511812,
+              29.53582770601329
+            ],
+            [
+              -98.34359999999998,
+              29.49759885216673
+            ],
+            [
+              -98.26745251488185,
+              29.535827706013283
+            ],
+            [
+              -98.26739479615443,
+              29.612328820328784
+            ],
+            [
+              -98.34359999999998,
+              29.65060114783328
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.3436,
+          29.574099999999998
+        ]
+      },
+      "description": "Zone D4"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.6265,
+          29.4171
+        ]
+      },
+      "last_location_update": "2025-11-03T12:03:09.775Z"
+    },
+    "training_history": [
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2024-10-23",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2025-06-26",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2025-03-25",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2024-06-15",
+        "instructor": "Internal Training"
+      }
+    ],
+    "notable_experience": [
+      "Completed 50+ tickets for hospital expansion project"
+    ],
+    "active": true,
+    "created_at": "2023-07-18",
+    "updated_at": "2025-11-03T14:24:56.034Z",
+    "full_name": "Dedrick Ortiz"
+  },
+  {
+    "id": "1b18dca3-9602-45b1-965f-b1a4f78a6bcc",
+    "employee_number": "LOC-0020",
+    "first_name": "Wiley",
+    "last_name": "Harvey",
+    "email": "leland.fadel@gmail.com",
+    "phone": "210-261-6137",
+    "role": "trainee",
+    "experience": {
+      "hire_date": "2025-08-22",
+      "years_experience": 0.2,
+      "years_with_company": 0.2,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 160
+    },
+    "certifications": [
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2024-10-10",
+        "expiration_date": "2026-03-17"
+      },
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2024-10-24",
+        "expiration_date": "2026-07-10"
+      },
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2023-03-15",
+        "expiration_date": "2027-02-17"
+      }
+    ],
+    "specialties": [
+      "fiber_optics",
+      "water"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.9,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 1,
+      "average_completion_time_hours": 3.1,
+      "rework_rate": 0.07,
+      "customer_satisfaction": 3.8,
+      "tickets_completed_30d": 83
+    },
+    "current_workload": {
+      "tickets_today": 3,
+      "tickets_this_week": 29,
+      "max_capacity_daily": 5,
+      "current_utilization": 0.6,
+      "ticket_breakdown": {
+        "routine": 2,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.3333333333333333
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.19360000000002,
+              29.647546345533602
+            ],
+            [
+              -98.26676111179148,
+              29.610803122414485
+            ],
+            [
+              -98.26670791061427,
+              29.537356806541617
+            ],
+            [
+              -98.19360000000002,
+              29.5006536544664
+            ],
+            [
+              -98.12049208938575,
+              29.537356806541617
+            ],
+            [
+              -98.12043888820854,
+              29.610803122414485
+            ],
+            [
+              -98.19360000000002,
+              29.647546345533602
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.1936,
+          29.574099999999998
+        ]
+      },
+      "description": "Zone D5"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.5307,
+          29.4748
+        ]
+      },
+      "last_location_update": "2025-11-03T12:09:40.792Z"
+    },
+    "training_history": [],
+    "notable_experience": [],
+    "active": true,
+    "created_at": "2025-08-22",
+    "updated_at": "2025-11-03T14:24:56.034Z",
+    "full_name": "Wiley Harvey"
+  },
+  {
+    "id": "2c690b2c-d1f7-4a2a-bf27-2bdbc9dee906",
+    "employee_number": "LOC-0021",
+    "first_name": "Jerrod",
+    "last_name": "Kunde",
+    "email": "modesto.braun1@hotmail.com",
+    "phone": "210-532-8855",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2022-01-16",
+      "years_experience": 3.8,
+      "years_with_company": 3.8,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 3040
+    },
+    "certifications": [
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2024-12-16",
+        "expiration_date": "2027-07-12"
+      },
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2023-02-25",
+        "expiration_date": "2026-01-05"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2024-02-24",
+        "expiration_date": "2026-08-15"
+      },
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2025-07-18",
+        "expiration_date": "2027-09-09"
+      }
+    ],
+    "specialties": [
+      "telecom",
+      "gas",
+      "electric",
+      "high_voltage"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.95,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 3.3,
+      "rework_rate": 0.02,
+      "customer_satisfaction": 4.6,
+      "tickets_completed_30d": 61
+    },
+    "current_workload": {
+      "tickets_today": 8,
+      "tickets_this_week": 18,
+      "max_capacity_daily": 8,
+      "current_utilization": 1,
+      "ticket_breakdown": {
+        "routine": 6,
+        "high_risk": 2,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.25
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.79360000000001,
+              29.80718271113134
+            ],
+            [
+              -98.87648763995433,
+              29.765615539519345
+            ],
+            [
+              -98.87641904471717,
+              29.68253287158071
+            ],
+            [
+              -98.79360000000001,
+              29.641017288868653
+            ],
+            [
+              -98.71078095528284,
+              29.68253287158071
+            ],
+            [
+              -98.71071236004568,
+              29.765615539519345
+            ],
+            [
+              -98.79360000000001,
+              29.80718271113134
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.7936,
+          29.7241
+        ]
+      },
+      "description": "Zone E1"
+    },
+    "availability": {
+      "status": "busy",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.5674,
+          29.3657
+        ]
+      },
+      "last_location_update": "2025-11-03T12:36:44.478Z"
+    },
+    "training_history": [
+      {
+        "course": "Customer Service Excellence",
+        "date": "2023-09-16",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2025-07-07",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2023-03-12",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2023-04-09",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2022-01-26",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2023-11-07",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2022-10-19",
+        "instructor": "OUPS"
+      }
+    ],
+    "notable_experience": [
+      "Handled 3 emergency gas leak locates without incident",
+      "Expert in difficult soil conditions and deep utilities"
+    ],
+    "active": true,
+    "created_at": "2022-01-16",
+    "updated_at": "2025-11-03T14:24:56.034Z",
+    "full_name": "Jerrod Kunde"
+  },
+  {
+    "id": "05a81d27-1c24-4fca-bd5f-f76e7ad2e986",
+    "employee_number": "LOC-0022",
+    "first_name": "Bernardo",
+    "last_name": "Emmerich",
+    "email": "karson.johnston3@gmail.com",
+    "phone": "210-922-7892",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2022-12-11",
+      "years_experience": 2.9,
+      "years_with_company": 2.9,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 2320
+    },
+    "certifications": [
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2023-10-24",
+        "expiration_date": "2026-08-27"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2025-08-28",
+        "expiration_date": "2026-07-02"
+      },
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2024-03-09",
+        "expiration_date": "2027-08-02"
+      }
+    ],
+    "specialties": [
+      "fiber_optics",
+      "water",
+      "telecom"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.94,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 2.6,
+      "rework_rate": 0.02,
+      "customer_satisfaction": 4.2,
+      "tickets_completed_30d": 28
+    },
+    "current_workload": {
+      "tickets_today": 5,
+      "tickets_this_week": 14,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.625,
+      "ticket_breakdown": {
+        "routine": 4,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.2
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.6436,
+              29.81136208840177
+            ],
+            [
+              -98.7306590180614,
+              29.767702564337334
+            ],
+            [
+              -98.7305833480457,
+              29.680440525979947
+            ],
+            [
+              -98.6436,
+              29.636837911598228
+            ],
+            [
+              -98.55661665195431,
+              29.680440525979947
+            ],
+            [
+              -98.55654098193861,
+              29.767702564337334
+            ],
+            [
+              -98.6436,
+              29.81136208840177
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.6436,
+          29.7241
+        ]
+      },
+      "description": "Zone E2"
+    },
+    "availability": {
+      "status": "available",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.3617,
+          29.4433
+        ]
+      },
+      "last_location_update": "2025-11-03T13:03:52.179Z"
+    },
+    "training_history": [
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2024-08-27",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2023-06-08",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2024-12-06",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2025-02-05",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2023-11-26",
+        "instructor": "OUPS"
+      }
+    ],
+    "notable_experience": [
+      "Completed 50+ tickets for hospital expansion project",
+      "Perfect safety record for 24 consecutive months"
+    ],
+    "active": true,
+    "created_at": "2022-12-11",
+    "updated_at": "2025-11-03T14:24:56.034Z",
+    "full_name": "Bernardo Emmerich"
+  },
+  {
+    "id": "3ad55c62-f5f1-482c-aac5-b307a2f39d91",
+    "employee_number": "LOC-0023",
+    "first_name": "Terrill",
+    "last_name": "Stanton",
+    "email": "elian36@gmail.com",
+    "phone": "210-109-5293",
+    "role": "trainee",
+    "experience": {
+      "hire_date": "2024-06-11",
+      "years_experience": 1.4,
+      "years_with_company": 1.4,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 1120
+    },
+    "certifications": [
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2025-09-05",
+        "expiration_date": "2026-06-04"
+      },
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2023-11-05",
+        "expiration_date": "2026-10-12"
+      }
+    ],
+    "specialties": [
+      "water",
+      "telecom"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.92,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 0,
+      "average_completion_time_hours": 4.1,
+      "rework_rate": 0.05,
+      "customer_satisfaction": 3.8,
+      "tickets_completed_30d": 30
+    },
+    "current_workload": {
+      "tickets_today": 4,
+      "tickets_this_week": 14,
+      "max_capacity_daily": 5,
+      "current_utilization": 0.8,
+      "ticket_breakdown": {
+        "routine": 3,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.25
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.4936,
+              29.78529201207884
+            ],
+            [
+              -98.55464167777319,
+              29.754682004941525
+            ],
+            [
+              -98.55460446755536,
+              29.693490010119582
+            ],
+            [
+              -98.4936,
+              29.662907987921162
+            ],
+            [
+              -98.43259553244465,
+              29.693490010119582
+            ],
+            [
+              -98.43255832222681,
+              29.754682004941525
+            ],
+            [
+              -98.4936,
+              29.78529201207884
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.4936,
+          29.7241
+        ]
+      },
+      "description": "Zone E3"
+    },
+    "availability": {
+      "status": "busy",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.3087,
+          29.4226
+        ]
+      },
+      "last_location_update": "2025-11-03T12:45:14.505Z"
+    },
+    "training_history": [
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2024-08-18",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2024-08-12",
+        "instructor": "NULCA"
+      }
+    ],
+    "notable_experience": [],
+    "active": true,
+    "created_at": "2024-06-11",
+    "updated_at": "2025-11-03T14:24:56.035Z",
+    "full_name": "Terrill Stanton"
+  },
+  {
+    "id": "6b637edb-76ba-4842-a8a9-0706f202bbc7",
+    "employee_number": "LOC-0024",
+    "first_name": "Penelope",
+    "last_name": "Grady",
+    "email": "karine_mueller7@yahoo.com",
+    "phone": "210-829-8036",
+    "role": "locator",
+    "experience": {
+      "hire_date": "2023-11-04",
+      "years_experience": 2,
+      "years_with_company": 2,
+      "prior_industry_experience": 0,
+      "total_tickets_completed": 1600
+    },
+    "certifications": [
+      {
+        "type": "OSHA 30",
+        "level": "certified",
+        "obtained_date": "2023-01-02",
+        "expiration_date": "2026-06-24"
+      },
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2025-03-04",
+        "expiration_date": "2026-05-26"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2025-01-03",
+        "expiration_date": "2026-12-16"
+      }
+    ],
+    "specialties": [
+      "high_voltage",
+      "fiber_optics",
+      "telecom",
+      "gas"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.86,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 4.4,
+      "rework_rate": 0.05,
+      "customer_satisfaction": 4.1,
+      "tickets_completed_30d": 81
+    },
+    "current_workload": {
+      "tickets_today": 1,
+      "tickets_this_week": 25,
+      "max_capacity_daily": 5,
+      "current_utilization": 0.2,
+      "ticket_breakdown": {
+        "routine": 0,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 1
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.34359999999998,
+              29.8012178803657
+            ],
+            [
+              -98.42053452666634,
+              29.762636699276545
+            ],
+            [
+              -98.42047542729765,
+              29.685518853452542
+            ],
+            [
+              -98.34359999999998,
+              29.64698211963429
+            ],
+            [
+              -98.26672457270234,
+              29.685518853452542
+            ],
+            [
+              -98.26666547333363,
+              29.762636699276545
+            ],
+            [
+              -98.34359999999998,
+              29.8012178803657
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.3436,
+          29.7241
+        ]
+      },
+      "description": "Zone E4"
+    },
+    "availability": {
+      "status": "busy",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.6765,
+          29.4809
+        ]
+      },
+      "last_location_update": "2025-11-03T13:45:49.634Z"
+    },
+    "training_history": [
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2025-03-01",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2025-03-06",
+        "instructor": "CPS Energy"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2024-04-21",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2024-10-21",
+        "instructor": "CPS Energy"
+      }
+    ],
+    "notable_experience": [],
+    "active": true,
+    "created_at": "2023-11-04",
+    "updated_at": "2025-11-03T14:24:56.035Z",
+    "full_name": "Penelope Grady"
+  },
+  {
+    "id": "01382305-879b-4979-9858-3afd762a67d7",
+    "employee_number": "LOC-0025",
+    "first_name": "Aric",
+    "last_name": "VonRueden",
+    "email": "quincy.raynor@yahoo.com",
+    "phone": "210-655-1455",
+    "role": "senior_locator",
+    "experience": {
+      "hire_date": "2012-08-25",
+      "years_experience": 13.2,
+      "years_with_company": 13.2,
+      "prior_industry_experience": 2.1,
+      "total_tickets_completed": 10560
+    },
+    "certifications": [
+      {
+        "type": "Electric",
+        "level": "certified",
+        "obtained_date": "2023-06-23",
+        "expiration_date": "2026-09-26"
+      },
+      {
+        "type": "Gas",
+        "level": "certified",
+        "obtained_date": "2024-09-28",
+        "expiration_date": "2027-06-08"
+      },
+      {
+        "type": "NULCA",
+        "level": "certified",
+        "obtained_date": "2025-07-06",
+        "expiration_date": "2026-05-07"
+      },
+      {
+        "type": "OSHA 10",
+        "level": "certified",
+        "obtained_date": "2023-05-14",
+        "expiration_date": "2026-02-22"
+      },
+      {
+        "type": "Fiber",
+        "level": "certified",
+        "obtained_date": "2022-11-25",
+        "expiration_date": "2026-07-19"
+      },
+      {
+        "type": "OUPS",
+        "level": "certified",
+        "obtained_date": "2022-12-01",
+        "expiration_date": "2026-05-30"
+      }
+    ],
+    "specialties": [
+      "high_voltage",
+      "fiber_optics"
+    ],
+    "performance_metrics": {
+      "accuracy_rate": 0.97,
+      "damages_12mo": 0,
+      "at_fault_damages_ever": 2,
+      "average_completion_time_hours": 2.9,
+      "rework_rate": 0.01,
+      "customer_satisfaction": 4.6,
+      "tickets_completed_30d": 55
+    },
+    "current_workload": {
+      "tickets_today": 4,
+      "tickets_this_week": 25,
+      "max_capacity_daily": 8,
+      "current_utilization": 0.5,
+      "ticket_breakdown": {
+        "routine": 3,
+        "high_risk": 1,
+        "emergency": 0
+      },
+      "high_risk_percentage": 0.25
+    },
+    "territory": {
+      "assigned_geo_fence": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.19360000000002,
+              29.79221492873898
+            ],
+            [
+              -98.26154993101605,
+              29.758140114846803
+            ],
+            [
+              -98.26150382502844,
+              29.690025209909386
+            ],
+            [
+              -98.19360000000002,
+              29.655985071261025
+            ],
+            [
+              -98.12569617497158,
+              29.690025209909386
+            ],
+            [
+              -98.12565006898397,
+              29.758140114846803
+            ],
+            [
+              -98.19360000000002,
+              29.79221492873898
+            ]
+          ]
+        ]
+      },
+      "center_point": {
+        "type": "Point",
+        "coordinates": [
+          -98.1936,
+          29.7241
+        ]
+      },
+      "description": "Zone E5"
+    },
+    "availability": {
+      "status": "on_leave",
+      "shift_start": "07:00",
+      "shift_end": "16:00",
+      "current_location": {
+        "type": "Point",
+        "coordinates": [
+          -98.6252,
+          29.571
+        ]
+      },
+      "last_location_update": "2025-11-03T13:53:15.189Z"
+    },
+    "training_history": [
+      {
+        "course": "GIS Mapping Systems",
+        "date": "2025-07-23",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Ground Penetrating Radar Operation",
+        "date": "2020-11-14",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "High-Voltage Electric Safety",
+        "date": "2013-03-23",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Basic Utility Locating",
+        "date": "2018-05-07",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Fiber Optic Identification",
+        "date": "2018-01-28",
+        "instructor": "Internal Training"
+      },
+      {
+        "course": "Advanced Gas Line Locating",
+        "date": "2013-01-04",
+        "instructor": "OUPS"
+      },
+      {
+        "course": "Customer Service Excellence",
+        "date": "2024-08-08",
+        "instructor": "NULCA"
+      },
+      {
+        "course": "Excavation Safety",
+        "date": "2014-12-24",
+        "instructor": "Internal Training"
+      }
+    ],
+    "notable_experience": [
+      "Perfect safety record for 24 consecutive months",
+      "Handled 3 emergency gas leak locates without incident",
+      "Zero damage rate on 200+ consecutive tickets",
+      "Trained 5 junior locators in gas line detection"
+    ],
+    "active": true,
+    "created_at": "2012-08-25",
+    "updated_at": "2025-11-03T14:24:56.035Z",
+    "full_name": "Aric VonRueden"
+  }
+]

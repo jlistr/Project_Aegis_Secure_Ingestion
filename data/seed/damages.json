@@ -1,0 +1,5786 @@
+[
+  {
+    "id": "6f854ead-cee0-4923-8b89-297b4d48a04a",
+    "incident_number": "DMG-2023-1000",
+    "date": "2023-01-06",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3112,
+        29.5596
+      ]
+    },
+    "address": "1194 Houston St, San Antonio, TX 27318",
+    "ticket_id": "5eda1bb9-8f1f-47bf-ae98-bd9e821c53d0",
+    "ticket_number": "TX-2025-100988",
+    "excavator_id": "f5c48280-f5ea-49fa-aad3-50e83d2cd0d5",
+    "excavator_company": "Jenkins - VonRueden Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "telecom",
+    "utility_owner": "Verizon",
+    "line_material": "fiber_optic",
+    "line_diameter_inches": 2,
+    "line_depth_feet": 5.5,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "locator",
+    "root_cause": "inaccurate_marking",
+    "detailed_cause": "Utility marking was significantly off from actual location",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 12819,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2563,
+      "total": 15382
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-01-09",
+    "created_at": "2023-01-06T14:24:56.327Z",
+    "updated_at": "2025-11-03T14:24:56.327Z"
+  },
+  {
+    "id": "a255fd9b-2ed9-4d6f-b7e5-44afba603eb8",
+    "incident_number": "DMG-2022-1001",
+    "date": "2022-11-18",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5761,
+        29.3354
+      ]
+    },
+    "address": "5772 Zarzamora St, San Antonio, TX 29715",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "436ee084-83af-403c-a644-80b61020c927",
+    "excavator_company": "Corwin, Schowalter and Stracke Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "sewer",
+    "utility_owner": "SAWS",
+    "line_material": "PVC",
+    "line_diameter_inches": 10,
+    "line_depth_feet": 5,
+    "damage_type": "complete_break",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 323,
+      "outage_duration_hours": 8,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 84326,
+      "regulatory_fines": 38493,
+      "service_credits": 10659,
+      "indirect_costs": 16865,
+      "total": 150343
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2022-11-21",
+    "created_at": "2022-11-18T14:24:56.327Z",
+    "updated_at": "2025-11-03T14:24:56.327Z"
+  },
+  {
+    "id": "346a632c-70ea-4257-8788-c372168b3df9",
+    "incident_number": "DMG-2025-1002",
+    "date": "2025-02-26",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3345,
+        29.39
+      ]
+    },
+    "address": "3419 Commerce St, San Antonio, TX 63582",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "6323c556-f914-4493-b49f-a777e6df07a6",
+    "excavator_company": "Reichel - Olson Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 2,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "locator",
+    "root_cause": "wrong_depth_marked",
+    "detailed_cause": "Marked depth information was incorrect",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 474,
+      "outage_duration_hours": 5,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 68589,
+      "regulatory_fines": 26461,
+      "service_credits": 5214,
+      "indirect_costs": 13717,
+      "total": 113981
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-03-01",
+    "created_at": "2025-02-26T14:24:56.327Z",
+    "updated_at": "2025-11-03T14:24:56.327Z"
+  },
+  {
+    "id": "be38792f-666a-47b7-abe7-40297ad02501",
+    "incident_number": "DMG-2024-1003",
+    "date": "2024-10-23",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.345,
+        29.4727
+      ]
+    },
+    "address": "6996 Zarzamora St, San Antonio, TX 12085",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "dc0848a6-2cea-4d70-8bf4-997aa8a29cb0",
+    "excavator_company": "Kautzer, Kreiger and Wunsch Contractors",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 6,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "locator",
+    "root_cause": "inaccurate_marking",
+    "detailed_cause": "Utility marking was significantly off from actual location",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 8850,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1770,
+      "total": 10620
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-10-26",
+    "created_at": "2024-10-23T14:24:56.327Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "95c98c73-e0c3-4f9e-af33-b7d830855340",
+    "incident_number": "DMG-2024-1004",
+    "date": "2024-03-03",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.384,
+        29.3631
+      ]
+    },
+    "address": "6044 Main St, San Antonio, TX 90576",
+    "ticket_id": "ef8ca239-e295-4e4e-be08-b77f0662792d",
+    "ticket_number": "TX-2025-100888",
+    "excavator_id": "5d38da3a-1091-4137-a0cb-419d13e1302f",
+    "excavator_company": "Kunde, Crooks and Shanahan Construction",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 5,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 11343,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2268,
+      "total": 13611
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-03-06",
+    "created_at": "2024-03-03T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "321308fe-4d4b-4e84-a0a9-3bcf24d94422",
+    "incident_number": "DMG-2024-1005",
+    "date": "2024-11-26",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5805,
+        29.5611
+      ]
+    },
+    "address": "8542 Main St, San Antonio, TX 89516",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "a3396b9f-28e9-43c8-b72b-3000093d5191",
+    "excavator_company": "Harris, Bosco and Watsica Solutions",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "plastic",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 2.5,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 7265,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1453,
+      "total": 8718
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-11-29",
+    "created_at": "2024-11-26T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "69785ccf-5ef2-48ef-86b9-e1f598ea46d5",
+    "incident_number": "DMG-2025-1006",
+    "date": "2025-08-06",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4832,
+        29.3138
+      ]
+    },
+    "address": "9180 McCullough Ave, San Antonio, TX 30226",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "fe2fd5ba-0268-4542-980d-bdbfb691acd0",
+    "excavator_company": "Considine and Sons Group",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 2,
+    "line_depth_feet": 6.5,
+    "damage_type": "nick",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 58,
+      "outage_duration_hours": 9,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 15031,
+      "regulatory_fines": 39664,
+      "service_credits": 754,
+      "indirect_costs": 3006,
+      "total": 58455
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-08-09",
+    "created_at": "2025-08-06T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "a89935fb-39c3-4bda-8ae8-a79136287a05",
+    "incident_number": "DMG-2024-1007",
+    "date": "2024-10-26",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3112,
+        29.5596
+      ]
+    },
+    "address": "3772 Zarzamora St, San Antonio, TX 48772",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "a5ac3e4b-f2aa-4c39-9c5a-a633cb2bbd4a",
+    "excavator_company": "Mayert - Ward LLC",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 6,
+    "line_depth_feet": 3,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "utility_owner",
+    "root_cause": "inaccurate_records",
+    "detailed_cause": "Utility owner records showed incorrect location",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 3943,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 788,
+      "total": 4731
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Updated GIS records for gas utilities in this area. Flagged area for field verification on future tickets.",
+    "corrective_actions": [
+      "GIS records updated with accurate location",
+      "Field survey completed for surrounding area",
+      "Warning flag added for future tickets in this location"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-10-29",
+    "created_at": "2024-10-26T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "9c35bbe2-d6f9-4f48-b9eb-6d2ddc018344",
+    "incident_number": "DMG-2025-1008",
+    "date": "2025-10-20",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3323,
+        29.3002
+      ]
+    },
+    "address": "4240 Main St, San Antonio, TX 88701",
+    "ticket_id": "b0c75711-921c-4c75-8b9f-f7d23eda45e3",
+    "ticket_number": "TX-2025-100536",
+    "excavator_id": "76a17d01-50ac-47c7-a1cd-181215ec0b07",
+    "excavator_company": "Kilback and Sons Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 5,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "utility_owner",
+    "root_cause": "poor_maintenance",
+    "detailed_cause": "Utility condition contributed to failure (corrosion, age)",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 1875,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 375,
+      "total": 2250
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-10-23",
+    "created_at": "2025-10-20T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "69acdfd3-6849-46ec-b68a-64358cb644a3",
+    "incident_number": "DMG-2023-1009",
+    "date": "2023-01-20",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4325,
+        29.3844
+      ]
+    },
+    "address": "7910 Commerce St, San Antonio, TX 88217",
+    "ticket_id": "70806a57-35bd-4f95-8198-fe4c4a9c1155",
+    "ticket_number": "TX-2025-100801",
+    "excavator_id": "e99c0f77-4bc9-498e-af23-f409ae067345",
+    "excavator_company": "Bergstrom - Volkman Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "steel",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 8,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "failed_to_expose_verify",
+    "detailed_cause": "Failed to hand-dig and expose utilities before mechanical excavation",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 13029,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2605,
+      "total": 15634
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-01-23",
+    "created_at": "2023-01-20T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "7783672a-2fe1-4a0a-af27-c5eecbe938cb",
+    "incident_number": "DMG-2025-1010",
+    "date": "2025-08-24",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3697,
+        29.5127
+      ]
+    },
+    "address": "7189 Houston St, San Antonio, TX 59656",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "f519fb18-da57-4d1a-a9f0-0f96d65c7e57",
+    "excavator_company": "Wintheiser LLC Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "telecom",
+    "utility_owner": "Verizon",
+    "line_material": "fiber_optic",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 3,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "utility_owner",
+    "root_cause": "shallow_utility",
+    "detailed_cause": "Utility was shallower than minimum depth requirements",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 9359,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1871,
+      "total": 11230
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Utility was shallower than minimum depth standards. Area flagged for future tickets. Consider raising line.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-08-27",
+    "created_at": "2025-08-24T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "a4769f83-14e1-48bc-babb-f29e844fe27b",
+    "incident_number": "DMG-2024-1011",
+    "date": "2024-02-26",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3112,
+        29.5596
+      ]
+    },
+    "address": "4677 Flores St, San Antonio, TX 96347",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "22635651-e46d-43ff-a008-aaaba6d8c2f8",
+    "excavator_company": "Grady - McGlynn Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "PVC",
+    "line_diameter_inches": 6,
+    "line_depth_feet": 4,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "locator",
+    "root_cause": "wrong_depth_marked",
+    "detailed_cause": "Marked depth information was incorrect",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 0,
+      "outage_duration_hours": 1,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 11310,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2262,
+      "total": 13572
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-02-29",
+    "created_at": "2024-02-26T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "d478709d-ca91-485e-96d7-67aec41c99f2",
+    "incident_number": "DMG-2024-1012",
+    "date": "2024-10-27",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5115,
+        29.3439
+      ]
+    },
+    "address": "8635 Fredericksburg Rd, San Antonio, TX 24836",
+    "ticket_id": "9291c772-8022-4885-b514-acf1bbe04210",
+    "ticket_number": "TX-2025-100742",
+    "excavator_id": "436ee084-83af-403c-a644-80b61020c927",
+    "excavator_company": "Corwin, Schowalter and Stracke Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 7.5,
+    "damage_type": "nick",
+    "severity": "critical",
+    "responsible_party": "locator",
+    "root_cause": "inaccurate_marking",
+    "detailed_cause": "Utility marking was significantly off from actual location",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 2690,
+      "outage_duration_hours": 14,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 152938,
+      "regulatory_fines": 66517,
+      "service_credits": 137190,
+      "indirect_costs": 30587,
+      "total": 387232
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": true,
+    "regulatory_case_number": "RRC-2024-6HDH9M",
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-10-30",
+    "created_at": "2024-10-27T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "560571ff-c0e5-42f1-8359-b5e8b0c48f9c",
+    "incident_number": "DMG-2025-1013",
+    "date": "2025-05-24",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.416,
+        29.5379
+      ]
+    },
+    "address": "3621 Broadway, San Antonio, TX 71979",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "ce2b9d64-4407-441a-93ea-d095972e1f25",
+    "excavator_company": "Littel LLC Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 6,
+    "line_depth_feet": 4.5,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "ignored_markings",
+    "detailed_cause": "Excavator ignored or removed utility markings",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 5730,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1146,
+      "total": 6876
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional training on utility marking identification and respect for marked boundaries.",
+    "corrective_actions": [
+      "Excavator suspended from work pending investigation",
+      "Required to complete utility damage prevention training",
+      "Increased supervision required for future work"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-05-27",
+    "created_at": "2025-05-24T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "73e86f61-afe5-455c-860a-11a3b4ae2520",
+    "incident_number": "DMG-2025-1014",
+    "date": "2025-01-09",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5481,
+        29.5867
+      ]
+    },
+    "address": "1961 Flores St, San Antonio, TX 46120",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "0485ea99-3dbc-49b7-851a-0f286f6d97e1",
+    "excavator_company": "Effertz and Sons Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 4,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "unknown",
+    "root_cause": "unknown",
+    "detailed_cause": "Root cause could not be determined from available information",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 13547,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2709,
+      "total": 16256
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-01-12",
+    "created_at": "2025-01-09T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "acf67e69-1255-4d44-b9a7-2098cd7e9a5b",
+    "incident_number": "DMG-2025-1015",
+    "date": "2025-07-27",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6307,
+        29.3291
+      ]
+    },
+    "address": "2236 San Pedro Ave, San Antonio, TX 28617",
+    "ticket_id": "335d3f45-7103-438d-953b-1fffb4413d4a",
+    "ticket_number": "TX-2025-100552",
+    "excavator_id": "d696767b-1b70-41dd-8474-285b6ae063ae",
+    "excavator_company": "Runolfsdottir, Tromp and Stanton Excavation",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 6,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 4216,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 843,
+      "total": 5059
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-07-30",
+    "created_at": "2025-07-27T14:24:56.328Z",
+    "updated_at": "2025-11-03T14:24:56.328Z"
+  },
+  {
+    "id": "468fa28f-4b10-42c1-9f78-e21b1a4ea4ee",
+    "incident_number": "DMG-2025-1016",
+    "date": "2025-07-23",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6694,
+        29.3591
+      ]
+    },
+    "address": "7354 Main St, San Antonio, TX 02155",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "a576b710-8964-4c41-af1b-6bebb79ff67a",
+    "excavator_company": "Nolan - Bogisich Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 5.5,
+    "damage_type": "scrape",
+    "severity": "major",
+    "responsible_party": "locator",
+    "root_cause": "inaccurate_marking",
+    "detailed_cause": "Utility marking was significantly off from actual location",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 270,
+      "outage_duration_hours": 21,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 60771,
+      "regulatory_fines": 27748,
+      "service_credits": 12960,
+      "indirect_costs": 12154,
+      "total": 113633
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-07-26",
+    "created_at": "2025-07-23T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "4a255054-aed5-418b-8de7-1e24be608061",
+    "incident_number": "DMG-2024-1017",
+    "date": "2024-08-21",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6163,
+        29.3145
+      ]
+    },
+    "address": "4170 McCullough Ave, San Antonio, TX 84691",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "a5ac3e4b-f2aa-4c39-9c5a-a633cb2bbd4a",
+    "excavator_company": "Mayert - Ward LLC",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 4.5,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "utility_owner",
+    "root_cause": "inaccurate_records",
+    "detailed_cause": "Utility owner records showed incorrect location",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 407,
+      "outage_duration_hours": 14,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 73354,
+      "regulatory_fines": 37511,
+      "service_credits": 9361,
+      "indirect_costs": 14670,
+      "total": 134896
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Updated GIS records for water utilities in this area. Flagged area for field verification on future tickets.",
+    "corrective_actions": [
+      "GIS records updated with accurate location",
+      "Field survey completed for surrounding area",
+      "Warning flag added for future tickets in this location"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-08-24",
+    "created_at": "2024-08-21T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "57584c83-ab64-48a6-8542-2fc332eac0c6",
+    "incident_number": "DMG-2024-1018",
+    "date": "2024-10-04",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6525,
+        29.5898
+      ]
+    },
+    "address": "350 McCullough Ave, San Antonio, TX 93902",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "ce08fa43-24f5-43f8-bbd8-43892fab93ac",
+    "excavator_company": "Senger Inc Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 3.5,
+    "damage_type": "nick",
+    "severity": "critical",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 4332,
+      "outage_duration_hours": 58,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 57712,
+      "regulatory_fines": 247158,
+      "service_credits": 398544,
+      "indirect_costs": 11542,
+      "total": 714956
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": "RRC-2024-AHTXXA",
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-10-07",
+    "created_at": "2024-10-04T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "8c52e098-4807-4304-874a-26c0ef52056f",
+    "incident_number": "DMG-2024-1019",
+    "date": "2024-09-28",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6034,
+        29.4279
+      ]
+    },
+    "address": "9036 McCullough Ave, San Antonio, TX 86462",
+    "ticket_id": "5d2a0469-96a8-4423-82da-bd8c762651a4",
+    "ticket_number": "TX-2025-100924",
+    "excavator_id": "2f45c3d1-02b1-47d1-a844-a3abbe939a01",
+    "excavator_company": "Nitzsche, O'Connell and Schumm Construction",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "steel",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 4,
+    "damage_type": "complete_break",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 160,
+      "outage_duration_hours": 18,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 37107,
+      "regulatory_fines": 31620,
+      "service_credits": 7840,
+      "indirect_costs": 7421,
+      "total": 83988
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-10-01",
+    "created_at": "2024-09-28T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "c9240428-3e4f-46e2-af9a-75bbe847b5b2",
+    "incident_number": "DMG-2025-1020",
+    "date": "2025-09-11",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4648,
+        29.3052
+      ]
+    },
+    "address": "6898 Main St, San Antonio, TX 68928",
+    "ticket_id": "19126053-f9fa-49e5-85f3-cf042cef488b",
+    "ticket_number": "TX-2025-100373",
+    "excavator_id": "d34a8c60-01ac-425a-87df-3dd5368038c0",
+    "excavator_company": "Hodkiewicz - Hartmann Excavation",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "steel",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 2,
+    "damage_type": "scrape",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 87,
+      "outage_duration_hours": 9,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 15542,
+      "regulatory_fines": 17761,
+      "service_credits": 1392,
+      "indirect_costs": 3108,
+      "total": 37803
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-09-14",
+    "created_at": "2025-09-11T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "ca7189a8-6857-4c5e-b25e-773404cc979e",
+    "incident_number": "DMG-2023-1021",
+    "date": "2023-06-17",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5786,
+        29.4896
+      ]
+    },
+    "address": "679 Main St, San Antonio, TX 41611",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "f7427342-5101-41a3-801b-0e6e6415a85d",
+    "excavator_company": "Fay LLC Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 4,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 5,
+      "outage_duration_hours": 3,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 12251,
+      "regulatory_fines": 0,
+      "service_credits": 60,
+      "indirect_costs": 2450,
+      "total": 14761
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-06-20",
+    "created_at": "2023-06-17T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "cb742e5b-0318-4197-b2eb-e31366141738",
+    "incident_number": "DMG-2024-1022",
+    "date": "2024-04-18",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6587,
+        29.4367
+      ]
+    },
+    "address": "4734 Zarzamora St, San Antonio, TX 43690",
+    "ticket_id": "3a29f0c3-16be-46a9-886d-d59a76e46285",
+    "ticket_number": "TX-2025-100466",
+    "excavator_id": "0485ea99-3dbc-49b7-851a-0f286f6d97e1",
+    "excavator_company": "Effertz and Sons Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 2,
+    "line_depth_feet": 2.5,
+    "damage_type": "complete_break",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "improper_excavation_method",
+    "detailed_cause": "Used improper excavation method near marked utilities",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 79,
+      "outage_duration_hours": 19,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 38192,
+      "regulatory_fines": 20076,
+      "service_credits": 3871,
+      "indirect_costs": 7638,
+      "total": 69777
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-04-21",
+    "created_at": "2024-04-18T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "9158792a-9aba-4846-a282-6ff6f106c6f6",
+    "incident_number": "DMG-2024-1023",
+    "date": "2024-11-28",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6736,
+        29.3888
+      ]
+    },
+    "address": "1338 McCullough Ave, San Antonio, TX 22384",
+    "ticket_id": "8a448a49-1985-4d59-bf98-bca6f7ff503d",
+    "ticket_number": "TX-2025-100319",
+    "excavator_id": "5539487a-68f8-4d1f-a642-14de09021db8",
+    "excavator_company": "Breitenberg, Buckridge and Rice Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 4.5,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 6023,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1204,
+      "total": 7227
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-12-01",
+    "created_at": "2024-11-28T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "382ce9ec-3f57-4e9a-9a37-68eb5e7e1685",
+    "incident_number": "DMG-2025-1024",
+    "date": "2025-07-30",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6736,
+        29.3888
+      ]
+    },
+    "address": "3754 Main St, San Antonio, TX 78135",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "048f9c75-4d82-4fd8-8a3a-430511906121",
+    "excavator_company": "Russel Group LLC",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 4,
+    "damage_type": "complete_break",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 365,
+      "outage_duration_hours": 19,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 63628,
+      "regulatory_fines": 11228,
+      "service_credits": 13140,
+      "indirect_costs": 12725,
+      "total": 100721
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-08-02",
+    "created_at": "2025-07-30T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "ead0c9f1-989c-432e-974e-d98a07975368",
+    "incident_number": "DMG-2024-1025",
+    "date": "2024-04-08",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6587,
+        29.4367
+      ]
+    },
+    "address": "1985 Commerce St, San Antonio, TX 62152",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "60de6b17-cb32-4711-bac7-cb0b59023707",
+    "excavator_company": "Sipes Group Solutions",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 3,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 18,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 4267,
+      "regulatory_fines": 0,
+      "service_credits": 450,
+      "indirect_costs": 853,
+      "total": 5570
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-04-11",
+    "created_at": "2024-04-08T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "d3cc6d2a-8bb8-4161-8abb-f28cccc988a1",
+    "incident_number": "DMG-2025-1026",
+    "date": "2025-09-20",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5374,
+        29.4216
+      ]
+    },
+    "address": "4866 Zarzamora St, San Antonio, TX 72002",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "f7427342-5101-41a3-801b-0e6e6415a85d",
+    "excavator_company": "Fay LLC Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 7,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 3763,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 752,
+      "total": 4515
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-09-23",
+    "created_at": "2025-09-20T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "132b6941-992a-4786-a961-b07166c27b6d",
+    "incident_number": "DMG-2024-1027",
+    "date": "2024-12-31",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6438,
+        29.503
+      ]
+    },
+    "address": "9509 Fredericksburg Rd, San Antonio, TX 63035",
+    "ticket_id": "ff2f89e9-11d7-4596-82fa-36b9bf10c0b4",
+    "ticket_number": "TX-2025-100757",
+    "excavator_id": "d5cf55b3-0202-4c7d-b66c-1ceaa05454cf",
+    "excavator_company": "Weissnat, Wunsch and Douglas Construction",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 5.5,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "locator",
+    "root_cause": "missed_utility",
+    "detailed_cause": "Locator failed to identify and mark utility",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 14586,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2917,
+      "total": 17503
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional locator training scheduled. Implemented secondary verification for complex areas.",
+    "corrective_actions": [
+      "Locator retraining completed",
+      "Implemented peer review for complex tickets",
+      "Enhanced quality control procedures"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-01-03",
+    "created_at": "2024-12-31T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "d5bc54e6-1eee-4a35-9067-847aa873794d",
+    "incident_number": "DMG-2025-1028",
+    "date": "2025-08-24",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5989,
+        29.3455
+      ]
+    },
+    "address": "4701 Houston St, San Antonio, TX 52848",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "dafb3368-1f4f-4009-8290-d7d81a7e20f1",
+    "excavator_company": "Howell - Hudson Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 6,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 2,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 11626,
+      "regulatory_fines": 0,
+      "service_credits": 34,
+      "indirect_costs": 2325,
+      "total": 13985
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-08-27",
+    "created_at": "2025-08-24T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "e50eb12d-dd2d-442f-a463-0dc923f70762",
+    "incident_number": "DMG-2023-1029",
+    "date": "2023-07-13",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4304,
+        29.4935
+      ]
+    },
+    "address": "9930 McCullough Ave, San Antonio, TX 73052",
+    "ticket_id": "b4b62bfe-74ed-43f2-b9c8-ce77cb941f79",
+    "ticket_number": "TX-2025-100214",
+    "excavator_id": "e99c0f77-4bc9-498e-af23-f409ae067345",
+    "excavator_company": "Bergstrom - Volkman Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 5,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "failed_to_expose_verify",
+    "detailed_cause": "Failed to hand-dig and expose utilities before mechanical excavation",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 2,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 10772,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2154,
+      "total": 12926
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2023-07-16",
+    "created_at": "2023-07-13T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "5a02a837-d559-4a05-9a86-87b5840f0707",
+    "incident_number": "DMG-2024-1030",
+    "date": "2024-08-19",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3641,
+        29.4871
+      ]
+    },
+    "address": "5029 San Pedro Ave, San Antonio, TX 70095",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "1955f2f4-75d8-4b81-9c9c-fe984bdc9628",
+    "excavator_company": "Balistreri and Sons Solutions",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 6.5,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 0,
+      "outage_duration_hours": 2,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 9618,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1923,
+      "total": 11541
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-08-22",
+    "created_at": "2024-08-19T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "eae7021b-a5fc-43aa-a56a-335017873c7f",
+    "incident_number": "DMG-2025-1031",
+    "date": "2025-11-03",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3112,
+        29.5596
+      ]
+    },
+    "address": "9577 Flores St, San Antonio, TX 05580",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "76a17d01-50ac-47c7-a1cd-181215ec0b07",
+    "excavator_company": "Kilback and Sons Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 7,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 4497,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 899,
+      "total": 5396
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-11-06",
+    "created_at": "2025-11-03T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "a8c50a67-ed38-49c4-8fcd-6f551576de60",
+    "incident_number": "DMG-2023-1032",
+    "date": "2023-12-17",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4907,
+        29.4324
+      ]
+    },
+    "address": "6732 Main St, San Antonio, TX 70012",
+    "ticket_id": "859a5c91-b54e-4a3e-a81b-2580ca51df82",
+    "ticket_number": "TX-2025-100417",
+    "excavator_id": "6323c556-f914-4493-b49f-a777e6df07a6",
+    "excavator_company": "Reichel - Olson Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 6.5,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "ignored_markings",
+    "detailed_cause": "Excavator ignored or removed utility markings",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 10464,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2092,
+      "total": 12556
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional training on utility marking identification and respect for marked boundaries.",
+    "corrective_actions": [
+      "Excavator suspended from work pending investigation",
+      "Required to complete utility damage prevention training",
+      "Increased supervision required for future work"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-12-20",
+    "created_at": "2023-12-17T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "d8a869e3-ad93-48d0-9824-4e2bd71ff0d1",
+    "incident_number": "DMG-2024-1033",
+    "date": "2024-05-12",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.311,
+        29.3537
+      ]
+    },
+    "address": "2492 San Pedro Ave, San Antonio, TX 61363",
+    "ticket_id": "a8308bd6-34be-4ae3-8c17-5ab0982f5095",
+    "ticket_number": "TX-2025-100677",
+    "excavator_id": "f5c48280-f5ea-49fa-aad3-50e83d2cd0d5",
+    "excavator_company": "Jenkins - VonRueden Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "copper",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 2.5,
+    "damage_type": "scrape",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "ignored_markings",
+    "detailed_cause": "Excavator ignored or removed utility markings",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 79,
+      "outage_duration_hours": 18,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 69678,
+      "regulatory_fines": 8784,
+      "service_credits": 2923,
+      "indirect_costs": 13935,
+      "total": 95320
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional training on utility marking identification and respect for marked boundaries.",
+    "corrective_actions": [
+      "Excavator suspended from work pending investigation",
+      "Required to complete utility damage prevention training",
+      "Increased supervision required for future work"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-05-15",
+    "created_at": "2024-05-12T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "3e20c503-a8fa-4707-b2d9-9c474c07f7e7",
+    "incident_number": "DMG-2023-1034",
+    "date": "2023-06-14",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5474,
+        29.3195
+      ]
+    },
+    "address": "9063 San Pedro Ave, San Antonio, TX 72548",
+    "ticket_id": "eec83a6e-b1d3-4330-b5c4-fccad5eac4bd",
+    "ticket_number": "TX-2025-100509",
+    "excavator_id": "048f9c75-4d82-4fd8-8a3a-430511906121",
+    "excavator_company": "Russel Group LLC",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "PVC",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 4.5,
+    "damage_type": "strike",
+    "severity": "critical",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 119,
+      "outage_duration_hours": 13,
+      "evacuation_required": false,
+      "injuries": 2,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 351999,
+      "regulatory_fines": 116120,
+      "service_credits": 9520,
+      "indirect_costs": 70399,
+      "total": 548038
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": "RRC-2023-EYLXFR",
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-06-17",
+    "created_at": "2023-06-14T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "b21fe64c-3c74-402e-8536-e00299a70ec9",
+    "incident_number": "DMG-2024-1035",
+    "date": "2024-04-28",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6596,
+        29.3833
+      ]
+    },
+    "address": "7196 Houston St, San Antonio, TX 85895",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "8dbe3496-de54-4927-8e19-cf39e0e59a64",
+    "excavator_company": "Rowe and Sons Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 3,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 3,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 4017,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 803,
+      "total": 4820
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-05-01",
+    "created_at": "2024-04-28T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "6b15c0f1-5810-4f77-b2b9-d2e0be03079d",
+    "incident_number": "DMG-2025-1036",
+    "date": "2025-10-18",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4304,
+        29.4935
+      ]
+    },
+    "address": "8647 Commerce St, San Antonio, TX 95441",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "6323c556-f914-4493-b49f-a777e6df07a6",
+    "excavator_company": "Reichel - Olson Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 7,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "failed_to_expose_verify",
+    "detailed_cause": "Failed to hand-dig and expose utilities before mechanical excavation",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 224,
+      "outage_duration_hours": 20,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 93685,
+      "regulatory_fines": 25827,
+      "service_credits": 7616,
+      "indirect_costs": 18737,
+      "total": 145865
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-10-21",
+    "created_at": "2025-10-18T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "160fb737-7e84-4d0f-9e08-0e2e0cb9b7e9",
+    "incident_number": "DMG-2024-1037",
+    "date": "2024-02-03",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6303,
+        29.5763
+      ]
+    },
+    "address": "2622 Broadway, San Antonio, TX 54699",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "ce2b9d64-4407-441a-93ea-d095972e1f25",
+    "excavator_company": "Littel LLC Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 2,
+    "damage_type": "scrape",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "improper_excavation_method",
+    "detailed_cause": "Used improper excavation method near marked utilities",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 82,
+      "outage_duration_hours": 3,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 78660,
+      "regulatory_fines": 27300,
+      "service_credits": 3526,
+      "indirect_costs": 15732,
+      "total": 125218
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-02-06",
+    "created_at": "2024-02-03T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "5982f603-c114-4f5a-9ea0-64885eb697f2",
+    "incident_number": "DMG-2025-1038",
+    "date": "2025-08-06",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3049,
+        29.5312
+      ]
+    },
+    "address": "9853 Broadway, San Antonio, TX 15977",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "57b57c22-5f1f-4dbd-9e64-a8c4f6482a81",
+    "excavator_company": "Schmidt - Schuppe Company",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 4.5,
+    "damage_type": "complete_break",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 472,
+      "outage_duration_hours": 15,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 86889,
+      "regulatory_fines": 37733,
+      "service_credits": 9440,
+      "indirect_costs": 17377,
+      "total": 151439
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-08-09",
+    "created_at": "2025-08-06T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "7321f4fc-9dcf-4e07-be0f-c907008b50d0",
+    "incident_number": "DMG-2025-1039",
+    "date": "2025-10-23",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3209,
+        29.3046
+      ]
+    },
+    "address": "3295 Fredericksburg Rd, San Antonio, TX 71845",
+    "ticket_id": "70806a57-35bd-4f95-8198-fe4c4a9c1155",
+    "ticket_number": "TX-2025-100801",
+    "excavator_id": "d696767b-1b70-41dd-8474-285b6ae063ae",
+    "excavator_company": "Runolfsdottir, Tromp and Stanton Excavation",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 7.5,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "locator",
+    "root_cause": "incomplete_locate",
+    "detailed_cause": "Locator did not complete the entire scope of the ticket",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 323,
+      "outage_duration_hours": 20,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 95799,
+      "regulatory_fines": 15518,
+      "service_credits": 15181,
+      "indirect_costs": 19159,
+      "total": 145657
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-10-26",
+    "created_at": "2025-10-23T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "8a16faba-f5f7-4cf0-8055-15b975bb4e66",
+    "incident_number": "DMG-2025-1040",
+    "date": "2025-10-04",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4113,
+        29.5691
+      ]
+    },
+    "address": "607 San Pedro Ave, San Antonio, TX 05240",
+    "ticket_id": "9f25f2b4-587b-432d-8597-2a1a1855f888",
+    "ticket_number": "TX-2025-100224",
+    "excavator_id": "6323c556-f914-4493-b49f-a777e6df07a6",
+    "excavator_company": "Reichel - Olson Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 2,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 2720,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 544,
+      "total": 3264
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-10-07",
+    "created_at": "2025-10-04T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.329Z"
+  },
+  {
+    "id": "6e3f2007-cf04-4666-bd83-fc5de83c792b",
+    "incident_number": "DMG-2023-1041",
+    "date": "2023-12-03",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4304,
+        29.4935
+      ]
+    },
+    "address": "3100 Zarzamora St, San Antonio, TX 02328",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "beddf23f-60f6-4fa2-80fc-ebd429e7f36b",
+    "excavator_company": "Carroll - Dach Construction",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 2,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 10171,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2034,
+      "total": 12205
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-12-06",
+    "created_at": "2023-12-03T14:24:56.329Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "d8cbfb38-6663-4499-8421-afff205dfc53",
+    "incident_number": "DMG-2025-1042",
+    "date": "2025-06-03",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5457,
+        29.5749
+      ]
+    },
+    "address": "5713 Houston St, San Antonio, TX 69254",
+    "ticket_id": "38bca47d-21b2-4f8f-a53a-fccc3af55257",
+    "ticket_number": "TX-2025-100249",
+    "excavator_id": "0485ea99-3dbc-49b7-851a-0f286f6d97e1",
+    "excavator_company": "Effertz and Sons Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 2,
+    "damage_type": "scrape",
+    "severity": "major",
+    "responsible_party": "locator",
+    "root_cause": "missed_utility",
+    "detailed_cause": "Locator failed to identify and mark utility",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 352,
+      "outage_duration_hours": 8,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 62761,
+      "regulatory_fines": 36375,
+      "service_credits": 3872,
+      "indirect_costs": 12552,
+      "total": 115560
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional locator training scheduled. Implemented secondary verification for complex areas.",
+    "corrective_actions": [
+      "Locator retraining completed",
+      "Implemented peer review for complex tickets",
+      "Enhanced quality control procedures"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-06-06",
+    "created_at": "2025-06-03T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "6500f92c-f849-4301-a7d1-321efd6b82e1",
+    "incident_number": "DMG-2025-1043",
+    "date": "2025-02-02",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6098,
+        29.4452
+      ]
+    },
+    "address": "6989 Commerce St, San Antonio, TX 21584",
+    "ticket_id": "f53f42d7-6013-4762-a7ca-28d8a527cf37",
+    "ticket_number": "TX-2025-100564",
+    "excavator_id": "707ac952-11b3-48c2-8da2-30fbd347dab3",
+    "excavator_company": "Pagac LLC Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "telecom",
+    "utility_owner": "Verizon",
+    "line_material": "fiber_optic",
+    "line_diameter_inches": 1,
+    "line_depth_feet": 5,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 12353,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2470,
+      "total": 14823
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-02-05",
+    "created_at": "2025-02-02T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "c2fb0cc7-7692-4d29-a595-9e5fa17c3d97",
+    "incident_number": "DMG-2025-1044",
+    "date": "2025-07-01",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3059,
+        29.3155
+      ]
+    },
+    "address": "4825 Zarzamora St, San Antonio, TX 41251",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "d696767b-1b70-41dd-8474-285b6ae063ae",
+    "excavator_company": "Runolfsdottir, Tromp and Stanton Excavation",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 3,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 13614,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2722,
+      "total": 16336
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-07-04",
+    "created_at": "2025-07-01T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "70cd72ce-a42c-440d-8e71-c3711fa74922",
+    "incident_number": "DMG-2025-1045",
+    "date": "2025-08-28",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6587,
+        29.4367
+      ]
+    },
+    "address": "950 Broadway, San Antonio, TX 18459",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "22635651-e46d-43ff-a008-aaaba6d8c2f8",
+    "excavator_company": "Grady - McGlynn Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 2,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 3801,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 760,
+      "total": 4561
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-08-31",
+    "created_at": "2025-08-28T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "e6ada608-ab7d-4ad6-8aa8-46a4932b350c",
+    "incident_number": "DMG-2025-1046",
+    "date": "2025-08-10",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3016,
+        29.5156
+      ]
+    },
+    "address": "2303 Zarzamora St, San Antonio, TX 75187",
+    "ticket_id": "1a8fcfc8-5535-4f31-b672-c5704cd8916f",
+    "ticket_number": "TX-2025-100326",
+    "excavator_id": "fe2fd5ba-0268-4542-980d-bdbfb691acd0",
+    "excavator_company": "Considine and Sons Group",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 2,
+    "damage_type": "scrape",
+    "severity": "major",
+    "responsible_party": "utility_owner",
+    "root_cause": "undocumented_utility",
+    "detailed_cause": "Utility not shown on owner records or maps",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 120,
+      "outage_duration_hours": 3,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 86493,
+      "regulatory_fines": 7328,
+      "service_credits": 3360,
+      "indirect_costs": 17298,
+      "total": 114479
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-08-13",
+    "created_at": "2025-08-10T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "a2b6215d-d484-4ed5-a913-24d0f104b94d",
+    "incident_number": "DMG-2025-1047",
+    "date": "2025-01-27",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3112,
+        29.5596
+      ]
+    },
+    "address": "4216 San Pedro Ave, San Antonio, TX 01212",
+    "ticket_id": "275648ff-ecc7-4d1e-84d8-cb7d04883ee7",
+    "ticket_number": "TX-2025-100994",
+    "excavator_id": "436ee084-83af-403c-a644-80b61020c927",
+    "excavator_company": "Corwin, Schowalter and Stracke Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "telecom",
+    "utility_owner": "Verizon",
+    "line_material": "copper",
+    "line_diameter_inches": 2,
+    "line_depth_feet": 3.5,
+    "damage_type": "nick",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "improper_excavation_method",
+    "detailed_cause": "Used improper excavation method near marked utilities",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 190,
+      "outage_duration_hours": 15,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 88677,
+      "regulatory_fines": 25077,
+      "service_credits": 3230,
+      "indirect_costs": 17735,
+      "total": 134719
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-01-30",
+    "created_at": "2025-01-27T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "2d799fb2-c4dd-4947-8be7-5d1984d0708a",
+    "incident_number": "DMG-2025-1048",
+    "date": "2025-10-29",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.518,
+        29.3178
+      ]
+    },
+    "address": "174 Flores St, San Antonio, TX 71640",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "20f00298-c276-4102-8d4d-9fbf4f265cc0",
+    "excavator_company": "Gleichner, Crist and Graham Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "telecom",
+    "utility_owner": "AT&T",
+    "line_material": "fiber_optic",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 8,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 0,
+      "outage_duration_hours": 3,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 5762,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1152,
+      "total": 6914
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-11-01",
+    "created_at": "2025-10-29T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "a21fd9e9-226b-4f30-bbc1-a30a2c7f8956",
+    "incident_number": "DMG-2025-1049",
+    "date": "2025-01-14",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.388,
+        29.4943
+      ]
+    },
+    "address": "7333 Main St, San Antonio, TX 45008",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "ce2b9d64-4407-441a-93ea-d095972e1f25",
+    "excavator_company": "Littel LLC Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "telecom",
+    "utility_owner": "AT&T",
+    "line_material": "fiber_optic",
+    "line_diameter_inches": 2,
+    "line_depth_feet": 3.5,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "failed_to_expose_verify",
+    "detailed_cause": "Failed to hand-dig and expose utilities before mechanical excavation",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 14,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 7042,
+      "regulatory_fines": 0,
+      "service_credits": 322,
+      "indirect_costs": 1408,
+      "total": 8772
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-01-17",
+    "created_at": "2025-01-14T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "c34080fb-8faf-41cc-b1c7-79dc74cc7dfa",
+    "incident_number": "DMG-2024-1050",
+    "date": "2024-11-15",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5805,
+        29.5611
+      ]
+    },
+    "address": "9688 Zarzamora St, San Antonio, TX 62308",
+    "ticket_id": "5f1884d3-21cf-46dc-99e6-34350ea34c88",
+    "ticket_number": "TX-2025-100014",
+    "excavator_id": "f7427342-5101-41a3-801b-0e6e6415a85d",
+    "excavator_company": "Fay LLC Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 2.5,
+    "damage_type": "complete_break",
+    "severity": "critical",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 671,
+      "outage_duration_hours": 53,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": true
+    },
+    "costs": {
+      "repair": 478554,
+      "regulatory_fines": 180324,
+      "service_credits": 65087,
+      "indirect_costs": 95710,
+      "total": 819675
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": "RRC-2024-Y7OVEB",
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-11-18",
+    "created_at": "2024-11-15T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "8712512e-0c5a-4285-b830-0b5d7d1d78c7",
+    "incident_number": "DMG-2023-1051",
+    "date": "2023-05-14",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3839,
+        29.5074
+      ]
+    },
+    "address": "4792 Fredericksburg Rd, San Antonio, TX 27605",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "d34a8c60-01ac-425a-87df-3dd5368038c0",
+    "excavator_company": "Hodkiewicz - Hartmann Excavation",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 2.5,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 18,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 14455,
+      "regulatory_fines": 0,
+      "service_credits": 162,
+      "indirect_costs": 2891,
+      "total": 17508
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-05-17",
+    "created_at": "2023-05-14T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "2fed2cb2-b438-4818-9e80-b72d8d197b95",
+    "incident_number": "DMG-2024-1052",
+    "date": "2024-12-04",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3112,
+        29.5596
+      ]
+    },
+    "address": "582 Commerce St, San Antonio, TX 38411",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "d696767b-1b70-41dd-8474-285b6ae063ae",
+    "excavator_company": "Runolfsdottir, Tromp and Stanton Excavation",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 4,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "failed_to_expose_verify",
+    "detailed_cause": "Failed to hand-dig and expose utilities before mechanical excavation",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 8,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 1752,
+      "regulatory_fines": 0,
+      "service_credits": 96,
+      "indirect_costs": 350,
+      "total": 2198
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-12-07",
+    "created_at": "2024-12-04T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "66e38dc9-b8f7-4e8f-8d58-4ae5f442b60c",
+    "incident_number": "DMG-2023-1053",
+    "date": "2023-01-10",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6993,
+        29.3967
+      ]
+    },
+    "address": "2971 McCullough Ave, San Antonio, TX 33062",
+    "ticket_id": "74eefdcc-59aa-4162-b364-46f7d16f1b77",
+    "ticket_number": "TX-2025-100260",
+    "excavator_id": "5539487a-68f8-4d1f-a642-14de09021db8",
+    "excavator_company": "Breitenberg, Buckridge and Rice Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "PVC",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 7.5,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 20,
+      "outage_duration_hours": 20,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 40849,
+      "regulatory_fines": 20799,
+      "service_credits": 960,
+      "indirect_costs": 8169,
+      "total": 70777
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2023-01-13",
+    "created_at": "2023-01-10T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "38f94a06-5d85-4458-87ea-4a275fe43560",
+    "incident_number": "DMG-2025-1054",
+    "date": "2025-03-26",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3222,
+        29.3095
+      ]
+    },
+    "address": "741 Main St, San Antonio, TX 57837",
+    "ticket_id": "018a060e-d558-420a-96a4-88035ec8be54",
+    "ticket_number": "TX-2025-100701",
+    "excavator_id": "f7427342-5101-41a3-801b-0e6e6415a85d",
+    "excavator_company": "Fay LLC Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 4,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "locator",
+    "root_cause": "missed_utility",
+    "detailed_cause": "Locator failed to identify and mark utility",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 11656,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2331,
+      "total": 13987
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional locator training scheduled. Implemented secondary verification for complex areas.",
+    "corrective_actions": [
+      "Locator retraining completed",
+      "Implemented peer review for complex tickets",
+      "Enhanced quality control procedures"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-03-29",
+    "created_at": "2025-03-26T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "d45e2c27-b05f-421c-9fe6-fe4ea26220c9",
+    "incident_number": "DMG-2023-1055",
+    "date": "2023-10-12",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5942,
+        29.3519
+      ]
+    },
+    "address": "1416 Commerce St, San Antonio, TX 86880",
+    "ticket_id": "838eb9ec-6ba2-4b6b-bcdb-fef855bdc866",
+    "ticket_number": "TX-2025-100389",
+    "excavator_id": "06825cc3-845f-486e-8802-b166046d153d",
+    "excavator_company": "Bednar - Hayes Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "sewer",
+    "utility_owner": "SAWS",
+    "line_material": "clay",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 6.5,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "improper_excavation_method",
+    "detailed_cause": "Used improper excavation method near marked utilities",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 10626,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2125,
+      "total": 12751
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-10-15",
+    "created_at": "2023-10-12T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "fb974f91-8fab-4457-95c2-4757b6203d60",
+    "incident_number": "DMG-2024-1056",
+    "date": "2024-03-06",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5167,
+        29.4812
+      ]
+    },
+    "address": "864 Broadway, San Antonio, TX 32044",
+    "ticket_id": "638f9a58-8198-4430-ab8a-c68a24fb01fd",
+    "ticket_number": "TX-2025-100992",
+    "excavator_id": "8dbe3496-de54-4927-8e19-cf39e0e59a64",
+    "excavator_company": "Rowe and Sons Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "PVC",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 6.5,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "unknown",
+    "root_cause": "unknown",
+    "detailed_cause": "Root cause could not be determined from available information",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 2,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 13213,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2642,
+      "total": 15855
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-03-09",
+    "created_at": "2024-03-06T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "d527554d-2129-4893-8cf9-2fd9174dffcf",
+    "incident_number": "DMG-2025-1057",
+    "date": "2025-02-16",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3278,
+        29.4143
+      ]
+    },
+    "address": "3111 Commerce St, San Antonio, TX 70722",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "0485ea99-3dbc-49b7-851a-0f286f6d97e1",
+    "excavator_company": "Effertz and Sons Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "telecom",
+    "utility_owner": "AT&T",
+    "line_material": "copper",
+    "line_diameter_inches": 1,
+    "line_depth_feet": 7.5,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 5779,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1155,
+      "total": 6934
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-02-19",
+    "created_at": "2025-02-16T14:24:56.330Z",
+    "updated_at": "2025-11-03T14:24:56.330Z"
+  },
+  {
+    "id": "71bee942-1116-477d-a18f-a70b9aec5d06",
+    "incident_number": "DMG-2024-1058",
+    "date": "2024-11-23",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6077,
+        29.5662
+      ]
+    },
+    "address": "6752 Commerce St, San Antonio, TX 96824",
+    "ticket_id": "67940185-c444-4f1c-9e06-19c54256f8dd",
+    "ticket_number": "TX-2025-100400",
+    "excavator_id": "0485ea99-3dbc-49b7-851a-0f286f6d97e1",
+    "excavator_company": "Effertz and Sons Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "plastic",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 6.5,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "locator",
+    "root_cause": "inaccurate_marking",
+    "detailed_cause": "Utility marking was significantly off from actual location",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 487,
+      "outage_duration_hours": 19,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 89641,
+      "regulatory_fines": 44794,
+      "service_credits": 8766,
+      "indirect_costs": 17928,
+      "total": 161129
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-11-26",
+    "created_at": "2024-11-23T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "7e27aff3-6d36-4826-964d-93e654809f3d",
+    "incident_number": "DMG-2023-1059",
+    "date": "2023-08-10",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6898,
+        29.4801
+      ]
+    },
+    "address": "5885 Main St, San Antonio, TX 54648",
+    "ticket_id": "4db19c10-0c31-40c9-b258-fef3f3a95a74",
+    "ticket_number": "TX-2025-100386",
+    "excavator_id": "dafb3368-1f4f-4009-8290-d7d81a7e20f1",
+    "excavator_company": "Howell - Hudson Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 2.5,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "improper_excavation_method",
+    "detailed_cause": "Used improper excavation method near marked utilities",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 263,
+      "outage_duration_hours": 9,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 83905,
+      "regulatory_fines": 31495,
+      "service_credits": 6312,
+      "indirect_costs": 16781,
+      "total": 138493
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2023-08-13",
+    "created_at": "2023-08-10T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "5d1c4167-6739-4223-b139-c61a67052c53",
+    "incident_number": "DMG-2023-1060",
+    "date": "2023-10-21",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5922,
+        29.4445
+      ]
+    },
+    "address": "8988 Commerce St, San Antonio, TX 82975",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "e99c0f77-4bc9-498e-af23-f409ae067345",
+    "excavator_company": "Bergstrom - Volkman Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "sewer",
+    "utility_owner": "SAWS",
+    "line_material": "PVC",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 6.5,
+    "damage_type": "nick",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "ignored_markings",
+    "detailed_cause": "Excavator ignored or removed utility markings",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 11,
+      "outage_duration_hours": 13,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 40781,
+      "regulatory_fines": 32184,
+      "service_credits": 308,
+      "indirect_costs": 8156,
+      "total": 81429
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional training on utility marking identification and respect for marked boundaries.",
+    "corrective_actions": [
+      "Excavator suspended from work pending investigation",
+      "Required to complete utility damage prevention training",
+      "Increased supervision required for future work"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-10-24",
+    "created_at": "2023-10-21T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "b9fd878a-c9a1-47eb-9540-5d0d672bdd07",
+    "incident_number": "DMG-2024-1061",
+    "date": "2024-04-04",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.455,
+        29.3574
+      ]
+    },
+    "address": "3525 Houston St, San Antonio, TX 34341",
+    "ticket_id": "c0a4fa83-e985-4353-b19e-ddbf043ea37f",
+    "ticket_number": "TX-2025-100317",
+    "excavator_id": "6323c556-f914-4493-b49f-a777e6df07a6",
+    "excavator_company": "Reichel - Olson Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "steel",
+    "line_diameter_inches": 16,
+    "line_depth_feet": 5.5,
+    "damage_type": "scrape",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "ignored_markings",
+    "detailed_cause": "Excavator ignored or removed utility markings",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 384,
+      "outage_duration_hours": 22,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 47438,
+      "regulatory_fines": 9469,
+      "service_credits": 18432,
+      "indirect_costs": 9487,
+      "total": 84826
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional training on utility marking identification and respect for marked boundaries.",
+    "corrective_actions": [
+      "Excavator suspended from work pending investigation",
+      "Required to complete utility damage prevention training",
+      "Increased supervision required for future work"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-04-07",
+    "created_at": "2024-04-04T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "b0432cd0-2891-42a1-876b-9ea64311238b",
+    "incident_number": "DMG-2025-1062",
+    "date": "2025-10-18",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4262,
+        29.526
+      ]
+    },
+    "address": "6688 Commerce St, San Antonio, TX 12209",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "f5c48280-f5ea-49fa-aad3-50e83d2cd0d5",
+    "excavator_company": "Jenkins - VonRueden Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 6.5,
+    "damage_type": "nick",
+    "severity": "critical",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 4854,
+      "outage_duration_hours": 36,
+      "evacuation_required": false,
+      "injuries": 1,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 178215,
+      "regulatory_fines": 143358,
+      "service_credits": 271824,
+      "indirect_costs": 35643,
+      "total": 629040
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": "RRC-2025-GIAOIL",
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-10-21",
+    "created_at": "2025-10-18T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "9952f4be-a7f4-48cc-8380-69e5b02cac88",
+    "incident_number": "DMG-2024-1063",
+    "date": "2024-01-20",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6812,
+        29.4678
+      ]
+    },
+    "address": "9554 Fredericksburg Rd, San Antonio, TX 37410",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "1dfa8b8e-04ba-424b-98b2-2a76f39e7233",
+    "excavator_company": "Russel, Hoeger and Hermiston Excavation",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "copper",
+    "line_diameter_inches": 16,
+    "line_depth_feet": 6,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 461,
+      "outage_duration_hours": 4,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 99201,
+      "regulatory_fines": 22236,
+      "service_credits": 15213,
+      "indirect_costs": 19840,
+      "total": 156490
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-01-23",
+    "created_at": "2024-01-20T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "863b4054-a3dd-40a0-8ac4-089309f70964",
+    "incident_number": "DMG-2023-1064",
+    "date": "2023-08-27",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6587,
+        29.4367
+      ]
+    },
+    "address": "9595 Flores St, San Antonio, TX 70374",
+    "ticket_id": "95addad7-17bb-4d33-b9b4-75fd8969f212",
+    "ticket_number": "TX-2025-100150",
+    "excavator_id": "ce2b9d64-4407-441a-93ea-d095972e1f25",
+    "excavator_company": "Littel LLC Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 4.5,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "failed_to_expose_verify",
+    "detailed_cause": "Failed to hand-dig and expose utilities before mechanical excavation",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 14,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 3293,
+      "regulatory_fines": 0,
+      "service_credits": 280,
+      "indirect_costs": 658,
+      "total": 4231
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2023-08-30",
+    "created_at": "2023-08-27T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "48706f9e-8e89-414d-8659-798e84bfcdf3",
+    "incident_number": "DMG-2024-1065",
+    "date": "2024-01-07",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5805,
+        29.5611
+      ]
+    },
+    "address": "373 Flores St, San Antonio, TX 12859",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "1955f2f4-75d8-4b81-9c9c-fe984bdc9628",
+    "excavator_company": "Balistreri and Sons Solutions",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 2,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 16,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 5974,
+      "regulatory_fines": 0,
+      "service_credits": 160,
+      "indirect_costs": 1194,
+      "total": 7328
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-01-10",
+    "created_at": "2024-01-07T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "aaed3363-4870-487b-97c5-896864c24a24",
+    "incident_number": "DMG-2025-1066",
+    "date": "2025-05-01",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6736,
+        29.3888
+      ]
+    },
+    "address": "9432 Fredericksburg Rd, San Antonio, TX 80817",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "fe2fd5ba-0268-4542-980d-bdbfb691acd0",
+    "excavator_company": "Considine and Sons Group",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "telecom",
+    "utility_owner": "AT&T",
+    "line_material": "copper",
+    "line_diameter_inches": 2,
+    "line_depth_feet": 6.5,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "ignored_markings",
+    "detailed_cause": "Excavator ignored or removed utility markings",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 2,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 13278,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2655,
+      "total": 15933
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional training on utility marking identification and respect for marked boundaries.",
+    "corrective_actions": [
+      "Excavator suspended from work pending investigation",
+      "Required to complete utility damage prevention training",
+      "Increased supervision required for future work"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-05-04",
+    "created_at": "2025-05-01T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "d5c01549-866e-40a7-aba4-a5319de143f5",
+    "incident_number": "DMG-2023-1067",
+    "date": "2023-12-04",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6544,
+        29.3803
+      ]
+    },
+    "address": "7526 San Pedro Ave, San Antonio, TX 72902",
+    "ticket_id": "a5ae1c27-86cc-4046-88e8-d5a6ac91116f",
+    "ticket_number": "TX-2025-100320",
+    "excavator_id": "8e2a32b1-724f-461c-96c9-8123f888a2eb",
+    "excavator_company": "Wiegand - Leffler Services",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "plastic",
+    "line_diameter_inches": 2,
+    "line_depth_feet": 6,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "didnt_wait_for_locates",
+    "detailed_cause": "Excavator did not wait for locates to be completed before digging",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 7097,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1419,
+      "total": 8516
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Reinforced requirement to wait for all locates to be completed before excavation begins.",
+    "corrective_actions": [
+      "Excavator required to complete safety training",
+      "Pre-job conference now mandatory for this excavator",
+      "Added to watch list for future tickets"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2023-12-07",
+    "created_at": "2023-12-04T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "5c9e794c-43fd-4c43-b227-9f1128dae6c7",
+    "incident_number": "DMG-2025-1068",
+    "date": "2025-09-06",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5805,
+        29.5611
+      ]
+    },
+    "address": "3767 San Pedro Ave, San Antonio, TX 38418",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "707ac952-11b3-48c2-8da2-30fbd347dab3",
+    "excavator_company": "Pagac LLC Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "copper",
+    "line_diameter_inches": 16,
+    "line_depth_feet": 7,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 4722,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 944,
+      "total": 5666
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-09-09",
+    "created_at": "2025-09-06T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "2b441e50-cbf8-4f5a-b7d6-04483834ab49",
+    "incident_number": "DMG-2025-1069",
+    "date": "2025-04-15",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5568,
+        29.543
+      ]
+    },
+    "address": "7354 Fredericksburg Rd, San Antonio, TX 36496",
+    "ticket_id": "112c8f30-0033-4179-bf48-29e66c6b138a",
+    "ticket_number": "TX-2025-100800",
+    "excavator_id": "959f5bb0-24ba-4231-a1eb-b25f35a5104e",
+    "excavator_company": "Bayer, Yost and Hane Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "sewer",
+    "utility_owner": "SAWS",
+    "line_material": "PVC",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 5,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 66,
+      "outage_duration_hours": 10,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 23978,
+      "regulatory_fines": 9951,
+      "service_credits": 1056,
+      "indirect_costs": 4795,
+      "total": 39780
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-04-18",
+    "created_at": "2025-04-15T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "3b8c696b-0c21-4860-a1c5-cfce5c218a9d",
+    "incident_number": "DMG-2023-1070",
+    "date": "2023-03-02",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5091,
+        29.463
+      ]
+    },
+    "address": "2137 McCullough Ave, San Antonio, TX 36204",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "dd26a07a-0ed5-448e-b2c6-281874218675",
+    "excavator_company": "Spencer Inc Contractors",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 6,
+    "line_depth_feet": 8,
+    "damage_type": "complete_break",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 183,
+      "outage_duration_hours": 2,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 16289,
+      "regulatory_fines": 18900,
+      "service_credits": 3843,
+      "indirect_costs": 3257,
+      "total": 42289
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2023-03-05",
+    "created_at": "2023-03-02T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "ff9d83b2-e2c4-4827-8f04-ced650f87f54",
+    "incident_number": "DMG-2024-1071",
+    "date": "2024-12-16",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.442,
+        29.5435
+      ]
+    },
+    "address": "7364 San Pedro Ave, San Antonio, TX 51550",
+    "ticket_id": "807d0e66-eb26-42ab-967a-6655be4010b5",
+    "ticket_number": "TX-2025-100960",
+    "excavator_id": "281e1da6-7504-4cd0-9312-296068974d06",
+    "excavator_company": "Graham, Stiedemann and Davis Excavation",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "telecom",
+    "utility_owner": "AT&T",
+    "line_material": "copper",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 3,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "failed_to_expose_verify",
+    "detailed_cause": "Failed to hand-dig and expose utilities before mechanical excavation",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 5,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 6631,
+      "regulatory_fines": 0,
+      "service_credits": 95,
+      "indirect_costs": 1326,
+      "total": 8052
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-12-19",
+    "created_at": "2024-12-16T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "707cb165-4380-4aea-9e1e-fee4334fe3de",
+    "incident_number": "DMG-2025-1072",
+    "date": "2025-09-22",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3949,
+        29.3233
+      ]
+    },
+    "address": "9120 Flores St, San Antonio, TX 72014",
+    "ticket_id": "56207825-852d-4386-b312-58acf0bcaba2",
+    "ticket_number": "TX-2025-100158",
+    "excavator_id": "06825cc3-845f-486e-8802-b166046d153d",
+    "excavator_company": "Bednar - Hayes Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 7,
+    "damage_type": "complete_break",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "improper_excavation_method",
+    "detailed_cause": "Used improper excavation method near marked utilities",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 345,
+      "outage_duration_hours": 18,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 26380,
+      "regulatory_fines": 43951,
+      "service_credits": 16905,
+      "indirect_costs": 5276,
+      "total": 92512
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-09-25",
+    "created_at": "2025-09-22T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "03232cc9-88a3-425f-927e-c2287709f8e7",
+    "incident_number": "DMG-2024-1073",
+    "date": "2024-02-04",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4647,
+        29.342
+      ]
+    },
+    "address": "2507 Broadway, San Antonio, TX 42404",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "6323c556-f914-4493-b49f-a777e6df07a6",
+    "excavator_company": "Reichel - Olson Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "steel",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 5,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "ignored_markings",
+    "detailed_cause": "Excavator ignored or removed utility markings",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 91,
+      "outage_duration_hours": 16,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 57869,
+      "regulatory_fines": 22489,
+      "service_credits": 2821,
+      "indirect_costs": 11573,
+      "total": 94752
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional training on utility marking identification and respect for marked boundaries.",
+    "corrective_actions": [
+      "Excavator suspended from work pending investigation",
+      "Required to complete utility damage prevention training",
+      "Increased supervision required for future work"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-02-07",
+    "created_at": "2024-02-04T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "7e11aa8c-034b-4741-8e3b-69f703d2dcd6",
+    "incident_number": "DMG-2024-1074",
+    "date": "2024-11-01",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6736,
+        29.3888
+      ]
+    },
+    "address": "9554 Broadway, San Antonio, TX 48246",
+    "ticket_id": "1b5f3793-d33f-49c7-8663-981341afadfd",
+    "ticket_number": "TX-2025-100760",
+    "excavator_id": "dc0848a6-2cea-4d70-8bf4-997aa8a29cb0",
+    "excavator_company": "Kautzer, Kreiger and Wunsch Contractors",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 3,
+    "damage_type": "nick",
+    "severity": "major",
+    "responsible_party": "unknown",
+    "root_cause": "unknown",
+    "detailed_cause": "Root cause could not be determined from available information",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 247,
+      "outage_duration_hours": 24,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 21063,
+      "regulatory_fines": 40715,
+      "service_credits": 9139,
+      "indirect_costs": 4212,
+      "total": 75129
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-11-04",
+    "created_at": "2024-11-01T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "e639ad7e-8c58-4209-9051-0b30b7cdcbe0",
+    "incident_number": "DMG-2024-1075",
+    "date": "2024-04-17",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6587,
+        29.4367
+      ]
+    },
+    "address": "5634 Zarzamora St, San Antonio, TX 30203",
+    "ticket_id": "032dc34b-6ce8-4cef-bb42-dd98c733148e",
+    "ticket_number": "TX-2025-100713",
+    "excavator_id": "a5ac3e4b-f2aa-4c39-9c5a-a633cb2bbd4a",
+    "excavator_company": "Mayert - Ward LLC",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 4.5,
+    "damage_type": "scrape",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "ignored_markings",
+    "detailed_cause": "Excavator ignored or removed utility markings",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 83,
+      "outage_duration_hours": 20,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 71076,
+      "regulatory_fines": 38947,
+      "service_credits": 3071,
+      "indirect_costs": 14215,
+      "total": 127309
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional training on utility marking identification and respect for marked boundaries.",
+    "corrective_actions": [
+      "Excavator suspended from work pending investigation",
+      "Required to complete utility damage prevention training",
+      "Increased supervision required for future work"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-04-20",
+    "created_at": "2024-04-17T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "579fd85d-e639-42d1-abc0-78ccd8a03d7e",
+    "incident_number": "DMG-2025-1076",
+    "date": "2025-10-13",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5948,
+        29.3659
+      ]
+    },
+    "address": "9858 Main St, San Antonio, TX 71307",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "a576b710-8964-4c41-af1b-6bebb79ff67a",
+    "excavator_company": "Nolan - Bogisich Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "PVC",
+    "line_diameter_inches": 16,
+    "line_depth_feet": 6.5,
+    "damage_type": "scrape",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 257,
+      "outage_duration_hours": 4,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 63946,
+      "regulatory_fines": 7945,
+      "service_credits": 10280,
+      "indirect_costs": 12789,
+      "total": 94960
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-10-16",
+    "created_at": "2025-10-13T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "c01ced17-d834-44fc-ba98-6f903e1ddc5b",
+    "incident_number": "DMG-2025-1077",
+    "date": "2025-08-10",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6398,
+        29.3271
+      ]
+    },
+    "address": "3964 Zarzamora St, San Antonio, TX 23574",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "dafb3368-1f4f-4009-8290-d7d81a7e20f1",
+    "excavator_company": "Howell - Hudson Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "PVC",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 5,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "utility_owner",
+    "root_cause": "shallow_utility",
+    "detailed_cause": "Utility was shallower than minimum depth requirements",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 491,
+      "outage_duration_hours": 16,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 45972,
+      "regulatory_fines": 47956,
+      "service_credits": 15712,
+      "indirect_costs": 9194,
+      "total": 118834
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Utility was shallower than minimum depth standards. Area flagged for future tickets. Consider raising line.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-08-13",
+    "created_at": "2025-08-10T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "14a9072c-95f1-4991-ae4a-e2e15e4ea81b",
+    "incident_number": "DMG-2025-1078",
+    "date": "2025-06-09",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.629,
+        29.3586
+      ]
+    },
+    "address": "1021 Zarzamora St, San Antonio, TX 29028",
+    "ticket_id": "7f342dc6-e99e-4688-ab3e-154cb62525a5",
+    "ticket_number": "TX-2025-100287",
+    "excavator_id": "6bb44754-68bc-480a-b57f-9f2d9986c91f",
+    "excavator_company": "Bailey, Kunze and Fisher Solutions",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 6,
+    "line_depth_feet": 6,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 339,
+      "outage_duration_hours": 8,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 40049,
+      "regulatory_fines": 20172,
+      "service_credits": 15255,
+      "indirect_costs": 8009,
+      "total": 83485
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-06-12",
+    "created_at": "2025-06-09T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "4954bdbd-3643-42c8-a849-05e7c4d1b5eb",
+    "incident_number": "DMG-2025-1079",
+    "date": "2025-05-17",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3641,
+        29.3865
+      ]
+    },
+    "address": "9139 Fredericksburg Rd, San Antonio, TX 58741",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "c170f5b4-8aa6-4dbc-b0c3-bdb16656e839",
+    "excavator_company": "Doyle Group Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "plastic",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 8,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 7203,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1440,
+      "total": 8643
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-05-20",
+    "created_at": "2025-05-17T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "5ee6c359-1d7c-4241-99cc-69319d0d04a1",
+    "incident_number": "DMG-2023-1080",
+    "date": "2023-12-13",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4015,
+        29.5637
+      ]
+    },
+    "address": "3791 Houston St, San Antonio, TX 48356",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "e99c0f77-4bc9-498e-af23-f409ae067345",
+    "excavator_company": "Bergstrom - Volkman Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "copper",
+    "line_diameter_inches": 12,
+    "line_depth_feet": 5,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 9970,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1994,
+      "total": 11964
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2023-12-16",
+    "created_at": "2023-12-13T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "afc61ffb-9cfd-4a88-a27d-e973a65805dc",
+    "incident_number": "DMG-2025-1081",
+    "date": "2025-10-19",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5329,
+        29.5795
+      ]
+    },
+    "address": "8807 Houston St, San Antonio, TX 46188",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "7ffb6782-c152-4460-a2d1-80bcb60191a6",
+    "excavator_company": "Kihn Group Excavation",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "steel",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 3,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "failed_to_expose_verify",
+    "detailed_cause": "Failed to hand-dig and expose utilities before mechanical excavation",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 16,
+      "outage_duration_hours": 21,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 72689,
+      "regulatory_fines": 26456,
+      "service_credits": 496,
+      "indirect_costs": 14537,
+      "total": 114178
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-10-22",
+    "created_at": "2025-10-19T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "8a2d4841-5f5f-4680-9047-28502f22a28c",
+    "incident_number": "DMG-2023-1082",
+    "date": "2023-11-08",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4233,
+        29.3799
+      ]
+    },
+    "address": "8187 Zarzamora St, San Antonio, TX 62810",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "a5ac3e4b-f2aa-4c39-9c5a-a633cb2bbd4a",
+    "excavator_company": "Mayert - Ward LLC",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 7.5,
+    "damage_type": "complete_break",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "failed_to_expose_verify",
+    "detailed_cause": "Failed to hand-dig and expose utilities before mechanical excavation",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 10410,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2082,
+      "total": 12492
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2023-11-11",
+    "created_at": "2023-11-08T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "dc2f9eb7-4ab7-40a1-b9b3-39e3e3fa7ad6",
+    "incident_number": "DMG-2023-1083",
+    "date": "2023-10-18",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6587,
+        29.4367
+      ]
+    },
+    "address": "8430 San Pedro Ave, San Antonio, TX 18453",
+    "ticket_id": "af63af55-830e-431d-ba25-89d510674c66",
+    "ticket_number": "TX-2025-100614",
+    "excavator_id": "436ee084-83af-403c-a644-80b61020c927",
+    "excavator_company": "Corwin, Schowalter and Stracke Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "sewer",
+    "utility_owner": "SAWS",
+    "line_material": "clay",
+    "line_diameter_inches": 6,
+    "line_depth_feet": 6,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 2,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 12654,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2530,
+      "total": 15184
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-10-21",
+    "created_at": "2023-10-18T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "04e8a697-7b3a-4125-befc-288ffe2b67fc",
+    "incident_number": "DMG-2024-1084",
+    "date": "2024-12-30",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6597,
+        29.3169
+      ]
+    },
+    "address": "3747 McCullough Ave, San Antonio, TX 95266",
+    "ticket_id": "f5a9a4d1-d143-435c-9e29-3852b4bf403a",
+    "ticket_number": "TX-2025-100847",
+    "excavator_id": "22635651-e46d-43ff-a008-aaaba6d8c2f8",
+    "excavator_company": "Grady - McGlynn Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "steel",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 5.5,
+    "damage_type": "nick",
+    "severity": "major",
+    "responsible_party": "locator",
+    "root_cause": "missed_utility",
+    "detailed_cause": "Locator failed to identify and mark utility",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 484,
+      "outage_duration_hours": 12,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 24998,
+      "regulatory_fines": 21774,
+      "service_credits": 11132,
+      "indirect_costs": 4999,
+      "total": 62903
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Additional locator training scheduled. Implemented secondary verification for complex areas.",
+    "corrective_actions": [
+      "Locator retraining completed",
+      "Implemented peer review for complex tickets",
+      "Enhanced quality control procedures"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-01-02",
+    "created_at": "2024-12-30T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "99cf7187-168e-41d8-b99c-422d0606c4a7",
+    "incident_number": "DMG-2023-1085",
+    "date": "2023-07-15",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6142,
+        29.5202
+      ]
+    },
+    "address": "7603 Flores St, San Antonio, TX 67770",
+    "ticket_id": "01dc49bc-c41b-4952-a2b4-e3113a1f46f9",
+    "ticket_number": "TX-2025-100817",
+    "excavator_id": "707ac952-11b3-48c2-8da2-30fbd347dab3",
+    "excavator_company": "Pagac LLC Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "plastic",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 3,
+    "damage_type": "nick",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 499,
+      "outage_duration_hours": 15,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 83294,
+      "regulatory_fines": 45336,
+      "service_credits": 7485,
+      "indirect_costs": 16658,
+      "total": 152773
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-07-18",
+    "created_at": "2023-07-15T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "69abd86c-0bb4-4268-9f32-749422635a31",
+    "incident_number": "DMG-2025-1086",
+    "date": "2025-01-26",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3112,
+        29.5596
+      ]
+    },
+    "address": "6657 Zarzamora St, San Antonio, TX 95628",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "22635651-e46d-43ff-a008-aaaba6d8c2f8",
+    "excavator_company": "Grady - McGlynn Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "sewer",
+    "utility_owner": "SAWS",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 6.5,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "utility_owner",
+    "root_cause": "undocumented_utility",
+    "detailed_cause": "Utility not shown on owner records or maps",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 11627,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2325,
+      "total": 13952
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-01-29",
+    "created_at": "2025-01-26T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.331Z"
+  },
+  {
+    "id": "18a7f8da-4ae6-4e18-9a3b-ff7087bcb5f3",
+    "incident_number": "DMG-2024-1087",
+    "date": "2024-06-12",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3112,
+        29.5596
+      ]
+    },
+    "address": "428 Houston St, San Antonio, TX 12856",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "0485ea99-3dbc-49b7-851a-0f286f6d97e1",
+    "excavator_company": "Effertz and Sons Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "plastic",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 3,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 7,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 7659,
+      "regulatory_fines": 0,
+      "service_credits": 154,
+      "indirect_costs": 1531,
+      "total": 9344
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-06-15",
+    "created_at": "2024-06-12T14:24:56.331Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "33e06ab2-046b-41cf-a525-3cb5534deaaa",
+    "incident_number": "DMG-2022-1088",
+    "date": "2022-12-05",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4946,
+        29.3994
+      ]
+    },
+    "address": "1958 Main St, San Antonio, TX 44769",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "5539487a-68f8-4d1f-a642-14de09021db8",
+    "excavator_company": "Breitenberg, Buckridge and Rice Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "telecom",
+    "utility_owner": "Verizon",
+    "line_material": "copper",
+    "line_diameter_inches": 1,
+    "line_depth_feet": 4.5,
+    "damage_type": "complete_break",
+    "severity": "major",
+    "responsible_party": "unknown",
+    "root_cause": "unknown",
+    "detailed_cause": "Root cause could not be determined from available information",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 269,
+      "outage_duration_hours": 21,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 53990,
+      "regulatory_fines": 26035,
+      "service_credits": 5111,
+      "indirect_costs": 10798,
+      "total": 95934
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2022-12-08",
+    "created_at": "2022-12-05T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "2fdfa248-2a09-4eaa-ae29-47ffc822b330",
+    "incident_number": "DMG-2023-1089",
+    "date": "2023-08-20",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3863,
+        29.546
+      ]
+    },
+    "address": "3620 Fredericksburg Rd, San Antonio, TX 69820",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "b3a758cf-0406-48c7-b67b-058d404d7f97",
+    "excavator_company": "Reilly - Price Excavation",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 5,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 3,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 6829,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 1365,
+      "total": 8194
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2023-08-23",
+    "created_at": "2023-08-20T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "1490b268-2364-4400-a618-4901fd445a0d",
+    "incident_number": "DMG-2024-1090",
+    "date": "2024-11-11",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5547,
+        29.3917
+      ]
+    },
+    "address": "5731 Flores St, San Antonio, TX 12853",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "d4faeea2-81ad-42b0-9191-03d812e35d56",
+    "excavator_company": "Kulas - Hilpert Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "aluminum",
+    "line_diameter_inches": null,
+    "line_depth_feet": 5.5,
+    "damage_type": "scrape",
+    "severity": "major",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_outside_tolerance",
+    "detailed_cause": "Excavated outside the marked tolerance zone",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 90,
+      "outage_duration_hours": 23,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 93853,
+      "regulatory_fines": 8170,
+      "service_credits": 1350,
+      "indirect_costs": 18770,
+      "total": 122143
+    },
+    "investigation_status": "pending",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2024-11-14",
+    "created_at": "2024-11-11T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "d7f2aaf9-2e7a-47aa-ae45-7b8e2684c0f6",
+    "incident_number": "DMG-2024-1091",
+    "date": "2024-05-23",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5805,
+        29.5611
+      ]
+    },
+    "address": "1329 McCullough Ave, San Antonio, TX 31212",
+    "ticket_id": "fab98470-a522-4f8d-af09-992a89f30b0e",
+    "ticket_number": "TX-2025-100323",
+    "excavator_id": "a5ac3e4b-f2aa-4c39-9c5a-a633cb2bbd4a",
+    "excavator_company": "Mayert - Ward LLC",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 4.5,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 9,
+      "outage_duration_hours": 4,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 4811,
+      "regulatory_fines": 0,
+      "service_credits": 162,
+      "indirect_costs": 962,
+      "total": 5935
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-05-26",
+    "created_at": "2024-05-23T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "4f9436fe-ec62-4eba-9708-7e63045f672f",
+    "incident_number": "DMG-2025-1092",
+    "date": "2025-10-05",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4304,
+        29.4935
+      ]
+    },
+    "address": "1785 Houston St, San Antonio, TX 53754",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "8e2a32b1-724f-461c-96c9-8123f888a2eb",
+    "excavator_company": "Wiegand - Leffler Services",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 8,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "failed_to_expose_verify",
+    "detailed_cause": "Failed to hand-dig and expose utilities before mechanical excavation",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 12,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 2075,
+      "regulatory_fines": 0,
+      "service_credits": 240,
+      "indirect_costs": 415,
+      "total": 2730
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-10-08",
+    "created_at": "2025-10-05T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "a964d52f-a7b0-4f6a-bf77-4291ce624869",
+    "incident_number": "DMG-2025-1093",
+    "date": "2025-08-11",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3363,
+        29.3176
+      ]
+    },
+    "address": "9605 Houston St, San Antonio, TX 65143",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "a576b710-8964-4c41-af1b-6bebb79ff67a",
+    "excavator_company": "Nolan - Bogisich Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "steel",
+    "line_diameter_inches": 8,
+    "line_depth_feet": 8,
+    "damage_type": "strike",
+    "severity": "major",
+    "responsible_party": "locator",
+    "root_cause": "wrong_depth_marked",
+    "detailed_cause": "Marked depth information was incorrect",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 500,
+      "outage_duration_hours": 12,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 86342,
+      "regulatory_fines": 5451,
+      "service_credits": 19000,
+      "indirect_costs": 17268,
+      "total": 128061
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-08-14",
+    "created_at": "2025-08-11T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "97a9cba7-48de-42f4-947d-089849206b5b",
+    "incident_number": "DMG-2024-1094",
+    "date": "2024-05-27",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.6587,
+        29.4367
+      ]
+    },
+    "address": "5198 Main St, San Antonio, TX 25968",
+    "ticket_id": "7e9887b2-9746-4974-b502-71b993d57e42",
+    "ticket_number": "TX-2025-100303",
+    "excavator_id": "0485ea99-3dbc-49b7-851a-0f286f6d97e1",
+    "excavator_company": "Effertz and Sons Development",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 4.5,
+    "damage_type": "nick",
+    "severity": "critical",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 2949,
+      "outage_duration_hours": 48,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 491679,
+      "regulatory_fines": 238346,
+      "service_credits": 238869,
+      "indirect_costs": 98335,
+      "total": 1067229
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": "RRC-2024-3SX2IW",
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-05-30",
+    "created_at": "2024-05-27T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "bea95ba2-41cf-4c07-ac8f-7f6a3cd0bf5f",
+    "incident_number": "DMG-2025-1095",
+    "date": "2025-02-12",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5365,
+        29.5046
+      ]
+    },
+    "address": "2232 Houston St, San Antonio, TX 12827",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "d5cf55b3-0202-4c7d-b66c-1ceaa05454cf",
+    "excavator_company": "Weissnat, Wunsch and Douglas Construction",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "cast_iron",
+    "line_diameter_inches": 6,
+    "line_depth_feet": 6,
+    "damage_type": "strike",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "excavated_without_ticket",
+    "detailed_cause": "Excavator began work without valid locate ticket",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 4540,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 908,
+      "total": 5448
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Emphasized importance of filing locate tickets before starting work. Enhanced pre-job safety meetings.",
+    "corrective_actions": [
+      "Excavator counseled on one-call requirements",
+      "Enhanced excavator education program implemented",
+      "Penalty assessed per state regulations"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-02-15",
+    "created_at": "2025-02-12T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "35f6e788-6359-4e91-b730-8a4590f6f563",
+    "incident_number": "DMG-2025-1096",
+    "date": "2025-07-30",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3415,
+        29.4623
+      ]
+    },
+    "address": "6499 Houston St, San Antonio, TX 65570",
+    "ticket_id": "12447ac0-601f-46ec-a81a-7f9df759b7b0",
+    "ticket_number": "TX-2025-100510",
+    "excavator_id": "959f5bb0-24ba-4231-a1eb-b25f35a5104e",
+    "excavator_company": "Bayer, Yost and Hane Corp",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "electric",
+    "utility_owner": "CPS Energy",
+    "line_material": "copper",
+    "line_diameter_inches": null,
+    "line_depth_feet": 8,
+    "damage_type": "nick",
+    "severity": "minor",
+    "responsible_party": "excavator",
+    "root_cause": "improper_excavation_method",
+    "detailed_cause": "Used improper excavation method near marked utilities",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 11225,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2245,
+      "total": 13470
+    },
+    "investigation_status": "closed",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-08-02",
+    "created_at": "2025-07-30T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "889dbd28-80a8-4618-980d-54a4fb4d6dfc",
+    "incident_number": "DMG-2025-1097",
+    "date": "2025-08-19",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3904,
+        29.5564
+      ]
+    },
+    "address": "4541 Broadway, San Antonio, TX 36290",
+    "ticket_id": null,
+    "ticket_number": null,
+    "excavator_id": "707ac952-11b3-48c2-8da2-30fbd347dab3",
+    "excavator_company": "Pagac LLC Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "plastic",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 7.5,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "utility_owner",
+    "root_cause": "inaccurate_records",
+    "detailed_cause": "Utility owner records showed incorrect location",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 4284,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 856,
+      "total": 5140
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Updated GIS records for gas utilities in this area. Flagged area for field verification on future tickets.",
+    "corrective_actions": [
+      "GIS records updated with accurate location",
+      "Field survey completed for surrounding area",
+      "Warning flag added for future tickets in this location"
+    ],
+    "photos_available": false,
+    "report_filed": true,
+    "report_date": "2025-08-22",
+    "created_at": "2025-08-19T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "55fe9470-2453-44f9-b845-8d56e62ab4f5",
+    "incident_number": "DMG-2025-1098",
+    "date": "2025-09-26",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.4173,
+        29.3518
+      ]
+    },
+    "address": "322 Main St, San Antonio, TX 00772",
+    "ticket_id": "b76ad46b-904c-44e7-96e4-073fb1cfe12d",
+    "ticket_number": "TX-2025-100753",
+    "excavator_id": "76a17d01-50ac-47c7-a1cd-181215ec0b07",
+    "excavator_company": "Kilback and Sons Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "water",
+    "utility_owner": "SAWS",
+    "line_material": "steel",
+    "line_diameter_inches": 4,
+    "line_depth_feet": 4,
+    "damage_type": "scrape",
+    "severity": "minor",
+    "responsible_party": "locator",
+    "root_cause": "inaccurate_marking",
+    "detailed_cause": "Utility marking was significantly off from actual location",
+    "consequences": {
+      "service_disruption": false,
+      "customers_affected": 0,
+      "outage_duration_hours": 0,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": true,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 14596,
+      "regulatory_fines": 0,
+      "service_credits": 0,
+      "indirect_costs": 2919,
+      "total": 17515
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": false,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2025-09-29",
+    "created_at": "2025-09-26T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  },
+  {
+    "id": "da57caea-63fd-4302-bb89-ef30f588f411",
+    "incident_number": "DMG-2024-1099",
+    "date": "2024-04-05",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.3112,
+        29.5596
+      ]
+    },
+    "address": "6903 Broadway, San Antonio, TX 24308",
+    "ticket_id": "fb2eea4f-c6ee-490d-9370-591494343d9f",
+    "ticket_number": "TX-2025-100815",
+    "excavator_id": "436ee084-83af-403c-a644-80b61020c927",
+    "excavator_company": "Corwin, Schowalter and Stracke Utilities",
+    "locator_company": "ULS Locating Service",
+    "utility_type": "gas",
+    "utility_owner": "CPS Energy",
+    "line_material": "plastic",
+    "line_diameter_inches": 2,
+    "line_depth_feet": 6,
+    "damage_type": "nick",
+    "severity": "major",
+    "responsible_party": "locator",
+    "root_cause": "incomplete_locate",
+    "detailed_cause": "Locator did not complete the entire scope of the ticket",
+    "consequences": {
+      "service_disruption": true,
+      "customers_affected": 285,
+      "outage_duration_hours": 23,
+      "evacuation_required": false,
+      "injuries": 0,
+      "fatalities": 0,
+      "property_damage": false,
+      "environmental_impact": false
+    },
+    "costs": {
+      "repair": 84766,
+      "regulatory_fines": 45943,
+      "service_credits": 7695,
+      "indirect_costs": 16953,
+      "total": 155357
+    },
+    "investigation_status": "under_review",
+    "regulatory_notification": true,
+    "regulatory_case_number": null,
+    "lessons_learned": "Standard corrective procedures implemented.",
+    "corrective_actions": [
+      "Standard corrective procedures implemented"
+    ],
+    "photos_available": true,
+    "report_filed": true,
+    "report_date": "2024-04-08",
+    "created_at": "2024-04-05T14:24:56.332Z",
+    "updated_at": "2025-11-03T14:24:56.332Z"
+  }
+]
