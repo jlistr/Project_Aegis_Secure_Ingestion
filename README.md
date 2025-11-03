@@ -86,3 +86,82 @@ Response: {"success":true,"ticket":"TX811-POC-001"}
 - GitHub Packages = trusted internal registry.
 
 ---
+
+## 🤖 SaaS Development with Cursor Cloud Agents
+
+**NEW!** Comprehensive guides for building your SaaS startup with AI assistance:
+
+### 📚 Documentation
+
+1. **[Complete Lifecycle Guide](docs/cursor-cloud-agents-saas-startup-guide.md)** (65+ pages)
+   - Phase 1: Market Research & Planning
+   - Phase 2: Business Proposals & Pitch Creation
+   - Phase 3: Sales Strategy Development
+   - Phase 4: System Architecture & Design
+   - Phase 5: Implementation & Development
+
+2. **[Practical Workflows](docs/example-workflows.md)** (30+ pages)
+   - Scenario 1: Investor Meeting Prep (4 hours)
+   - Scenario 2: MVP Development (2 weeks)
+   - Scenario 3: First Sales Call (3 hours)
+   - Scenario 4: Emergency Bug Fix (30 minutes)
+   - Scenario 5: Scaling Strategy (Next Quarter)
+
+3. **[Quick Start Summary](CURSOR-AGENTS-SUMMARY.md)**
+   - Overview of all capabilities
+   - Example commands to get started
+   - Recommended next steps
+
+### 🚀 What You'll Learn
+
+Using **Project Aegis** as a real-world example, these guides show you how to:
+- ✅ Research markets and validate SaaS ideas (days → hours)
+- ✅ Create investor pitch decks and proposals (weeks → minutes)
+- ✅ Develop sales strategies and GTM plans (instant)
+- ✅ Design scalable technical architectures (automated)
+- ✅ Accelerate feature development (50-70% faster)
+
+### 💡 Quick Examples
+
+**For Business Development:**
+```
+"Create an investor pitch deck for Project Aegis"
+"Generate 20 cold email templates for utility companies"
+"Build an ROI calculator for customers"
+```
+
+**For Technical Implementation:**
+```
+"Implement the risk calculation API with ML integration"
+"Create a Next.js dashboard showing risk scores"
+"Design multi-tenant SaaS architecture for AWS"
+```
+
+**For Strategic Planning:**
+```
+"Create a 12-week MVP development roadmap"
+"Design infrastructure scaling plan for 100K requests/month"
+"Develop customer onboarding process"
+```
+
+### 🎯 Market Opportunity
+
+**Project Aegis** addresses a $12B market:
+- 80M+ locate requests annually in the US
+- 500K+ damage incidents per year
+- Average damage cost: $75,000
+- Total industry damage costs: $37.5B/year
+
+**Target customers:** Utility companies, locate service providers, excavation companies
+
+**Competitive advantage:** First ML-powered predictive damage prevention platform
+
+---
+
+## 📖 Additional Resources
+
+- **ML Guide**: [Utility Damage Prevention ML System](docs/utility-damage-prevention-ml-guide.md)
+- **Original Documentation**: Technical setup and security practices (above)
+- **Cursor Agents Guides**: Business and development acceleration (new!)
+
+---
