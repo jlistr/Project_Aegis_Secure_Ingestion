@@ -86,3 +86,38 @@ Response: {"success":true,"ticket":"TX811-POC-001"}
 - GitHub Packages = trusted internal registry.
 
 ---
+
+## 📚 Using Cursor Cloud Agents for SaaS Development
+
+This repository includes comprehensive guides on leveraging Cursor Cloud Agents throughout your SaaS startup journey:
+
+### Guides Available
+
+1. **[Cursor Cloud Agents SaaS Guide](./docs/cursor-cloud-agents-saas-guide.md)**
+   - Complete overview of using agents for planning, research, proposals, sales, and architecture
+   - Best practices and workflow examples
+
+2. **[Agent Prompt Templates](./docs/agent-prompt-templates.md)**
+   - Ready-to-use prompt templates for different SaaS phases
+   - Copy-paste templates you can customize
+
+3. **[Example Workflows](./docs/example-workflows.md)**
+   - Step-by-step workflows for common SaaS tasks
+   - End-to-end examples from idea to implementation
+
+4. **[Project Aegis SaaS Expansion Example](./docs/aegis-saas-expansion-example.md)**
+   - Practical example showing how to transform this project into a SaaS platform
+   - Real-world application of agent workflows
+
+### Quick Start
+
+Want to use Cursor Cloud Agents for your SaaS idea? Start here:
+
+1. **Planning & Strategy**: Use the [planning templates](./docs/agent-prompt-templates.md#planning--strategy-templates) to define your MVP
+2. **Market Research**: Use the [research templates](./docs/agent-prompt-templates.md#research--market-analysis-templates) to analyze competitors
+3. **Architecture Design**: Use the [architecture templates](./docs/agent-prompt-templates.md#design--architecture-templates) to design your system
+4. **Sales Strategy**: Use the [sales templates](./docs/agent-prompt-templates.md#sales-strategy-templates) to develop your go-to-market plan
+
+See the [Aegis SaaS Expansion Example](./docs/aegis-saas-expansion-example.md) for a complete walkthrough applying these concepts to this project.
+
+---
